@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-29T10:30:17.473579+00:00",
+  "updated": "2026-10-29T23:29:26.803669+00:00",
   "status": "ok",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
-  "added": 500,
+  "added": 160,
   "added_references": 0,
-  "auto_total": 522,
-  "asset_mb": 806.9,
+  "auto_total": 682,
+  "asset_mb": 849.9,
   "budget_mb": 850,
   "sources": [
     {
@@ -15,7 +15,7 @@
       "url": "https://ambientcg.com/",
       "mode": "自动入库",
       "state": "partial",
-      "added": 250,
+      "added": 159,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
@@ -25,6 +25,10 @@
         {
           "asset": "Ground095C",
           "error": "list indices must be integers or slices, not str"
+        },
+        {
+          "asset": "Leather036A",
+          "error": "storage_budget_reached"
         }
       ]
     },
@@ -34,10 +38,15 @@
       "region": "国外",
       "url": "https://polyhaven.com/textures",
       "mode": "自动入库",
-      "state": "ok",
-      "added": 250,
+      "state": "partial",
+      "added": 1,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
-      "errors": []
+      "errors": [
+        {
+          "asset": "patterned_concrete_wall",
+          "error": "storage_budget_reached"
+        }
+      ]
     },
     {
       "id": "znzmo",
@@ -126,8 +135,8 @@
       "url": "https://www.58pic.com/",
       "mode": "公开线索",
       "added": 0,
-      "state": "ok",
-      "detail": "已读取公开详情链接，未下载或转存原图"
+      "state": "no_entries",
+      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
     },
     {
       "id": "ibaotu",
@@ -156,8 +165,8 @@
       "url": "https://www.sharetextures.com/assets",
       "mode": "公开线索",
       "added": 0,
-      "state": "unavailable",
-      "detail": "公开页面暂不可获取：The read operation timed out"
+      "state": "no_entries",
+      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
     },
     {
       "id": "texturescom",
