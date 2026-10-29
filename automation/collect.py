@@ -144,7 +144,7 @@ def run(max_new=20):
         try:
             quota=min(10,max_new-new);added,report,size=acquire(source,ids,quota,size);items+=added;new+=len(added);reports.append(report)
         except Exception as exc:reports.append({'id':source['id'],'name':source['name'],'region':source['region'],'url':source['url'],'mode':'自动入库','state':'error','added':0,'detail':str(exc)[:160]})
-    references=[x for x in load('discovery-data.json',{'items':[]})['items'] if valid_detail(x['url'],x['name'])];known={x['id'] for x in references};added_refs=0
+    references=[dict(x,material=classify(x['name']+' '+urllib.parse.urlsplit(x['url']).path)) for x in load('discovery-data.json',{'items':[]})['items'] if valid_detail(x['url'],x['name'])];known={x['id'] for x in references};added_refs=0
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
         for found,report in pool.map(discover,[x for x in sources if x['mode']=='catalog']):
             for it in found:
