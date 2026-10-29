@@ -1,11 +1,11 @@
 window.SYNC_STATUS = {
-  "updated": "2026-10-29T09:57:21.804913+00:00",
+  "updated": "2026-10-29T10:30:17.473579+00:00",
   "status": "ok",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
-  "added": 20,
+  "added": 500,
   "added_references": 0,
-  "auto_total": 22,
-  "asset_mb": 696.9,
+  "auto_total": 522,
+  "asset_mb": 806.9,
   "budget_mb": 850,
   "sources": [
     {
@@ -14,10 +14,19 @@ window.SYNC_STATUS = {
       "region": "国外",
       "url": "https://ambientcg.com/",
       "mode": "自动入库",
-      "state": "ok",
-      "added": 10,
+      "state": "partial",
+      "added": 250,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
-      "errors": []
+      "errors": [
+        {
+          "asset": "Ground096C",
+          "error": "list indices must be integers or slices, not str"
+        },
+        {
+          "asset": "Ground095C",
+          "error": "list indices must be integers or slices, not str"
+        }
+      ]
     },
     {
       "id": "polyhaven",
@@ -26,7 +35,7 @@ window.SYNC_STATUS = {
       "url": "https://polyhaven.com/textures",
       "mode": "自动入库",
       "state": "ok",
-      "added": 10,
+      "added": 250,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": []
     },

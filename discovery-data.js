@@ -1,6 +1,6 @@
 window.DISCOVERY_DATA = {
   "meta": {
-    "updated": "2026-10-29T09:57:21.804913+00:00",
+    "updated": "2026-10-29T10:30:17.473579+00:00",
     "total": 28
   },
   "items": [
@@ -274,7 +274,7 @@ window.DISCOVERY_DATA = {
       "url": "https://www.cgbookcase.com/textures/snow-covered-path-01",
       "provider": "CGBookcase",
       "region": "国外",
-      "material": "待分类",
+      "material": "自然地面",
       "kind": "原站素材线索",
       "license": "未转存图片；下载条件与授权以原站为准",
       "discovered": "2026-10-29T09:51:02.432412+00:00"
