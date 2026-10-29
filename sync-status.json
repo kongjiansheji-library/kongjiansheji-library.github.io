@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-29T09:51:39.337872+00:00",
+  "updated": "2026-10-29T09:57:21.804913+00:00",
   "status": "ok",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
-  "added": 2,
-  "added_references": 31,
-  "auto_total": 2,
-  "asset_mb": 690.7,
+  "added": 20,
+  "added_references": 0,
+  "auto_total": 22,
+  "asset_mb": 696.9,
   "budget_mb": 850,
   "sources": [
     {
@@ -15,7 +15,7 @@
       "url": "https://ambientcg.com/",
       "mode": "自动入库",
       "state": "ok",
-      "added": 2,
+      "added": 10,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": []
     },
@@ -26,7 +26,7 @@
       "url": "https://polyhaven.com/textures",
       "mode": "自动入库",
       "state": "ok",
-      "added": 0,
+      "added": 10,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": []
     },
@@ -67,8 +67,8 @@
       "url": "https://www.om.cn/",
       "mode": "公开线索",
       "added": 0,
-      "state": "no_entries",
-      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
+      "state": "restricted",
+      "detail": "无法核实原站robots规则，暂不采集页面"
     },
     {
       "id": "banjiajia",
@@ -76,7 +76,7 @@
       "region": "国内",
       "url": "https://www.banjiajia.com/categories/202",
       "mode": "公开线索",
-      "added": 12,
+      "added": 0,
       "state": "ok",
       "detail": "已读取公开详情链接，未下载或转存原图"
     },
@@ -116,7 +116,7 @@
       "region": "国内",
       "url": "https://www.58pic.com/",
       "mode": "公开线索",
-      "added": 4,
+      "added": 0,
       "state": "ok",
       "detail": "已读取公开详情链接，未下载或转存原图"
     },
@@ -136,7 +136,7 @@
       "region": "国外",
       "url": "https://www.cgbookcase.com/textures",
       "mode": "公开线索",
-      "added": 15,
+      "added": 0,
       "state": "ok",
       "detail": "已读取公开详情链接，未下载或转存原图"
     },

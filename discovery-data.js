@@ -1,20 +1,9 @@
 window.DISCOVERY_DATA = {
   "meta": {
-    "updated": "2026-10-29T09:51:39.337872+00:00",
-    "total": 31
+    "updated": "2026-10-29T09:57:21.804913+00:00",
+    "total": 28
   },
   "items": [
-    {
-      "id": "ref_05ed894dcc38606a",
-      "name": "材质贴图",
-      "url": "http://www.banjiajia.com/categories/202",
-      "provider": "扮家家",
-      "region": "国内",
-      "material": "待分类",
-      "kind": "原站素材线索",
-      "license": "未转存图片；下载条件与授权以原站为准",
-      "discovered": "2026-10-29T09:50:59.867747+00:00"
-    },
     {
       "id": "ref_11038c6b84eaeabf",
       "name": "扮家家D-vision材质库,Corona版本写实级别材质-扮家家技术组出品",
@@ -77,17 +66,6 @@ window.DISCOVERY_DATA = {
       "provider": "扮家家",
       "region": "国内",
       "material": "石材",
-      "kind": "原站素材线索",
-      "license": "未转存图片；下载条件与授权以原站为准",
-      "discovered": "2026-10-29T09:50:59.867747+00:00"
-    },
-    {
-      "id": "ref_e45da588fdec9147",
-      "name": "能否出一下材质面板里，材质批量重命名的插件",
-      "url": "http://www.banjiajia.com/posts/103508",
-      "provider": "扮家家",
-      "region": "国内",
-      "material": "待分类",
       "kind": "原站素材线索",
       "license": "未转存图片；下载条件与授权以原站为准",
       "discovered": "2026-10-29T09:50:59.867747+00:00"
@@ -162,17 +140,6 @@ window.DISCOVERY_DATA = {
       "id": "ref_552f5d3f060f9990",
       "name": "朱红绢面纹理材质理质感背景素材",
       "url": "https://www.58pic.com/newpic/76505907.html",
-      "provider": "千图网",
-      "region": "国内",
-      "material": "待分类",
-      "kind": "原站素材线索",
-      "license": "未转存图片；下载条件与授权以原站为准",
-      "discovered": "2026-10-29T09:51:00.998285+00:00"
-    },
-    {
-      "id": "ref_49066888134cc56e",
-      "name": "充气软体材质风格",
-      "url": "https://ai.58pic.com/app/2421-copy-mv52o5yb-copy-mv6f3rc3-copy-mv-copy-mvqff2cx",
       "provider": "千图网",
       "region": "国内",
       "material": "待分类",
