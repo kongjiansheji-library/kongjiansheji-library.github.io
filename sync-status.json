@@ -1,0 +1,164 @@
+{
+  "updated": "2026-10-29T09:51:39.337872+00:00",
+  "status": "ok",
+  "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
+  "added": 2,
+  "added_references": 31,
+  "auto_total": 2,
+  "asset_mb": 690.7,
+  "budget_mb": 850,
+  "sources": [
+    {
+      "id": "ambientcg",
+      "name": "ambientCG",
+      "region": "国外",
+      "url": "https://ambientcg.com/",
+      "mode": "自动入库",
+      "state": "ok",
+      "added": 2,
+      "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
+      "errors": []
+    },
+    {
+      "id": "polyhaven",
+      "name": "Poly Haven",
+      "region": "国外",
+      "url": "https://polyhaven.com/textures",
+      "mode": "自动入库",
+      "state": "ok",
+      "added": 0,
+      "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
+      "errors": []
+    },
+    {
+      "id": "znzmo",
+      "name": "知末",
+      "region": "国内",
+      "url": "https://tietu.znzmo.com/",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "no_entries",
+      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
+    },
+    {
+      "id": "3d66",
+      "name": "3D溜溜网",
+      "region": "国内",
+      "url": "https://www.3d66.com/",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "no_entries",
+      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
+    },
+    {
+      "id": "justeasy",
+      "name": "建E网",
+      "region": "国内",
+      "url": "https://www.justeasy.cn/",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "no_entries",
+      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
+    },
+    {
+      "id": "om",
+      "name": "欧模网",
+      "region": "国内",
+      "url": "https://www.om.cn/",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "no_entries",
+      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
+    },
+    {
+      "id": "banjiajia",
+      "name": "扮家家",
+      "region": "国内",
+      "url": "https://www.banjiajia.com/categories/202",
+      "mode": "公开线索",
+      "added": 12,
+      "state": "ok",
+      "detail": "已读取公开详情链接，未下载或转存原图"
+    },
+    {
+      "id": "moxingyun",
+      "name": "模型云",
+      "region": "国内",
+      "url": "https://www.moxingyun.com/",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "restricted",
+      "detail": "无法核实原站robots规则，暂不采集页面"
+    },
+    {
+      "id": "3dxia",
+      "name": "3D侠",
+      "region": "国内",
+      "url": "https://www.3dxia.com/",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "restricted",
+      "detail": "无法核实原站robots规则，暂不采集页面"
+    },
+    {
+      "id": "cgmodel",
+      "name": "CG模型网",
+      "region": "国内",
+      "url": "https://www.cgmodel.com/",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "restricted",
+      "detail": "原站robots规则不允许访问此栏目，已跳过"
+    },
+    {
+      "id": "58pic",
+      "name": "千图网",
+      "region": "国内",
+      "url": "https://www.58pic.com/",
+      "mode": "公开线索",
+      "added": 4,
+      "state": "ok",
+      "detail": "已读取公开详情链接，未下载或转存原图"
+    },
+    {
+      "id": "ibaotu",
+      "name": "包图网",
+      "region": "国内",
+      "url": "https://ibaotu.com/",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "no_entries",
+      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
+    },
+    {
+      "id": "cgbookcase",
+      "name": "CGBookcase",
+      "region": "国外",
+      "url": "https://www.cgbookcase.com/textures",
+      "mode": "公开线索",
+      "added": 15,
+      "state": "ok",
+      "detail": "已读取公开详情链接，未下载或转存原图"
+    },
+    {
+      "id": "sharetextures",
+      "name": "ShareTextures",
+      "region": "国外",
+      "url": "https://www.sharetextures.com/assets",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "unavailable",
+      "detail": "公开页面暂不可获取：The read operation timed out"
+    },
+    {
+      "id": "texturescom",
+      "name": "Textures.com",
+      "region": "国外",
+      "url": "https://www.textures.com/library",
+      "mode": "公开线索",
+      "added": 0,
+      "state": "no_entries",
+      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
+    }
+  ]
+}

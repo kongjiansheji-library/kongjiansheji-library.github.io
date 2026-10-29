@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": "2026-10-29T09:51:39.337872+00:00",
+    "total": 2
+  },
+  "items": [
+    {
+      "id": "acg_Clay009",
+      "name": "Clay 009",
+      "label": "待分类 · Clay 009",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "009",
+        "9",
+        "clay",
+        "clay009",
+        "flat",
+        "patches",
+        "smooth",
+        "Clay"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Clay009",
+      "source": "https://ambientcg.com/a/Clay009",
+      "original_url": "https://ambientcg.com/get?file=Clay009_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-10-29T09:50:48.088704+00:00",
+      "image": "images/auto/acg_Clay009.jpg",
+      "thumb": "thumbs/auto/acg_Clay009.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "39101cfca5ae179ee1246921f7375ffd5bb58e15bb071ac8379bfbe59552244d"
+    },
+    {
+      "id": "acg_Clay008",
+      "name": "Clay 008",
+      "label": "待分类 · Clay 008",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "008",
+        "8",
+        "clay",
+        "clay008",
+        "rake",
+        "streaks",
+        "Clay"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Clay008",
+      "source": "https://ambientcg.com/a/Clay008",
+      "original_url": "https://ambientcg.com/get?file=Clay008_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-10-29T09:50:56.988628+00:00",
+      "image": "images/auto/acg_Clay008.jpg",
+      "thumb": "thumbs/auto/acg_Clay008.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "81a010b4eb9488d5e14e5762b0e5850251459c54032c9eb5120d5b8d5e2d69b7"
+    }
+  ]
+}

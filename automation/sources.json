@@ -1,0 +1,17 @@
+[
+  {"id":"znzmo","name":"知末","region":"国内","url":"https://tietu.znzmo.com/","mode":"catalog","note":"检查公开贴图页面；高清下载按原站账号与授权规则"},
+  {"id":"3d66","name":"3D溜溜网","region":"国内","url":"https://www.3d66.com/","mode":"catalog","note":"公开素材线索；登录、下载币与会员素材仍在原站获取"},
+  {"id":"justeasy","name":"建E网","region":"国内","url":"https://www.justeasy.cn/","mode":"catalog","note":"检查公开材质与贴图线索"},
+  {"id":"om","name":"欧模网","region":"国内","url":"https://www.om.cn/","mode":"catalog","note":"检查公开素材线索；动态页面可能不能提取"},
+  {"id":"banjiajia","name":"扮家家","region":"国内","url":"https://www.banjiajia.com/categories/202","mode":"catalog","note":"材质贴图公开栏目"},
+  {"id":"moxingyun","name":"模型云","region":"国内","url":"https://www.moxingyun.com/","mode":"catalog","note":"检查公开素材线索"},
+  {"id":"3dxia","name":"3D侠","region":"国内","url":"https://www.3dxia.com/","mode":"catalog","note":"检查公开素材线索"},
+  {"id":"cgmodel","name":"CG模型网","region":"国内","url":"https://www.cgmodel.com/","mode":"catalog","note":"只记录明确标注材质贴图的公开详情，不采集带贴图模型"},
+  {"id":"58pic","name":"千图网","region":"国内","url":"https://www.58pic.com/","mode":"catalog","note":"仅收集公开贴图线索；授权下载仍在原站"},
+  {"id":"ibaotu","name":"包图网","region":"国内","url":"https://ibaotu.com/","mode":"catalog","note":"仅收集公开贴图线索；授权下载仍在原站"},
+  {"id":"ambientcg","name":"ambientCG","region":"国外","url":"https://ambientcg.com/","mode":"ambient_api","note":"公开API；CC0颜色贴图自动下载并分类"},
+  {"id":"polyhaven","name":"Poly Haven","region":"国外","url":"https://polyhaven.com/textures","mode":"polyhaven_api","note":"公开API；CC0颜色贴图自动下载并分类"},
+  {"id":"cgbookcase","name":"CGBookcase","region":"国外","url":"https://www.cgbookcase.com/textures","mode":"catalog","note":"CC0材质库；当前接入公开详情索引，原图下载适配待接入"},
+  {"id":"sharetextures","name":"ShareTextures","region":"国外","url":"https://www.sharetextures.com/assets","mode":"catalog","note":"只检查公开索引；尚未接入原图下载，遵循该站获取条款"},
+  {"id":"texturescom","name":"Textures.com","region":"国外","url":"https://www.textures.com/library","mode":"catalog","note":"公开索引检查；账号、积分与素材许可按原站执行"}
+]
