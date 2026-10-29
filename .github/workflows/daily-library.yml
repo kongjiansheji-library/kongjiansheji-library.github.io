@@ -16,7 +16,7 @@ concurrency:
 jobs:
   collect-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 55
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -33,7 +33,7 @@ jobs:
         id: collect
         if: github.event_name != 'push'
         continue-on-error: true
-        run: python automation/collect.py --max-new 20
+        run: python automation/collect.py --max-new 500
       - name: Preserve results
         if: github.event_name != 'push'
         run: |

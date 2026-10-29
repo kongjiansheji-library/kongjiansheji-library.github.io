@@ -7,7 +7,7 @@ ROOT=pathlib.Path(__file__).resolve().parents[1]
 USER_AGENT='KongjianShejiLibrary/1.0 (+https://kongjiansheji-library.github.io/)'
 MAX_RESPONSE=30*1024*1024
 ASSET_BUDGET=850*1024*1024
-RULES=[('木纹',r'wood|parquet|plank|timber|oak|walnut|bark|木纹|木地板|木饰面'),('大理石',r'marble|大理石'),('水磨石',r'terrazzo|水磨石'),('瓷砖',r'tile|ceramic|porcelain|瓷砖|地砖|墙砖|马赛克'),('砖墙',r'brick|砖墙'),('混凝土',r'concrete|cement|mortar|水泥|混凝土|砂浆'),('皮革',r'leather|皮革'),('地毯',r'carpet|地毯'),('布艺',r'fabric|textile|cloth|denim|布艺|布料|织物|丝绒|绒面|绢面'),('金属',r'metal|steel|iron|aluminium|aluminum|copper|rust|金属|钢|铝|铜'),('石材',r'stone|rock|granite|石材|岩石|花岗岩'),('涂料',r'plaster|stucco|paint|涂料|灰泥|乳胶漆|涂层'),('玻璃',r'glass|玻璃'),('墙纸',r'wallpaper|墙纸|壁纸'),('自然地面',r'ground|sand|soil|mud|grass|沙地|泥土|草地')]
+RULES=[('木纹',r'wood|parquet|plank|timber|oak|walnut|bark|木纹|木地板|木饰面'),('大理石',r'marble|大理石'),('水磨石',r'terrazzo|水磨石'),('瓷砖',r'tile|ceramic|porcelain|瓷砖|地砖|墙砖|马赛克'),('砖墙',r'brick|砖墙'),('混凝土',r'concrete|cement|mortar|水泥|混凝土|砂浆'),('皮革',r'leather|皮革'),('地毯',r'carpet|地毯'),('布艺',r'fabric|textile|cloth|denim|布艺|布料|织物|丝绒|绒面|绢面'),('金属',r'metal|steel|iron|aluminium|aluminum|copper|rust|金属|钢|铝|铜'),('石材',r'stone|rock|granite|石材|岩石|花岗岩'),('涂料',r'plaster|stucco|paint|涂料|灰泥|乳胶漆|涂层'),('玻璃',r'glass|玻璃'),('墙纸',r'wallpaper|墙纸|壁纸'),('自然地面',r'ground|sand|soil|mud|grass|clay|snow|沙地|泥土|草地|黏土|粘土')]
 def classify(text):
     text=text.lower()
     for name,pattern in RULES:
@@ -61,13 +61,20 @@ def existing_ids(items):
         if 'ambientcg.com' in it.get('source',''):ids.add('ambientcg:'+ident)
         if it.get('provider_asset_id'):ids.add(it.get('provider_key','')+':'+it['provider_asset_id'])
     return ids
+def ambient_candidates():
+    # Walk past already imported first-page assets to backfill the full catalog.
+    for offset in range(0,10000,250):
+        page=getjson('https://ambientcg.com/api/v2/full_json?type=Material&limit=250&offset='+str(offset)+'&sort=Latest&include=downloadData,imageData,tagData')
+        assets=page.get('foundAssets',[])
+        for a in assets:yield a['assetId'],a
+        if len(assets)<250:break
+
 def acquire(source,existing,quota,size):
-    added=[];failures=[];name=source['name'];key=source['id'];checked=0;deadline=time.monotonic()+180
+    added=[];failures=[];name=source['name'];key=source['id'];checked=0;deadline=time.monotonic()+900
     if key=='polyhaven':
         catalog=getjson('https://api.polyhaven.com/assets?t=textures');candidates=sorted(catalog.items(),key=lambda x:x[1].get('date_published',0),reverse=True)
     else:
-        catalog=getjson('https://ambientcg.com/api/v2/full_json?type=Material&limit=250&sort=Latest&include=downloadData,imageData')
-        candidates=[(a['assetId'],a) for a in catalog['foundAssets']]
+        candidates=ambient_candidates()
     for asset_id,a in candidates:
         if len(added)>=quota or checked>=quota*4:break
         if time.monotonic()>deadline:failures.append({'asset':asset_id,'error':'source_time_budget_reached'});break
@@ -92,6 +99,7 @@ def acquire(source,existing,quota,size):
             data,delta=store_image(raw,ident,size);size+=delta
             material=classify(' '.join([asset_id,title]+tags))
             added.append(dict(id=ident,name=title,label=material+' · '+title,material=material,styles=[],rooms=[],tags=tags,provider=name,provider_key=key,provider_asset_id=asset_id,source=original,original_url=url,license='CC0 公共领域',author=author,added=datetime.datetime.now(datetime.timezone.utc).isoformat(),**data));existing.add(key+':'+asset_id);existing.add(digest)
+            print(json.dumps({'progress':key,'added':len(added),'asset':asset_id}),flush=True)
         except Exception as exc:
             failures.append({'asset':asset_id,'error':str(exc)[:160]})
             if 'storage_budget_reached' in str(exc):break
@@ -135,14 +143,16 @@ def discover(source):
         return found,result
     except Exception as exc:result.update(state='unavailable',detail='公开页面暂不可获取：'+str(exc)[:150]);return [],result
 
-def run(max_new=20):
-    sources=load('automation/sources.json',[]);old=load('auto-data.json',{'meta':{},'items':[]});items=list(old['items']);allitems=items[:]
+def run(max_new=500):
+    sources=load('automation/sources.json',[]);old=load('auto-data.json',{'meta':{},'items':[]});items=[dict(x,material=classify(' '.join([x['name'],x.get('provider_asset_id','')]+x.get('tags',[])))) for x in old['items']];
+    for x in items:x['label']=x['material']+' · '+x['name']
+    allitems=items[:]
     for file in ['data.json','extra-data.json','benif-data.json']:allitems+=load(file,{'items':[]})['items']
     ids=existing_ids(allitems);ids.update(x['sha256'] for x in allitems if x.get('sha256'))
     size=sum(p.stat().st_size for folder in ['images','thumbs'] for p in (ROOT/folder).rglob('*') if p.is_file());reports=[];new=0
     for source in [x for x in sources if x['mode'].endswith('_api')]:
         try:
-            quota=min(10,max_new-new);added,report,size=acquire(source,ids,quota,size);items+=added;new+=len(added);reports.append(report)
+            quota=min((max_new+1)//2,max_new-new);added,report,size=acquire(source,ids,quota,size);items+=added;new+=len(added);reports.append(report)
         except Exception as exc:reports.append({'id':source['id'],'name':source['name'],'region':source['region'],'url':source['url'],'mode':'自动入库','state':'error','added':0,'detail':str(exc)[:160]})
     references=[dict(x,material=classify(x['name']+' '+urllib.parse.urlsplit(x['url']).path)) for x in load('discovery-data.json',{'items':[]})['items'] if valid_detail(x['url'],x['name'])];known={x['id'] for x in references};added_refs=0
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
@@ -158,4 +168,4 @@ def run(max_new=20):
     print(json.dumps(report,ensure_ascii=True),flush=True)
     if status=='failed':raise SystemExit('All automatic image providers failed; see sync-status.json')
 if __name__=='__main__':
-    parser=argparse.ArgumentParser();parser.add_argument('--max-new',type=int,default=20);args=parser.parse_args();assert 0<=args.max_new<=40;run(args.max_new)
+    parser=argparse.ArgumentParser();parser.add_argument('--max-new',type=int,default=500);args=parser.parse_args();assert 0<=args.max_new<=1000;run(args.max_new)

@@ -5,7 +5,7 @@
 ## 调度与发布
 
 - 每天 UTC 19:23，即北京时间次日03:23运行；GitHub排队可能延迟。
-- 每次最多新增20张颜色贴图，每个已适配API最多10张。
+- 每次最多新增500张颜色贴图，每个已适配API最多250张；各来源最多运行15分钟，并受总容量限制。ambientCG分页遍历目录，补充未入库旧素材。
 - `workflow_dispatch` 支持手动触发验证。
 - 从最新目录查找未入库素材，同时补充目录中缺失的旧素材；“本次新增”指新入本库，不代表源站当天发布。
 - 采集结果提交到main，并在同一个任务中生成Pages部署产物。无需额外个人Token。
@@ -25,7 +25,7 @@
 ```
 python -m pip install 'Pillow>=11.3,<13'
 python -m unittest discover -s automation -p 'test_*.py'
-python automation/collect.py --max-new 20
+python automation/collect.py --max-new 500
 python automation/build_site.py
 ```
 
