@@ -7,7 +7,7 @@ ROOT=pathlib.Path(__file__).resolve().parents[1]
 USER_AGENT='KongjianShejiLibrary/1.0 (+https://kongjiansheji-library.github.io/)'
 MAX_RESPONSE=30*1024*1024
 ASSET_BUDGET=850*1024*1024
-RULES=[('木纹',r'wood|parquet|plank|timber|oak|walnut|bark|木纹|木地板|木饰面'),('大理石',r'marble|大理石'),('瓷砖',r'tile|ceramic|porcelain|瓷砖|地砖|墙砖|马赛克'),('水磨石',r'terrazzo|水磨石'),('砖墙',r'brick|砖墙'),('混凝土',r'concrete|cement|mortar|水泥|混凝土|砂浆'),('皮革',r'leather|皮革'),('地毯',r'carpet|地毯'),('布艺',r'fabric|textile|cloth|denim|布艺|布料|织物|丝绒|绒面|绢面'),('金属',r'metal|steel|iron|aluminium|aluminum|copper|rust|金属|钢|铝|铜'),('石材',r'stone|rock|granite|石材|岩石|花岗岩'),('涂料',r'plaster|stucco|paint|涂料|灰泥|乳胶漆|涂层'),('玻璃',r'glass|玻璃'),('墙纸',r'wallpaper|墙纸|壁纸'),('自然地面',r'ground|sand|soil|mud|grass|沙地|泥土|草地')]
+RULES=[('木纹',r'wood|parquet|plank|timber|oak|walnut|bark|木纹|木地板|木饰面'),('大理石',r'marble|大理石'),('水磨石',r'terrazzo|水磨石'),('瓷砖',r'tile|ceramic|porcelain|瓷砖|地砖|墙砖|马赛克'),('砖墙',r'brick|砖墙'),('混凝土',r'concrete|cement|mortar|水泥|混凝土|砂浆'),('皮革',r'leather|皮革'),('地毯',r'carpet|地毯'),('布艺',r'fabric|textile|cloth|denim|布艺|布料|织物|丝绒|绒面|绢面'),('金属',r'metal|steel|iron|aluminium|aluminum|copper|rust|金属|钢|铝|铜'),('石材',r'stone|rock|granite|石材|岩石|花岗岩'),('涂料',r'plaster|stucco|paint|涂料|灰泥|乳胶漆|涂层'),('玻璃',r'glass|玻璃'),('墙纸',r'wallpaper|墙纸|壁纸'),('自然地面',r'ground|sand|soil|mud|grass|沙地|泥土|草地')]
 def classify(text):
     text=text.lower()
     for name,pattern in RULES:
@@ -62,7 +62,7 @@ def existing_ids(items):
         if it.get('provider_asset_id'):ids.add(it.get('provider_key','')+':'+it['provider_asset_id'])
     return ids
 def acquire(source,existing,quota,size):
-    added=[];failures=[];name=source['name'];key=source['id'];checked=0
+    added=[];failures=[];name=source['name'];key=source['id'];checked=0;deadline=time.monotonic()+180
     if key=='polyhaven':
         catalog=getjson('https://api.polyhaven.com/assets?t=textures');candidates=sorted(catalog.items(),key=lambda x:x[1].get('date_published',0),reverse=True)
     else:
@@ -70,6 +70,7 @@ def acquire(source,existing,quota,size):
         candidates=[(a['assetId'],a) for a in catalog['foundAssets']]
     for asset_id,a in candidates:
         if len(added)>=quota or checked>=quota*4:break
+        if time.monotonic()>deadline:failures.append({'asset':asset_id,'error':'source_time_budget_reached'});break
         if key+':'+asset_id in existing:continue
         checked+=1;ident=('ph_' if key=='polyhaven' else 'acg_')+asset_id
         try:
@@ -94,7 +95,7 @@ def acquire(source,existing,quota,size):
         except Exception as exc:
             failures.append({'asset':asset_id,'error':str(exc)[:160]})
             if 'storage_budget_reached' in str(exc):break
-    return added,{'id':key,'name':name,'region':source['region'],'url':source['url'],'mode':'自动入库','state':'ok' if not failures else 'partial','added':len(added),'detail':'已检查公开API，新图自动分类；颜色标签为图像估计','errors':failures},size
+    return added,{'id':key,'name':name,'region':source['region'],'url':source['url'],'mode':'自动入库','state':('ok' if not failures else ('partial' if added else 'error')),'added':len(added),'detail':'已检查公开API，新图自动分类；颜色标签为图像估计','errors':failures},size
 
 class Anchors(HTMLParser):
     def __init__(self):super().__init__();self.links=[];self.href=None;self.parts=[]
