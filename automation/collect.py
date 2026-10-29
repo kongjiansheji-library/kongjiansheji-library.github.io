@@ -7,7 +7,7 @@ ROOT=pathlib.Path(__file__).resolve().parents[1]
 USER_AGENT='KongjianShejiLibrary/1.0 (+https://kongjiansheji-library.github.io/)'
 MAX_RESPONSE=30*1024*1024
 ASSET_BUDGET=850*1024*1024
-RULES=[('木纹',r'wood|parquet|plank|timber|oak|walnut|bark|木纹|木地板|木饰面'),('大理石',r'marble|大理石'),('水磨石',r'terrazzo|水磨石'),('瓷砖',r'tile|ceramic|porcelain|瓷砖|地砖|墙砖|马赛克'),('砖墙',r'brick|砖墙'),('混凝土',r'concrete|cement|mortar|水泥|混凝土|砂浆'),('皮革',r'leather|皮革'),('地毯',r'carpet|地毯'),('布艺',r'fabric|textile|cloth|denim|布艺|布料|织物|丝绒|绒面|绢面'),('金属',r'metal|steel|iron|aluminium|aluminum|copper|rust|金属|钢|铝|铜'),('石材',r'stone|rock|granite|石材|岩石|花岗岩'),('涂料',r'plaster|stucco|paint|涂料|灰泥|乳胶漆|涂层'),('玻璃',r'glass|玻璃'),('墙纸',r'wallpaper|墙纸|壁纸'),('自然地面',r'ground|sand|soil|mud|grass|clay|snow|沙地|泥土|草地|黏土|粘土')]
+RULES=[('沥青',r'asphalt|tarmac|沥青'),('软木',r'cork|软木'),('橡胶',r'rubber|橡胶'),('塑料与泡沫',r'plastic|styrofoam|foam|塑料|泡沫'),('榻榻米',r'tatami|榻榻米'),('网绳编织',r'\bnet\b|netting|rope|网绳|编织网'),('装饰纹样',r'ornament|christmas|装饰纹样'),('食品表面',r'\bfood\b|pizza|食品'),('污渍',r'smear|污渍'),('木纹',r'wood|parquet|plank|timber|oak|walnut|bark|木纹|木地板|木饰面'),('大理石',r'marble|大理石'),('水磨石',r'terrazzo|水磨石'),('瓷砖',r'tile|ceramic|porcelain|瓷砖|地砖|墙砖|马赛克'),('砖墙',r'brick|砖墙'),('混凝土',r'concrete|cement|mortar|水泥|混凝土|砂浆'),('皮革',r'leather|皮革'),('地毯',r'carpet|地毯'),('布艺',r'fabric|textile|cloth|denim|布艺|布料|织物|丝绒|绒面|绢面'),('金属',r'metal|steel|iron|aluminium|aluminum|copper|rust|金属|钢|铝|铜'),('石材',r'stone|rock|granite|gravel|pebble|石材|岩石|花岗岩'),('涂料',r'plaster|stucco|paint|涂料|灰泥|乳胶漆|涂层'),('玻璃',r'glass|玻璃'),('墙纸',r'wallpaper|墙纸|壁纸'),('自然地面',r'ground|sand|soil|mud|grass|clay|snow|沙地|泥土|草地|黏土|粘土')]
 def classify(text):
     text=text.lower()
     for name,pattern in RULES:

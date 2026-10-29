@@ -114,8 +114,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Clay006",
       "name": "Clay 006",
-      "label": "自然地面 · Clay 006",
-      "material": "自然地面",
+      "label": "污渍 · Clay 006",
+      "material": "污渍",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -903,8 +903,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Asphalt033",
       "name": "Asphalt 033",
-      "label": "待分类 · Asphalt 033",
-      "material": "待分类",
+      "label": "沥青 · Asphalt 033",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1079,8 +1079,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Pizza004",
       "name": "Pizza 004",
-      "label": "待分类 · Pizza 004",
-      "material": "待分类",
+      "label": "食品表面 · Pizza 004",
+      "material": "食品表面",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1121,8 +1121,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Pizza003",
       "name": "Pizza 003",
-      "label": "待分类 · Pizza 003",
-      "material": "待分类",
+      "label": "食品表面 · Pizza 003",
+      "material": "食品表面",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1160,8 +1160,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road015C",
       "name": "Road 015 C",
-      "label": "待分类 · Road 015 C",
-      "material": "待分类",
+      "label": "沥青 · Road 015 C",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1205,8 +1205,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road015B",
       "name": "Road 015 B",
-      "label": "待分类 · Road 015 B",
-      "material": "待分类",
+      "label": "沥青 · Road 015 B",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1252,8 +1252,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road015A",
       "name": "Road 015 A",
-      "label": "待分类 · Road 015 A",
-      "material": "待分类",
+      "label": "沥青 · Road 015 A",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1295,8 +1295,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road014C",
       "name": "Road 014 C",
-      "label": "金属 · Road 014 C",
-      "material": "金属",
+      "label": "沥青 · Road 014 C",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1342,8 +1342,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road014B",
       "name": "Road 014 B",
-      "label": "待分类 · Road 014 B",
-      "material": "待分类",
+      "label": "沥青 · Road 014 B",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1387,8 +1387,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road014A",
       "name": "Road 014 A",
-      "label": "待分类 · Road 014 A",
-      "material": "待分类",
+      "label": "沥青 · Road 014 A",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1433,8 +1433,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road013C",
       "name": "Road 013 C",
-      "label": "待分类 · Road 013 C",
-      "material": "待分类",
+      "label": "沥青 · Road 013 C",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1480,8 +1480,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road013B",
       "name": "Road 013 B",
-      "label": "金属 · Road 013 B",
-      "material": "金属",
+      "label": "沥青 · Road 013 B",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1528,8 +1528,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road013A",
       "name": "Road 013 A",
-      "label": "待分类 · Road 013 A",
-      "material": "待分类",
+      "label": "沥青 · Road 013 A",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1574,8 +1574,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road012C",
       "name": "Road 012 C",
-      "label": "金属 · Road 012 C",
-      "material": "金属",
+      "label": "沥青 · Road 012 C",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1621,8 +1621,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road012B",
       "name": "Road 012 B",
-      "label": "金属 · Road 012 B",
-      "material": "金属",
+      "label": "沥青 · Road 012 B",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1668,8 +1668,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road012A",
       "name": "Road 012 A",
-      "label": "待分类 · Road 012 A",
-      "material": "待分类",
+      "label": "沥青 · Road 012 A",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1713,8 +1713,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road011C",
       "name": "Road 011 C",
-      "label": "金属 · Road 011 C",
-      "material": "金属",
+      "label": "沥青 · Road 011 C",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1760,8 +1760,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road011B",
       "name": "Road 011 B",
-      "label": "金属 · Road 011 B",
-      "material": "金属",
+      "label": "沥青 · Road 011 B",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1807,8 +1807,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road011A",
       "name": "Road 011 A",
-      "label": "待分类 · Road 011 A",
-      "material": "待分类",
+      "label": "沥青 · Road 011 A",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1855,8 +1855,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road010C",
       "name": "Road 010 C",
-      "label": "金属 · Road 010 C",
-      "material": "金属",
+      "label": "沥青 · Road 010 C",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1902,8 +1902,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road010B",
       "name": "Road 010 B",
-      "label": "金属 · Road 010 B",
-      "material": "金属",
+      "label": "沥青 · Road 010 B",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1950,8 +1950,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road010A",
       "name": "Road 010 A",
-      "label": "待分类 · Road 010 A",
-      "material": "待分类",
+      "label": "沥青 · Road 010 A",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -1995,8 +1995,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road009C",
       "name": "Road 009 C",
-      "label": "金属 · Road 009 C",
-      "material": "金属",
+      "label": "沥青 · Road 009 C",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2043,8 +2043,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road009B",
       "name": "Road 009 B",
-      "label": "金属 · Road 009 B",
-      "material": "金属",
+      "label": "沥青 · Road 009 B",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2092,8 +2092,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road009A",
       "name": "Road 009 A",
-      "label": "待分类 · Road 009 A",
-      "material": "待分类",
+      "label": "沥青 · Road 009 A",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2138,8 +2138,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road008C",
       "name": "Road 008 C",
-      "label": "金属 · Road 008 C",
-      "material": "金属",
+      "label": "沥青 · Road 008 C",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2186,8 +2186,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road008B",
       "name": "Road 008 B",
-      "label": "待分类 · Road 008 B",
-      "material": "待分类",
+      "label": "沥青 · Road 008 B",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2234,8 +2234,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Road008A",
       "name": "Road 008 A",
-      "label": "待分类 · Road 008 A",
-      "material": "待分类",
+      "label": "沥青 · Road 008 A",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2412,8 +2412,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Pizza002",
       "name": "Pizza 002",
-      "label": "待分类 · Pizza 002",
-      "material": "待分类",
+      "label": "食品表面 · Pizza 002",
+      "material": "食品表面",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2616,8 +2616,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_ChristmasTreeOrnament021",
       "name": "Christmas Tree Ornament 021",
-      "label": "待分类 · Christmas Tree Ornament 021",
-      "material": "待分类",
+      "label": "装饰纹样 · Christmas Tree Ornament 021",
+      "material": "装饰纹样",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2652,8 +2652,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_ChristmasTreeOrnament020",
       "name": "Christmas Tree Ornament 020",
-      "label": "待分类 · Christmas Tree Ornament 020",
-      "material": "待分类",
+      "label": "装饰纹样 · Christmas Tree Ornament 020",
+      "material": "装饰纹样",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2687,8 +2687,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_ChristmasTreeOrnament019",
       "name": "Christmas Tree Ornament 019",
-      "label": "待分类 · Christmas Tree Ornament 019",
-      "material": "待分类",
+      "label": "装饰纹样 · Christmas Tree Ornament 019",
+      "material": "装饰纹样",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -2728,8 +2728,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_ChristmasTreeOrnament018",
       "name": "Christmas Tree Ornament 018",
-      "label": "待分类 · Christmas Tree Ornament 018",
-      "material": "待分类",
+      "label": "装饰纹样 · Christmas Tree Ornament 018",
+      "material": "装饰纹样",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -3829,8 +3829,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Pizza001",
       "name": "Pizza 001",
-      "label": "待分类 · Pizza 001",
-      "material": "待分类",
+      "label": "食品表面 · Pizza 001",
+      "material": "食品表面",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -3979,8 +3979,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Ground091",
       "name": "Ground 091",
-      "label": "自然地面 · Ground 091",
-      "material": "自然地面",
+      "label": "石材 · Ground 091",
+      "material": "石材",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -4378,8 +4378,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Asphalt032",
       "name": "Asphalt 032",
-      "label": "待分类 · Asphalt 032",
-      "material": "待分类",
+      "label": "沥青 · Asphalt 032",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5288,8 +5288,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Styrofoam005",
       "name": "Styrofoam 005",
-      "label": "待分类 · Styrofoam 005",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Styrofoam 005",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5321,8 +5321,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Styrofoam004",
       "name": "Styrofoam 004",
-      "label": "待分类 · Styrofoam 004",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Styrofoam 004",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5367,8 +5367,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Styrofoam003",
       "name": "Styrofoam 003",
-      "label": "待分类 · Styrofoam 003",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Styrofoam 003",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5400,8 +5400,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Styrofoam002",
       "name": "Styrofoam 002",
-      "label": "待分类 · Styrofoam 002",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Styrofoam 002",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5431,8 +5431,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Styrofoam001",
       "name": "Styrofoam 001",
-      "label": "待分类 · Styrofoam 001",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Styrofoam 001",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5666,8 +5666,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Cork004",
       "name": "Cork 004",
-      "label": "待分类 · Cork 004",
-      "material": "待分类",
+      "label": "软木 · Cork 004",
+      "material": "软木",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5698,8 +5698,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Cork003",
       "name": "Cork 003",
-      "label": "待分类 · Cork 003",
-      "material": "待分类",
+      "label": "软木 · Cork 003",
+      "material": "软木",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5731,8 +5731,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_ChristmasTreeOrnament017",
       "name": "Christmas Tree Ornament 017",
-      "label": "待分类 · Christmas Tree Ornament 017",
-      "material": "待分类",
+      "label": "装饰纹样 · Christmas Tree Ornament 017",
+      "material": "装饰纹样",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5766,8 +5766,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_ChristmasTreeOrnament016",
       "name": "Christmas Tree Ornament 016",
-      "label": "待分类 · Christmas Tree Ornament 016",
-      "material": "待分类",
+      "label": "装饰纹样 · Christmas Tree Ornament 016",
+      "material": "装饰纹样",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -5913,8 +5913,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Asphalt031",
       "name": "Asphalt 031",
-      "label": "石材 · Asphalt 031",
-      "material": "石材",
+      "label": "沥青 · Asphalt 031",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -6610,8 +6610,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Net004B",
       "name": "Net 004 B",
-      "label": "待分类 · Net 004 B",
-      "material": "待分类",
+      "label": "网绳编织 · Net 004 B",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -6645,8 +6645,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Net004A",
       "name": "Net 004 A",
-      "label": "待分类 · Net 004 A",
-      "material": "待分类",
+      "label": "网绳编织 · Net 004 A",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -6679,8 +6679,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Net003B",
       "name": "Net 003 B",
-      "label": "待分类 · Net 003 B",
-      "material": "待分类",
+      "label": "网绳编织 · Net 003 B",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -6713,8 +6713,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Net003A",
       "name": "Net 003 A",
-      "label": "待分类 · Net 003 A",
-      "material": "待分类",
+      "label": "网绳编织 · Net 003 A",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -6745,8 +6745,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Net002B",
       "name": "Net 002 B",
-      "label": "待分类 · Net 002 B",
-      "material": "待分类",
+      "label": "网绳编织 · Net 002 B",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -6780,8 +6780,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Net002A",
       "name": "Net 002 A",
-      "label": "待分类 · Net 002 A",
-      "material": "待分类",
+      "label": "网绳编织 · Net 002 A",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -6812,8 +6812,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Net001B",
       "name": "Net 001 B",
-      "label": "待分类 · Net 001 B",
-      "material": "待分类",
+      "label": "网绳编织 · Net 001 B",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -6847,8 +6847,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Net001A",
       "name": "Net 001 A",
-      "label": "待分类 · Net 001 A",
-      "material": "待分类",
+      "label": "网绳编织 · Net 001 A",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -7031,8 +7031,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_ChristmasTreeOrnament015",
       "name": "Christmas Tree Ornament 015",
-      "label": "待分类 · Christmas Tree Ornament 015",
-      "material": "待分类",
+      "label": "装饰纹样 · Christmas Tree Ornament 015",
+      "material": "装饰纹样",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -7069,8 +7069,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_ChristmasTreeOrnament014",
       "name": "Christmas Tree Ornament 014",
-      "label": "待分类 · Christmas Tree Ornament 014",
-      "material": "待分类",
+      "label": "装饰纹样 · Christmas Tree Ornament 014",
+      "material": "装饰纹样",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -7108,8 +7108,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_ChristmasTreeOrnament013",
       "name": "Christmas Tree Ornament 013",
-      "label": "待分类 · Christmas Tree Ornament 013",
-      "material": "待分类",
+      "label": "装饰纹样 · Christmas Tree Ornament 013",
+      "material": "装饰纹样",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8290,8 +8290,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Rubber004",
       "name": "Rubber 004",
-      "label": "待分类 · Rubber 004",
-      "material": "待分类",
+      "label": "橡胶 · Rubber 004",
+      "material": "橡胶",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8324,8 +8324,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Rubber003",
       "name": "Rubber 003",
-      "label": "待分类 · Rubber 003",
-      "material": "待分类",
+      "label": "橡胶 · Rubber 003",
+      "material": "橡胶",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8358,8 +8358,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Rubber002",
       "name": "Rubber 002",
-      "label": "待分类 · Rubber 002",
-      "material": "待分类",
+      "label": "橡胶 · Rubber 002",
+      "material": "橡胶",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8392,8 +8392,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Rubber001",
       "name": "Rubber 001",
-      "label": "待分类 · Rubber 001",
-      "material": "待分类",
+      "label": "橡胶 · Rubber 001",
+      "material": "橡胶",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8466,8 +8466,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Gravel039",
       "name": "Gravel 039",
-      "label": "自然地面 · Gravel 039",
-      "material": "自然地面",
+      "label": "石材 · Gravel 039",
+      "material": "石材",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8502,8 +8502,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Ground073",
       "name": "Ground 073",
-      "label": "自然地面 · Ground 073",
-      "material": "自然地面",
+      "label": "石材 · Ground 073",
+      "material": "石材",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8645,8 +8645,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Tatami006",
       "name": "Tatami 006",
-      "label": "待分类 · Tatami 006",
-      "material": "待分类",
+      "label": "榻榻米 · Tatami 006",
+      "material": "榻榻米",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8681,8 +8681,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Tatami005",
       "name": "Tatami 005",
-      "label": "待分类 · Tatami 005",
-      "material": "待分类",
+      "label": "榻榻米 · Tatami 005",
+      "material": "榻榻米",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8717,8 +8717,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Tatami004",
       "name": "Tatami 004",
-      "label": "待分类 · Tatami 004",
-      "material": "待分类",
+      "label": "榻榻米 · Tatami 004",
+      "material": "榻榻米",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8753,8 +8753,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Tatami003",
       "name": "Tatami 003",
-      "label": "待分类 · Tatami 003",
-      "material": "待分类",
+      "label": "榻榻米 · Tatami 003",
+      "material": "榻榻米",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8786,8 +8786,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Tatami002",
       "name": "Tatami 002",
-      "label": "待分类 · Tatami 002",
-      "material": "待分类",
+      "label": "榻榻米 · Tatami 002",
+      "material": "榻榻米",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -8819,8 +8819,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Tatami001",
       "name": "Tatami 001",
-      "label": "待分类 · Tatami 001",
-      "material": "待分类",
+      "label": "榻榻米 · Tatami 001",
+      "material": "榻榻米",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9058,8 +9058,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Gravel038",
       "name": "Gravel 038",
-      "label": "待分类 · Gravel 038",
-      "material": "待分类",
+      "label": "石材 · Gravel 038",
+      "material": "石材",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9091,8 +9091,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Asphalt030",
       "name": "Asphalt 030",
-      "label": "待分类 · Asphalt 030",
-      "material": "待分类",
+      "label": "沥青 · Asphalt 030",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9123,8 +9123,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Smear008",
       "name": "Smear 008",
-      "label": "待分类 · Smear 008",
-      "material": "待分类",
+      "label": "污渍 · Smear 008",
+      "material": "污渍",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9730,8 +9730,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic018B",
       "name": "Plastic 018 B",
-      "label": "待分类 · Plastic 018 B",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 018 B",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9764,8 +9764,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic018A",
       "name": "Plastic 018 A",
-      "label": "待分类 · Plastic 018 A",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 018 A",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9796,8 +9796,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic017B",
       "name": "Plastic 017 B",
-      "label": "待分类 · Plastic 017 B",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 017 B",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9828,8 +9828,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic017A",
       "name": "Plastic 017 A",
-      "label": "待分类 · Plastic 017 A",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 017 A",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9860,8 +9860,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic016B",
       "name": "Plastic 016 B",
-      "label": "待分类 · Plastic 016 B",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 016 B",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9892,8 +9892,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic016A",
       "name": "Plastic 016 A",
-      "label": "待分类 · Plastic 016 A",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 016 A",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9924,8 +9924,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic015B",
       "name": "Plastic 015 B",
-      "label": "待分类 · Plastic 015 B",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 015 B",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9957,8 +9957,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic015A",
       "name": "Plastic 015 A",
-      "label": "待分类 · Plastic 015 A",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 015 A",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -9989,8 +9989,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic014B",
       "name": "Plastic 014 B",
-      "label": "待分类 · Plastic 014 B",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 014 B",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -10023,8 +10023,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic014A",
       "name": "Plastic 014 A",
-      "label": "待分类 · Plastic 014 A",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 014 A",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -10056,8 +10056,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic013B",
       "name": "Plastic 013 B",
-      "label": "待分类 · Plastic 013 B",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 013 B",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -10089,8 +10089,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic013A",
       "name": "Plastic 013 A",
-      "label": "待分类 · Plastic 013 A",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 013 A",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -10121,8 +10121,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic012B",
       "name": "Plastic 012 B",
-      "label": "待分类 · Plastic 012 B",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 012 B",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -10154,8 +10154,8 @@ window.AUTO_DATA = {
     {
       "id": "acg_Plastic012A",
       "name": "Plastic 012 A",
-      "label": "待分类 · Plastic 012 A",
-      "material": "待分类",
+      "label": "塑料与泡沫 · Plastic 012 A",
+      "material": "塑料与泡沫",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -11472,8 +11472,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_european_walnut_veneer_04",
       "name": "European Walnut Veneer 04",
-      "label": "木纹 · European Walnut Veneer 04",
-      "material": "木纹",
+      "label": "网绳编织 · European Walnut Veneer 04",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -11514,8 +11514,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_european_walnut_veneer_05",
       "name": "European Walnut Veneer 05",
-      "label": "木纹 · European Walnut Veneer 05",
-      "material": "木纹",
+      "label": "网绳编织 · European Walnut Veneer 05",
+      "material": "网绳编织",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -13379,8 +13379,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_road_damaged_clean",
       "name": "Road Damaged Clean",
-      "label": "待分类 · Road Damaged Clean",
-      "material": "待分类",
+      "label": "沥青 · Road Damaged Clean",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -13828,8 +13828,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_road_damaged_2",
       "name": "Road Damaged 2",
-      "label": "待分类 · Road Damaged 2",
-      "material": "待分类",
+      "label": "沥青 · Road Damaged 2",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -13967,8 +13967,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_road_damaged",
       "name": "Road Damaged",
-      "label": "待分类 · Road Damaged",
-      "material": "待分类",
+      "label": "沥青 · Road Damaged",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -14842,8 +14842,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_tarred_gravel",
       "name": "Tarred Gravel",
-      "label": "石材 · Tarred Gravel",
-      "material": "石材",
+      "label": "沥青 · Tarred Gravel",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -15246,8 +15246,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_asphalt_07",
       "name": "Asphalt 07",
-      "label": "待分类 · Asphalt 07",
-      "material": "待分类",
+      "label": "沥青 · Asphalt 07",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -15588,8 +15588,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_clean_asphalt",
       "name": "Clean Asphalt",
-      "label": "待分类 · Clean Asphalt",
-      "material": "待分类",
+      "label": "沥青 · Clean Asphalt",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -16938,8 +16938,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_worn_asphalt",
       "name": "Worn Asphalt",
-      "label": "待分类 · Worn Asphalt",
-      "material": "待分类",
+      "label": "沥青 · Worn Asphalt",
+      "material": "沥青",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -17059,8 +17059,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_tatami_mat",
       "name": "Tatami Mat",
-      "label": "待分类 · Tatami Mat",
-      "material": "待分类",
+      "label": "榻榻米 · Tatami Mat",
+      "material": "榻榻米",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -19695,8 +19695,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_moon_dusted_02",
       "name": "Moon Dusted 02",
-      "label": "自然地面 · Moon Dusted 02",
-      "material": "自然地面",
+      "label": "石材 · Moon Dusted 02",
+      "material": "石材",
       "styles": [],
       "rooms": [],
       "tags": [
@@ -19986,8 +19986,8 @@ window.AUTO_DATA = {
     {
       "id": "ph_moon_footprints_02",
       "name": "Moon Footprints 02",
-      "label": "自然地面 · Moon Footprints 02",
-      "material": "自然地面",
+      "label": "石材 · Moon Footprints 02",
+      "material": "石材",
       "styles": [],
       "rooms": [],
       "tags": [
