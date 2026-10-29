@@ -1,4 +1,4 @@
-# 每日采集系统
+# 每日更新系统
 
 这是普通程序和 GitHub Actions 定时任务，不调用 AI，不依赖聊天、电脑开机或人工每日触发。
 
@@ -29,7 +29,7 @@ python automation/collect.py --max-new 20
 python automation/build_site.py
 ```
 
-新增数据在auto-data.json与auto-data.js；公开线索在discovery-data.json；各站结果在sync-status.json。页面“每日采集”可以查看。
+新增数据在auto-data.json与auto-data.js；公开线索在discovery-data.json；各站结果在sync-status.json。页面“每日更新”可以查看。
 
 若自动图片接口全部失败，仍保存错误报告并发布现有网站，任务最后标记失败。不会因为单个来源失败而清空图库。
 
