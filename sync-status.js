@@ -1,8 +1,8 @@
 window.SYNC_STATUS = {
-  "updated": "2026-10-29T23:29:26.803669+00:00",
-  "status": "ok",
+  "updated": "2026-10-30T23:04:57.688194+00:00",
+  "status": "failed",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
-  "added": 160,
+  "added": 0,
   "added_references": 0,
   "auto_total": 682,
   "asset_mb": 849.9,
@@ -14,8 +14,8 @@ window.SYNC_STATUS = {
       "region": "国外",
       "url": "https://ambientcg.com/",
       "mode": "自动入库",
-      "state": "partial",
-      "added": 159,
+      "state": "error",
+      "added": 0,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
@@ -38,8 +38,8 @@ window.SYNC_STATUS = {
       "region": "国外",
       "url": "https://polyhaven.com/textures",
       "mode": "自动入库",
-      "state": "partial",
-      "added": 1,
+      "state": "error",
+      "added": 0,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
