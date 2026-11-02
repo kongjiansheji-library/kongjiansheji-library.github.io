@@ -1,7 +1,7 @@
 window.AUTO_DATA = {
   "meta": {
-    "updated": "2026-11-01T22:56:30.664776+00:00",
-    "total": 682
+    "updated": "2026-11-02T02:13:27.023649+00:00",
+    "total": 963
   },
   "items": [
     {
@@ -26379,6 +26379,9866 @@ window.AUTO_DATA = {
         "棕色"
       ],
       "sha256": "93af976a6ca3cbacda5999bc67b9db45358c355515563ad8f930fa90829e0735"
+    },
+    {
+      "id": "acg_Leather036A",
+      "name": "Leather 036 A",
+      "label": "皮革 · Leather 036 A",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "36",
+        "diamond",
+        "leather",
+        "red",
+        "stitched",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather036A",
+      "source": "https://ambientcg.com/a/Leather036A",
+      "original_url": "https://ambientcg.com/get?file=Leather036A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:09.192214+00:00",
+      "image": "images/auto/acg_Leather036A.jpg",
+      "thumb": "thumbs/auto/acg_Leather036A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "06110f1490360ac0bca882a11ab1833a56be7ab0c3aa63ff8e5387a12859846a"
+    },
+    {
+      "id": "acg_Leather035D",
+      "name": "Leather 035 D",
+      "label": "皮革 · Leather 035 D",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "35",
+        "beige",
+        "leather",
+        "white",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather035D",
+      "source": "https://ambientcg.com/a/Leather035D",
+      "original_url": "https://ambientcg.com/get?file=Leather035D_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:10.445087+00:00",
+      "image": "images/auto/acg_Leather035D.jpg",
+      "thumb": "thumbs/auto/acg_Leather035D.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "03760b52d2b8be07ff6d61e65779d2b49c916ff963a7dee61835d8219c64b7e6"
+    },
+    {
+      "id": "acg_Leather035C",
+      "name": "Leather 035 C",
+      "label": "皮革 · Leather 035 C",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "35",
+        "beige",
+        "leather",
+        "stitched",
+        "white",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather035C",
+      "source": "https://ambientcg.com/a/Leather035C",
+      "original_url": "https://ambientcg.com/get?file=Leather035C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:11.684971+00:00",
+      "image": "images/auto/acg_Leather035C.jpg",
+      "thumb": "thumbs/auto/acg_Leather035C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "eced880ea2e588c8953468ad92e55af02e7a143b22a06ea789fa83e18f3301f0"
+    },
+    {
+      "id": "acg_Leather035B",
+      "name": "Leather 035 B",
+      "label": "皮革 · Leather 035 B",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "35",
+        "beige",
+        "leather",
+        "stitched",
+        "white",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather035B",
+      "source": "https://ambientcg.com/a/Leather035B",
+      "original_url": "https://ambientcg.com/get?file=Leather035B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:13.231749+00:00",
+      "image": "images/auto/acg_Leather035B.jpg",
+      "thumb": "thumbs/auto/acg_Leather035B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "972cb06c1211afda66d895f19423db95da0482fab665fafdcfb4c7ed63501620"
+    },
+    {
+      "id": "acg_Leather035A",
+      "name": "Leather 035 A",
+      "label": "皮革 · Leather 035 A",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "35",
+        "beige",
+        "leather",
+        "stitched",
+        "white",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather035A",
+      "source": "https://ambientcg.com/a/Leather035A",
+      "original_url": "https://ambientcg.com/get?file=Leather035A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:14.388254+00:00",
+      "image": "images/auto/acg_Leather035A.jpg",
+      "thumb": "thumbs/auto/acg_Leather035A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "a0b2a7e8d2e7c93dd7a78e273734cc26c98120c366071c4bd82d41a29d4c285f"
+    },
+    {
+      "id": "acg_Leather034D",
+      "name": "Leather 034 D",
+      "label": "皮革 · Leather 034 D",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "34",
+        "brown",
+        "dark",
+        "leather",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather034D",
+      "source": "https://ambientcg.com/a/Leather034D",
+      "original_url": "https://ambientcg.com/get?file=Leather034D_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:15.485863+00:00",
+      "image": "images/auto/acg_Leather034D.jpg",
+      "thumb": "thumbs/auto/acg_Leather034D.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "424e92b5d5344206c8e04a8fc403b5056a6fc5679f63a9b16ad2cca22a8c251a"
+    },
+    {
+      "id": "acg_Leather034C",
+      "name": "Leather 034 C",
+      "label": "皮革 · Leather 034 C",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "34",
+        "black",
+        "brown",
+        "dark",
+        "leather",
+        "stitched",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather034C",
+      "source": "https://ambientcg.com/a/Leather034C",
+      "original_url": "https://ambientcg.com/get?file=Leather034C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:16.585994+00:00",
+      "image": "images/auto/acg_Leather034C.jpg",
+      "thumb": "thumbs/auto/acg_Leather034C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "eb153437cd6bac9222354b329f21fb4e092aaac04a3e8e7f0ce1460eefdfac10"
+    },
+    {
+      "id": "acg_Leather034B",
+      "name": "Leather 034 B",
+      "label": "皮革 · Leather 034 B",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "34",
+        "black",
+        "brown",
+        "dark",
+        "leather",
+        "stitched",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather034B",
+      "source": "https://ambientcg.com/a/Leather034B",
+      "original_url": "https://ambientcg.com/get?file=Leather034B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:17.774005+00:00",
+      "image": "images/auto/acg_Leather034B.jpg",
+      "thumb": "thumbs/auto/acg_Leather034B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "511f32da3cbeff566c6a66a93d6bd0f99641795eb5390fb882bccf15cbcb1602"
+    },
+    {
+      "id": "acg_Leather034A",
+      "name": "Leather 034 A",
+      "label": "皮革 · Leather 034 A",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "34",
+        "black",
+        "brown",
+        "dark",
+        "leather",
+        "stitched",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather034A",
+      "source": "https://ambientcg.com/a/Leather034A",
+      "original_url": "https://ambientcg.com/get?file=Leather034A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:19.003067+00:00",
+      "image": "images/auto/acg_Leather034A.jpg",
+      "thumb": "thumbs/auto/acg_Leather034A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "6f7d3159ffbdb33fa3d78ea6ad9c856b36b40c120428e0871d2ca8343ada35b6"
+    },
+    {
+      "id": "acg_Planks029S",
+      "name": "Planks 029 S",
+      "label": "木纹 · Planks 029 S",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "29",
+        "planks",
+        "terrace",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks029S",
+      "source": "https://ambientcg.com/a/Planks029S",
+      "original_url": "https://ambientcg.com/get?file=Planks029S_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:20.007405+00:00",
+      "image": "images/auto/acg_Planks029S.jpg",
+      "thumb": "thumbs/auto/acg_Planks029S.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "49d6174bc1fac7574df4b54542f4b718965099720e8abf374abb6ad8e4ef6c16"
+    },
+    {
+      "id": "acg_Planks029L",
+      "name": "Planks 029 L",
+      "label": "木纹 · Planks 029 L",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "29",
+        "planks",
+        "terrace",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks029L",
+      "source": "https://ambientcg.com/a/Planks029L",
+      "original_url": "https://ambientcg.com/get?file=Planks029L_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:21.445783+00:00",
+      "image": "images/auto/acg_Planks029L.jpg",
+      "thumb": "thumbs/auto/acg_Planks029L.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "1590732e445f1c7ab6d02de3edbc36284bc5d753bfda593caa988c929a380784"
+    },
+    {
+      "id": "acg_Fence008C",
+      "name": "Fence 008 C",
+      "label": "金属 · Fence 008 C",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "fence",
+        "grate",
+        "metal",
+        "Fence"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fence008C",
+      "source": "https://ambientcg.com/a/Fence008C",
+      "original_url": "https://ambientcg.com/get?file=Fence008C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:22.471969+00:00",
+      "image": "images/auto/acg_Fence008C.jpg",
+      "thumb": "thumbs/auto/acg_Fence008C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "da0ee2dfccfb91cb8f4fa7aa420929d11bef790e5fd6cb09b29a846f335fd669"
+    },
+    {
+      "id": "acg_Fence008B",
+      "name": "Fence 008 B",
+      "label": "金属 · Fence 008 B",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "fence",
+        "grate",
+        "metal",
+        "Fence"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fence008B",
+      "source": "https://ambientcg.com/a/Fence008B",
+      "original_url": "https://ambientcg.com/get?file=Fence008B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:23.710088+00:00",
+      "image": "images/auto/acg_Fence008B.jpg",
+      "thumb": "thumbs/auto/acg_Fence008B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "416add68c2b5832aafae3fa658a5f95cfbd0f3d6a87dee9426053c3bb98ac850"
+    },
+    {
+      "id": "acg_Fence008A",
+      "name": "Fence 008 A",
+      "label": "金属 · Fence 008 A",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "fence",
+        "grate",
+        "metal",
+        "Fence"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fence008A",
+      "source": "https://ambientcg.com/a/Fence008A",
+      "original_url": "https://ambientcg.com/get?file=Fence008A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:24.864746+00:00",
+      "image": "images/auto/acg_Fence008A.jpg",
+      "thumb": "thumbs/auto/acg_Fence008A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "5c7f2af33baa9bdaff1a99a6191dd8af9c436ee7cccaa9de6fb7b3ba3c3b6869"
+    },
+    {
+      "id": "acg_Fence007C",
+      "name": "Fence 007 C",
+      "label": "金属 · Fence 007 C",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "fence",
+        "grate",
+        "metal",
+        "Fence"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fence007C",
+      "source": "https://ambientcg.com/a/Fence007C",
+      "original_url": "https://ambientcg.com/get?file=Fence007C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:25.839746+00:00",
+      "image": "images/auto/acg_Fence007C.jpg",
+      "thumb": "thumbs/auto/acg_Fence007C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "e3d2e2d4add2d61e51885127137b2ff4f7db5bcafda91397bafb8bcda8787dcb"
+    },
+    {
+      "id": "acg_Fence007B",
+      "name": "Fence 007 B",
+      "label": "金属 · Fence 007 B",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "fence",
+        "grate",
+        "metal",
+        "Fence"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fence007B",
+      "source": "https://ambientcg.com/a/Fence007B",
+      "original_url": "https://ambientcg.com/get?file=Fence007B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:27.503262+00:00",
+      "image": "images/auto/acg_Fence007B.jpg",
+      "thumb": "thumbs/auto/acg_Fence007B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "31e97921d9637d42fe6beae8ed5bb3d851adf24450ca064e47134d2d143d1ce1"
+    },
+    {
+      "id": "acg_Fence007A",
+      "name": "Fence 007 A",
+      "label": "金属 · Fence 007 A",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "fence",
+        "grate",
+        "metal",
+        "Fence"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fence007A",
+      "source": "https://ambientcg.com/a/Fence007A",
+      "original_url": "https://ambientcg.com/get?file=Fence007A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:28.452587+00:00",
+      "image": "images/auto/acg_Fence007A.jpg",
+      "thumb": "thumbs/auto/acg_Fence007A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "f33d231e9b969c03dc40af1cd6f6a0509c7d6f711799099b9ebd7703779c7c52"
+    },
+    {
+      "id": "acg_Ground054",
+      "name": "Ground 054",
+      "label": "自然地面 · Ground 054",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "54",
+        "beach",
+        "dirt",
+        "ground",
+        "mud",
+        "sand",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground054",
+      "source": "https://ambientcg.com/a/Ground054",
+      "original_url": "https://ambientcg.com/get?file=Ground054_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:29.742484+00:00",
+      "image": "images/auto/acg_Ground054.jpg",
+      "thumb": "thumbs/auto/acg_Ground054.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "77c0b5ac13eead1420887c608b2c28209a1ae5ba70761bf29953aa23cf3dc31b"
+    },
+    {
+      "id": "acg_Gravel033",
+      "name": "Gravel 033",
+      "label": "石材 · Gravel 033",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "33",
+        "dirt",
+        "gravel",
+        "ground",
+        "rocks",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel033",
+      "source": "https://ambientcg.com/a/Gravel033",
+      "original_url": "https://ambientcg.com/get?file=Gravel033_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:31.376241+00:00",
+      "image": "images/auto/acg_Gravel033.jpg",
+      "thumb": "thumbs/auto/acg_Gravel033.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "a270c95c75cbc11f9d7255d60fb458f5c47c5acffd3a8f36a8340e39e691381c"
+    },
+    {
+      "id": "acg_WoodFloor060",
+      "name": "Wood Floor 060",
+      "label": "木纹 · Wood Floor 060",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "60",
+        "floor",
+        "parquet",
+        "versailles",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor060",
+      "source": "https://ambientcg.com/a/WoodFloor060",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor060_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:32.526843+00:00",
+      "image": "images/auto/acg_WoodFloor060.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor060.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "244845e6796d5afb6bb44b22c92e21a8ecbd48ea71802dd30ed44d7bd50e144c"
+    },
+    {
+      "id": "acg_WoodFloor059",
+      "name": "Wood Floor 059",
+      "label": "木纹 · Wood Floor 059",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "59",
+        "floor",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor059",
+      "source": "https://ambientcg.com/a/WoodFloor059",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor059_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:33.699803+00:00",
+      "image": "images/auto/acg_WoodFloor059.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor059.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "6cd947848c551ad0a35d9db0c0e2c9a3fb4364ad188eca36dd918bc4ed944831"
+    },
+    {
+      "id": "acg_WoodFloor058",
+      "name": "Wood Floor 058",
+      "label": "木纹 · Wood Floor 058",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "58",
+        "floor",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor058",
+      "source": "https://ambientcg.com/a/WoodFloor058",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor058_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:35.134959+00:00",
+      "image": "images/auto/acg_WoodFloor058.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor058.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "9f905400320f4dbf454a947f7a3c873d15c614a25ac886d5c2311a77b0d317ce"
+    },
+    {
+      "id": "acg_WoodFloor057",
+      "name": "Wood Floor 057",
+      "label": "木纹 · Wood Floor 057",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "57",
+        "floor",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor057",
+      "source": "https://ambientcg.com/a/WoodFloor057",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor057_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:36.944781+00:00",
+      "image": "images/auto/acg_WoodFloor057.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor057.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "87778534a6760e788bd698e8ef02bacf5b225e311781dec6ac2484706d4b93ad"
+    },
+    {
+      "id": "acg_WoodFloor056",
+      "name": "Wood Floor 056",
+      "label": "木纹 · Wood Floor 056",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "56",
+        "floor",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor056",
+      "source": "https://ambientcg.com/a/WoodFloor056",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor056_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:38.148290+00:00",
+      "image": "images/auto/acg_WoodFloor056.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor056.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "1a7bbedc18be4c6d620a62a024f2ff0b8a193db4f316fc881eb2a74661066b59"
+    },
+    {
+      "id": "acg_WoodFloor055",
+      "name": "Wood Floor 055",
+      "label": "木纹 · Wood Floor 055",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "55",
+        "floor",
+        "parquet",
+        "versailles",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor055",
+      "source": "https://ambientcg.com/a/WoodFloor055",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor055_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:39.315166+00:00",
+      "image": "images/auto/acg_WoodFloor055.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor055.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "2cc00b7b540cd5b610330c8328fe4991b74dc7424bbb5c5ccf2458772605dcd3"
+    },
+    {
+      "id": "acg_WoodFloor054",
+      "name": "Wood Floor 054",
+      "label": "木纹 · Wood Floor 054",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "54",
+        "floor",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor054",
+      "source": "https://ambientcg.com/a/WoodFloor054",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor054_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:40.227126+00:00",
+      "image": "images/auto/acg_WoodFloor054.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor054.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "f9c722af3c628997da6505a59299362b11256ca89e668d803de457389ebefec8"
+    },
+    {
+      "id": "acg_WoodFloor053",
+      "name": "Wood Floor 053",
+      "label": "木纹 · Wood Floor 053",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "53",
+        "floor",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor053",
+      "source": "https://ambientcg.com/a/WoodFloor053",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor053_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:41.164041+00:00",
+      "image": "images/auto/acg_WoodFloor053.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor053.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "0bcd737e8be18eedd492cd79863ed13ac5b94b6c496640dee9531103f29d305b"
+    },
+    {
+      "id": "acg_WoodFloor052",
+      "name": "Wood Floor 052",
+      "label": "木纹 · Wood Floor 052",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "52",
+        "floor",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor052",
+      "source": "https://ambientcg.com/a/WoodFloor052",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor052_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:42.074796+00:00",
+      "image": "images/auto/acg_WoodFloor052.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor052.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "8800e7a2dc2752e7826ad992fbb8f1ea388a8424c5ce2be6a5815fc1fd088921"
+    },
+    {
+      "id": "acg_WoodFloor051",
+      "name": "Wood Floor 051",
+      "label": "木纹 · Wood Floor 051",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "051",
+        "51",
+        "brown",
+        "clean",
+        "floor",
+        "indoor",
+        "light",
+        "modern",
+        "parquet",
+        "plank",
+        "polished",
+        "smooth",
+        "staggered",
+        "wood",
+        "woodfloor051",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor051",
+      "source": "https://ambientcg.com/a/WoodFloor051",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor051_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:42.731012+00:00",
+      "image": "images/auto/acg_WoodFloor051.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor051.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "ffbe4de8765619f278c5f819cd751e003808fa671eb99603abdf82b94ca85e9a"
+    },
+    {
+      "id": "acg_Ground053",
+      "name": "Ground 053",
+      "label": "自然地面 · Ground 053",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "53",
+        "forest",
+        "ground",
+        "leaves",
+        "sand",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground053",
+      "source": "https://ambientcg.com/a/Ground053",
+      "original_url": "https://ambientcg.com/get?file=Ground053_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:43.960700+00:00",
+      "image": "images/auto/acg_Ground053.jpg",
+      "thumb": "thumbs/auto/acg_Ground053.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "c3853d543a903f165ca75eacfe8b1611a27086e667a89ea87185065b9675eb8b"
+    },
+    {
+      "id": "acg_TactilePaving007",
+      "name": "Tactile Paving 007",
+      "label": "瓷砖 · Tactile Paving 007",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "guides",
+        "lines",
+        "paving",
+        "tactile",
+        "white",
+        "Tactile Paving"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "TactilePaving007",
+      "source": "https://ambientcg.com/a/TactilePaving007",
+      "original_url": "https://ambientcg.com/get?file=TactilePaving007_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:46.963561+00:00",
+      "image": "images/auto/acg_TactilePaving007.jpg",
+      "thumb": "thumbs/auto/acg_TactilePaving007.jpg",
+      "size": [
+        1024,
+        256
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "db90b9a289f0952bb94bf385e25c2b3bf2064afe8460113a9968b6928b062992"
+    },
+    {
+      "id": "acg_TactilePaving006",
+      "name": "Tactile Paving 006",
+      "label": "瓷砖 · Tactile Paving 006",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "6",
+        "dots",
+        "paving",
+        "tactile",
+        "Tactile Paving"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "TactilePaving006",
+      "source": "https://ambientcg.com/a/TactilePaving006",
+      "original_url": "https://ambientcg.com/get?file=TactilePaving006_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:48.020562+00:00",
+      "image": "images/auto/acg_TactilePaving006.jpg",
+      "thumb": "thumbs/auto/acg_TactilePaving006.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "8388249db0a88a815d829ad68008d64f2f7c348a0b249cb5de79c7b232d65229"
+    },
+    {
+      "id": "acg_Ground052",
+      "name": "Ground 052",
+      "label": "自然地面 · Ground 052",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "52",
+        "beach",
+        "dirt",
+        "ground",
+        "sand",
+        "white",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground052",
+      "source": "https://ambientcg.com/a/Ground052",
+      "original_url": "https://ambientcg.com/get?file=Ground052_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:49.026365+00:00",
+      "image": "images/auto/acg_Ground052.jpg",
+      "thumb": "thumbs/auto/acg_Ground052.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "909c9d6bb14ec7613fcc9fdedf1883b37ecf7fdb1b83729b7dae335fe3080de9"
+    },
+    {
+      "id": "acg_Leather033C",
+      "name": "Leather 033 C",
+      "label": "皮革 · Leather 033 C",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "33",
+        "brown",
+        "leather",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather033C",
+      "source": "https://ambientcg.com/a/Leather033C",
+      "original_url": "https://ambientcg.com/get?file=Leather033C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:50.361566+00:00",
+      "image": "images/auto/acg_Leather033C.jpg",
+      "thumb": "thumbs/auto/acg_Leather033C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "08edfb6a4249fc894359c2694cdc64122d7748fa1601009768aafb2e86a12511"
+    },
+    {
+      "id": "acg_Leather033B",
+      "name": "Leather 033 B",
+      "label": "皮革 · Leather 033 B",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "33",
+        "brown",
+        "leather",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather033B",
+      "source": "https://ambientcg.com/a/Leather033B",
+      "original_url": "https://ambientcg.com/get?file=Leather033B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:51.320737+00:00",
+      "image": "images/auto/acg_Leather033B.jpg",
+      "thumb": "thumbs/auto/acg_Leather033B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "0cdc2074f6c08c3933191acf50ac73ac00abafb64395cbc66e00dcfddc579cbb"
+    },
+    {
+      "id": "acg_Leather033A",
+      "name": "Leather 033 A",
+      "label": "皮革 · Leather 033 A",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "33",
+        "brown",
+        "leather",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather033A",
+      "source": "https://ambientcg.com/a/Leather033A",
+      "original_url": "https://ambientcg.com/get?file=Leather033A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:52.349037+00:00",
+      "image": "images/auto/acg_Leather033A.jpg",
+      "thumb": "thumbs/auto/acg_Leather033A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "26cb8c3c8b7d38fb921a6f985e5a549ab3d29853b7ec23441f92239cfa17c15a"
+    },
+    {
+      "id": "acg_Gravel032",
+      "name": "Gravel 032",
+      "label": "石材 · Gravel 032",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "32",
+        "dirt",
+        "gravel",
+        "ground",
+        "sand",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel032",
+      "source": "https://ambientcg.com/a/Gravel032",
+      "original_url": "https://ambientcg.com/get?file=Gravel032_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:53.434856+00:00",
+      "image": "images/auto/acg_Gravel032.jpg",
+      "thumb": "thumbs/auto/acg_Gravel032.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "f31b0c278fd16c08ea7427681d90b63c47aa0877bbfd72521c460870e3ece6fb"
+    },
+    {
+      "id": "acg_Ground051",
+      "name": "Ground 051",
+      "label": "自然地面 · Ground 051",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "51",
+        "dark",
+        "dirt",
+        "ground",
+        "mud",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground051",
+      "source": "https://ambientcg.com/a/Ground051",
+      "original_url": "https://ambientcg.com/get?file=Ground051_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:55.302063+00:00",
+      "image": "images/auto/acg_Ground051.jpg",
+      "thumb": "thumbs/auto/acg_Ground051.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "fafe49fa0fad47a59c6d11160b4f174061499cbec3426d92a332ae1d73ad2304"
+    },
+    {
+      "id": "acg_Ground050",
+      "name": "Ground 050",
+      "label": "自然地面 · Ground 050",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "50",
+        "ground",
+        "mud",
+        "puddle",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground050",
+      "source": "https://ambientcg.com/a/Ground050",
+      "original_url": "https://ambientcg.com/get?file=Ground050_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:56.895543+00:00",
+      "image": "images/auto/acg_Ground050.jpg",
+      "thumb": "thumbs/auto/acg_Ground050.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "dd60c209f61ac3cd3a028a63452474531bcb979f98128587e0e0e9c9ede5ebd1"
+    },
+    {
+      "id": "acg_Ground049C",
+      "name": "Ground 049 C",
+      "label": "石材 · Ground 049 C",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "49",
+        "dirt",
+        "gravel",
+        "ground",
+        "mud",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground049C",
+      "source": "https://ambientcg.com/a/Ground049C",
+      "original_url": "https://ambientcg.com/get?file=Ground049C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:08:59.080444+00:00",
+      "image": "images/auto/acg_Ground049C.jpg",
+      "thumb": "thumbs/auto/acg_Ground049C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "800b5f292372dfa8126673342d65ea35c4edeffa385be54f1af9683003ae1947"
+    },
+    {
+      "id": "acg_Ground049B",
+      "name": "Ground 049 B",
+      "label": "自然地面 · Ground 049 B",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "49",
+        "dirt",
+        "ground",
+        "mud",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground049B",
+      "source": "https://ambientcg.com/a/Ground049B",
+      "original_url": "https://ambientcg.com/get?file=Ground049B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:00.604900+00:00",
+      "image": "images/auto/acg_Ground049B.jpg",
+      "thumb": "thumbs/auto/acg_Ground049B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "4a2cafec572816abfeed40189d292c728078d10386a827951f8816c9a3cb62e3"
+    },
+    {
+      "id": "acg_Ground049A",
+      "name": "Ground 049 A",
+      "label": "自然地面 · Ground 049 A",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "49",
+        "dirt",
+        "ground",
+        "mud",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground049A",
+      "source": "https://ambientcg.com/a/Ground049A",
+      "original_url": "https://ambientcg.com/get?file=Ground049A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:01.553038+00:00",
+      "image": "images/auto/acg_Ground049A.jpg",
+      "thumb": "thumbs/auto/acg_Ground049A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "5d2afdae5a5a5657f838ee685caad7bb8877d3545df2213cb90060b99e6fa94e"
+    },
+    {
+      "id": "acg_GlazedTerracotta003",
+      "name": "Glazed Terracotta 003",
+      "label": "待分类 · Glazed Terracotta 003",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "3",
+        "glazed",
+        "terracotta",
+        "Glazed Terracotta"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "GlazedTerracotta003",
+      "source": "https://ambientcg.com/a/GlazedTerracotta003",
+      "original_url": "https://ambientcg.com/get?file=GlazedTerracotta003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:02.438132+00:00",
+      "image": "images/auto/acg_GlazedTerracotta003.jpg",
+      "thumb": "thumbs/auto/acg_GlazedTerracotta003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "白色"
+      ],
+      "sha256": "e59d520770478dfdf4d65fcbc599c17be475ca9ffc651db0fc1f40386421dd26"
+    },
+    {
+      "id": "acg_GlazedTerracotta002",
+      "name": "Glazed Terracotta 002",
+      "label": "待分类 · Glazed Terracotta 002",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "glazed",
+        "terracotta",
+        "Glazed Terracotta"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "GlazedTerracotta002",
+      "source": "https://ambientcg.com/a/GlazedTerracotta002",
+      "original_url": "https://ambientcg.com/get?file=GlazedTerracotta002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:04.122289+00:00",
+      "image": "images/auto/acg_GlazedTerracotta002.jpg",
+      "thumb": "thumbs/auto/acg_GlazedTerracotta002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "蓝色"
+      ],
+      "sha256": "d99f80f354c3b86fd5fce73d29e26069e0b38ea71eab4629ad5c976f5242737f"
+    },
+    {
+      "id": "acg_GlazedTerracotta001",
+      "name": "Glazed Terracotta 001",
+      "label": "待分类 · Glazed Terracotta 001",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "glazed",
+        "terracotta",
+        "Glazed Terracotta"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "GlazedTerracotta001",
+      "source": "https://ambientcg.com/a/GlazedTerracotta001",
+      "original_url": "https://ambientcg.com/get?file=GlazedTerracotta001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:05.077088+00:00",
+      "image": "images/auto/acg_GlazedTerracotta001.jpg",
+      "thumb": "thumbs/auto/acg_GlazedTerracotta001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "42467f643d2fe0129025b51ef4a263a48770e9329ceb18b6e1f5bcf6629f63ec"
+    },
+    {
+      "id": "acg_TactilePaving005",
+      "name": "Tactile Paving 005",
+      "label": "瓷砖 · Tactile Paving 005",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "5",
+        "blind",
+        "paving",
+        "platform",
+        "tactile",
+        "train",
+        "yellow",
+        "Tactile Paving"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "TactilePaving005",
+      "source": "https://ambientcg.com/a/TactilePaving005",
+      "original_url": "https://ambientcg.com/get?file=TactilePaving005_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:06.050503+00:00",
+      "image": "images/auto/acg_TactilePaving005.jpg",
+      "thumb": "thumbs/auto/acg_TactilePaving005.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "0794c7421dafedb76f24f9cc7f49b836b86ff33c16a8b154c955ecd83c05c067"
+    },
+    {
+      "id": "acg_TactilePaving004",
+      "name": "Tactile Paving 004",
+      "label": "瓷砖 · Tactile Paving 004",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "4",
+        "blind",
+        "paving",
+        "platform",
+        "tactile",
+        "train",
+        "white",
+        "Tactile Paving"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "TactilePaving004",
+      "source": "https://ambientcg.com/a/TactilePaving004",
+      "original_url": "https://ambientcg.com/get?file=TactilePaving004_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:06.940277+00:00",
+      "image": "images/auto/acg_TactilePaving004.jpg",
+      "thumb": "thumbs/auto/acg_TactilePaving004.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "ea49fb15ce0d45f4539726606f6b81c317c37df83ac41e09d8d50493c9ee5343"
+    },
+    {
+      "id": "acg_Facade020C",
+      "name": "Facade 020 C",
+      "label": "待分类 · Facade 020 C",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "20",
+        "facade",
+        "skyscraper",
+        "Facade"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Facade020C",
+      "source": "https://ambientcg.com/a/Facade020C",
+      "original_url": "https://ambientcg.com/get?file=Facade020C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:07.979197+00:00",
+      "image": "images/auto/acg_Facade020C.jpg",
+      "thumb": "thumbs/auto/acg_Facade020C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "adf2264b1ec8043e3bd3a4308937c0041812255305b02e196f6b72204677de2f"
+    },
+    {
+      "id": "acg_Facade020B",
+      "name": "Facade 020 B",
+      "label": "待分类 · Facade 020 B",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "20",
+        "facade",
+        "skyscraper",
+        "Facade"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Facade020B",
+      "source": "https://ambientcg.com/a/Facade020B",
+      "original_url": "https://ambientcg.com/get?file=Facade020B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:08.927008+00:00",
+      "image": "images/auto/acg_Facade020B.jpg",
+      "thumb": "thumbs/auto/acg_Facade020B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "f960dc13cec8f37bcf5b0e1fc7c99d5e416409be719df5b90cf7ee985d8bbd03"
+    },
+    {
+      "id": "acg_Facade020A",
+      "name": "Facade 020 A",
+      "label": "待分类 · Facade 020 A",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "20",
+        "facade",
+        "skyscraper",
+        "Facade"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Facade020A",
+      "source": "https://ambientcg.com/a/Facade020A",
+      "original_url": "https://ambientcg.com/get?file=Facade020A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:09.864493+00:00",
+      "image": "images/auto/acg_Facade020A.jpg",
+      "thumb": "thumbs/auto/acg_Facade020A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "e572ce3b4ac9d3c79e884bd7b73f7d2ef067fbfb61883ed905c8bb192831a96c"
+    },
+    {
+      "id": "acg_Facade019C",
+      "name": "Facade 019 C",
+      "label": "待分类 · Facade 019 C",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "19",
+        "facade",
+        "skyscraper",
+        "Facade"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Facade019C",
+      "source": "https://ambientcg.com/a/Facade019C",
+      "original_url": "https://ambientcg.com/get?file=Facade019C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:10.795511+00:00",
+      "image": "images/auto/acg_Facade019C.jpg",
+      "thumb": "thumbs/auto/acg_Facade019C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "7f27f0341139445bfa151ccacd8b6191d6fd018abe59bc39d26bfa432258b5b2"
+    },
+    {
+      "id": "acg_Facade019B",
+      "name": "Facade 019 B",
+      "label": "待分类 · Facade 019 B",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "19",
+        "facade",
+        "skyscraper",
+        "Facade"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Facade019B",
+      "source": "https://ambientcg.com/a/Facade019B",
+      "original_url": "https://ambientcg.com/get?file=Facade019B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:11.754619+00:00",
+      "image": "images/auto/acg_Facade019B.jpg",
+      "thumb": "thumbs/auto/acg_Facade019B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "cf4dbe7933b7e894afe9eb5f7fa5b8077454041bdde76af59f94296eac1f7d04"
+    },
+    {
+      "id": "acg_Facade019A",
+      "name": "Facade 019 A",
+      "label": "待分类 · Facade 019 A",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "19",
+        "facade",
+        "skyscraper",
+        "Facade"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Facade019A",
+      "source": "https://ambientcg.com/a/Facade019A",
+      "original_url": "https://ambientcg.com/get?file=Facade019A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:12.951680+00:00",
+      "image": "images/auto/acg_Facade019A.jpg",
+      "thumb": "thumbs/auto/acg_Facade019A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "e61e0e892037ae18b8ec5fbf4da9d8a5990bce9c1b8914bc02aaaf3bcca66196"
+    },
+    {
+      "id": "acg_Facade018C",
+      "name": "Facade 018 C",
+      "label": "待分类 · Facade 018 C",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "18",
+        "facade",
+        "skyscraper",
+        "Facade"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Facade018C",
+      "source": "https://ambientcg.com/a/Facade018C",
+      "original_url": "https://ambientcg.com/get?file=Facade018C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:14.052213+00:00",
+      "image": "images/auto/acg_Facade018C.jpg",
+      "thumb": "thumbs/auto/acg_Facade018C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "93b10b56105c0041740442999349e4bce79df56ca87ebe05036450faff683246"
+    },
+    {
+      "id": "acg_Facade018B",
+      "name": "Facade 018 B",
+      "label": "待分类 · Facade 018 B",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "18",
+        "facade",
+        "skyscraper",
+        "Facade"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Facade018B",
+      "source": "https://ambientcg.com/a/Facade018B",
+      "original_url": "https://ambientcg.com/get?file=Facade018B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:15.052651+00:00",
+      "image": "images/auto/acg_Facade018B.jpg",
+      "thumb": "thumbs/auto/acg_Facade018B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "c0e80b8b7a45f962b313141a0d61fe31eb43c02af877c8420b9f694b2c30b0c5"
+    },
+    {
+      "id": "acg_Facade018A",
+      "name": "Facade 018 A",
+      "label": "待分类 · Facade 018 A",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "18",
+        "facade",
+        "skyscraper",
+        "Facade"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Facade018A",
+      "source": "https://ambientcg.com/a/Facade018A",
+      "original_url": "https://ambientcg.com/get?file=Facade018A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:16.058646+00:00",
+      "image": "images/auto/acg_Facade018A.jpg",
+      "thumb": "thumbs/auto/acg_Facade018A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "d90217ca8d856321776cde57e717dab502338715b885267986dc830a9fd1a8b6"
+    },
+    {
+      "id": "acg_Planks028",
+      "name": "Planks 028",
+      "label": "木纹 · Planks 028",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "28",
+        "painted",
+        "planks",
+        "red",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks028",
+      "source": "https://ambientcg.com/a/Planks028",
+      "original_url": "https://ambientcg.com/get?file=Planks028_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:17.569988+00:00",
+      "image": "images/auto/acg_Planks028.jpg",
+      "thumb": "thumbs/auto/acg_Planks028.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "5738907a3b32a1190aa2dc09ec7e8dc37d43aa912e6bf86365af66503d87c614"
+    },
+    {
+      "id": "acg_Planks027C",
+      "name": "Planks 027 C",
+      "label": "木纹 · Planks 027 C",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "27",
+        "moldy",
+        "mossy",
+        "planks",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks027C",
+      "source": "https://ambientcg.com/a/Planks027C",
+      "original_url": "https://ambientcg.com/get?file=Planks027C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:18.620704+00:00",
+      "image": "images/auto/acg_Planks027C.jpg",
+      "thumb": "thumbs/auto/acg_Planks027C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "0fa90d8dae94bcdefb85d60aa54da5dd0ac4f5c48ff1dd6c17b8a634645d1bee"
+    },
+    {
+      "id": "acg_Planks027B",
+      "name": "Planks 027 B",
+      "label": "木纹 · Planks 027 B",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "27",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks027B",
+      "source": "https://ambientcg.com/a/Planks027B",
+      "original_url": "https://ambientcg.com/get?file=Planks027B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:19.739528+00:00",
+      "image": "images/auto/acg_Planks027B.jpg",
+      "thumb": "thumbs/auto/acg_Planks027B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "ff9049cc81b7920c07182b0b84d2d1feea060496581f26b945fcf47df288decd"
+    },
+    {
+      "id": "acg_Planks027A",
+      "name": "Planks 027 A",
+      "label": "木纹 · Planks 027 A",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "27",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks027A",
+      "source": "https://ambientcg.com/a/Planks027A",
+      "original_url": "https://ambientcg.com/get?file=Planks027A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:21.851006+00:00",
+      "image": "images/auto/acg_Planks027A.jpg",
+      "thumb": "thumbs/auto/acg_Planks027A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "f0c900f5878cc27c20d5caab0b9276164a2876eab562acc2734d337896c8e69c"
+    },
+    {
+      "id": "acg_Planks026C",
+      "name": "Planks 026 C",
+      "label": "木纹 · Planks 026 C",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "26",
+        "moldy",
+        "mossy",
+        "planks",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks026C",
+      "source": "https://ambientcg.com/a/Planks026C",
+      "original_url": "https://ambientcg.com/get?file=Planks026C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:23.317530+00:00",
+      "image": "images/auto/acg_Planks026C.jpg",
+      "thumb": "thumbs/auto/acg_Planks026C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "e240a57ea7b5da5476acc2ac9da68181c88ffbf783525744e789e6db863910c3"
+    },
+    {
+      "id": "acg_Planks026B",
+      "name": "Planks 026 B",
+      "label": "木纹 · Planks 026 B",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "26",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks026B",
+      "source": "https://ambientcg.com/a/Planks026B",
+      "original_url": "https://ambientcg.com/get?file=Planks026B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:24.269833+00:00",
+      "image": "images/auto/acg_Planks026B.jpg",
+      "thumb": "thumbs/auto/acg_Planks026B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "a24ad7d6aef90f7b9d4adba002e39d13c864d3dda5c1657610aab8eb28430b02"
+    },
+    {
+      "id": "acg_Planks026A",
+      "name": "Planks 026 A",
+      "label": "木纹 · Planks 026 A",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "26",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks026A",
+      "source": "https://ambientcg.com/a/Planks026A",
+      "original_url": "https://ambientcg.com/get?file=Planks026A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:25.479490+00:00",
+      "image": "images/auto/acg_Planks026A.jpg",
+      "thumb": "thumbs/auto/acg_Planks026A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "e2251ed4da77703b58143f6974fcfd4c9c6fb086e18ffaf611fb643a473591f2"
+    },
+    {
+      "id": "acg_Planks025C",
+      "name": "Planks 025 C",
+      "label": "木纹 · Planks 025 C",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "25",
+        "black",
+        "dark",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks025C",
+      "source": "https://ambientcg.com/a/Planks025C",
+      "original_url": "https://ambientcg.com/get?file=Planks025C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:26.419721+00:00",
+      "image": "images/auto/acg_Planks025C.jpg",
+      "thumb": "thumbs/auto/acg_Planks025C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "b25ef2786701d2d9a23dde79a45e97798340d99a1e3dee5c8474f66483414287"
+    },
+    {
+      "id": "acg_Planks025B",
+      "name": "Planks 025 B",
+      "label": "木纹 · Planks 025 B",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "25",
+        "black",
+        "dark",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks025B",
+      "source": "https://ambientcg.com/a/Planks025B",
+      "original_url": "https://ambientcg.com/get?file=Planks025B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:27.439517+00:00",
+      "image": "images/auto/acg_Planks025B.jpg",
+      "thumb": "thumbs/auto/acg_Planks025B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "05d316bf6e6ce654478962a4fab202074a23ae281da45d1715099e3aedb7fad3"
+    },
+    {
+      "id": "acg_Planks025A",
+      "name": "Planks 025 A",
+      "label": "木纹 · Planks 025 A",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "25",
+        "black",
+        "dark",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks025A",
+      "source": "https://ambientcg.com/a/Planks025A",
+      "original_url": "https://ambientcg.com/get?file=Planks025A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:28.371882+00:00",
+      "image": "images/auto/acg_Planks025A.jpg",
+      "thumb": "thumbs/auto/acg_Planks025A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "27690d737aebc46732cf8dae7ebc8e73a9ff142a3e029aae6a0d06aa68ba0d76"
+    },
+    {
+      "id": "acg_Planks024C",
+      "name": "Planks 024 C",
+      "label": "木纹 · Planks 024 C",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "24",
+        "black",
+        "dark",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks024C",
+      "source": "https://ambientcg.com/a/Planks024C",
+      "original_url": "https://ambientcg.com/get?file=Planks024C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:29.300444+00:00",
+      "image": "images/auto/acg_Planks024C.jpg",
+      "thumb": "thumbs/auto/acg_Planks024C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "28c8c22e0818e86b962c6f3d94a5b6524b82422e6a6f9ef75ea0a3e3be850a91"
+    },
+    {
+      "id": "acg_Planks024B",
+      "name": "Planks 024 B",
+      "label": "木纹 · Planks 024 B",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "black",
+        "dark",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks024B",
+      "source": "https://ambientcg.com/a/Planks024B",
+      "original_url": "https://ambientcg.com/get?file=Planks024B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:30.276449+00:00",
+      "image": "images/auto/acg_Planks024B.jpg",
+      "thumb": "thumbs/auto/acg_Planks024B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "1e1580ebec9109f72023e1e83d117eaed1ef2b96859abdc8cf8998c892e5df9d"
+    },
+    {
+      "id": "acg_Planks024A",
+      "name": "Planks 024 A",
+      "label": "木纹 · Planks 024 A",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "24",
+        "black",
+        "dark",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks024A",
+      "source": "https://ambientcg.com/a/Planks024A",
+      "original_url": "https://ambientcg.com/get?file=Planks024A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:31.280971+00:00",
+      "image": "images/auto/acg_Planks024A.jpg",
+      "thumb": "thumbs/auto/acg_Planks024A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "f765baa74c65f4f0d1eb34740ac3c46719df7b021d2e84249e88d4b29b84932a"
+    },
+    {
+      "id": "acg_Planks023C",
+      "name": "Planks 023 C",
+      "label": "木纹 · Planks 023 C",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "23",
+        "black",
+        "dark",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks023C",
+      "source": "https://ambientcg.com/a/Planks023C",
+      "original_url": "https://ambientcg.com/get?file=Planks023C_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:32.574085+00:00",
+      "image": "images/auto/acg_Planks023C.jpg",
+      "thumb": "thumbs/auto/acg_Planks023C.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "8caf5f0d56a541d9119c3d92da47789c3a4dd66c22e492c2cfefaaf58507cc7a"
+    },
+    {
+      "id": "acg_Planks023B",
+      "name": "Planks 023 B",
+      "label": "木纹 · Planks 023 B",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "23",
+        "dark",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks023B",
+      "source": "https://ambientcg.com/a/Planks023B",
+      "original_url": "https://ambientcg.com/get?file=Planks023B_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:34.493176+00:00",
+      "image": "images/auto/acg_Planks023B.jpg",
+      "thumb": "thumbs/auto/acg_Planks023B.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "b0a1a20d8b0df4aa41d618ca55245b60028870981667bc8b914a33756026cdd3"
+    },
+    {
+      "id": "acg_Planks023A",
+      "name": "Planks 023 A",
+      "label": "木纹 · Planks 023 A",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "23",
+        "dark",
+        "planks",
+        "wood",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks023A",
+      "source": "https://ambientcg.com/a/Planks023A",
+      "original_url": "https://ambientcg.com/get?file=Planks023A_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:35.163493+00:00",
+      "image": "images/auto/acg_Planks023A.jpg",
+      "thumb": "thumbs/auto/acg_Planks023A.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "df154cf5a2db02fc77bd6086ee81e757ccabd43f16a0f5feff653cffb0538642"
+    },
+    {
+      "id": "acg_Gravel031",
+      "name": "Gravel 031",
+      "label": "石材 · Gravel 031",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "31",
+        "gravel",
+        "yellow",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel031",
+      "source": "https://ambientcg.com/a/Gravel031",
+      "original_url": "https://ambientcg.com/get?file=Gravel031_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:37.065052+00:00",
+      "image": "images/auto/acg_Gravel031.jpg",
+      "thumb": "thumbs/auto/acg_Gravel031.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "b0098797b0bcd2a797c26a327f02f0494a483aac3d7ef917d48a4ba34c477ddf"
+    },
+    {
+      "id": "acg_ChristmasTreeOrnament010",
+      "name": "Christmas Tree Ornament 010",
+      "label": "装饰纹样 · Christmas Tree Ornament 010",
+      "material": "装饰纹样",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "10",
+        "blue",
+        "christmas",
+        "ornament",
+        "tree",
+        "Christmas Tree Ornament"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "ChristmasTreeOrnament010",
+      "source": "https://ambientcg.com/a/ChristmasTreeOrnament010",
+      "original_url": "https://ambientcg.com/get?file=ChristmasTreeOrnament010_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:37.923017+00:00",
+      "image": "images/auto/acg_ChristmasTreeOrnament010.jpg",
+      "thumb": "thumbs/auto/acg_ChristmasTreeOrnament010.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "蓝色"
+      ],
+      "sha256": "aea76257677abbf5852fa2a383f8d1d95f76447ffb1e4b56d7173d39ceba4469"
+    },
+    {
+      "id": "acg_ChristmasTreeOrnament009",
+      "name": "Christmas Tree Ornament 009",
+      "label": "装饰纹样 · Christmas Tree Ornament 009",
+      "material": "装饰纹样",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "9",
+        "christmas",
+        "green",
+        "ornament",
+        "tree",
+        "Christmas Tree Ornament"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "ChristmasTreeOrnament009",
+      "source": "https://ambientcg.com/a/ChristmasTreeOrnament009",
+      "original_url": "https://ambientcg.com/get?file=ChristmasTreeOrnament009_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:38.789550+00:00",
+      "image": "images/auto/acg_ChristmasTreeOrnament009.jpg",
+      "thumb": "thumbs/auto/acg_ChristmasTreeOrnament009.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "900bf00cf6ce59d3fd1b21f3ff1f5c773deaef7c104dab69389458cac75cb59b"
+    },
+    {
+      "id": "acg_ChristmasTreeOrnament008",
+      "name": "Christmas Tree Ornament 008",
+      "label": "装饰纹样 · Christmas Tree Ornament 008",
+      "material": "装饰纹样",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "christmas",
+        "ornament",
+        "red",
+        "tree",
+        "Christmas Tree Ornament"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "ChristmasTreeOrnament008",
+      "source": "https://ambientcg.com/a/ChristmasTreeOrnament008",
+      "original_url": "https://ambientcg.com/get?file=ChristmasTreeOrnament008_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:39.672056+00:00",
+      "image": "images/auto/acg_ChristmasTreeOrnament008.jpg",
+      "thumb": "thumbs/auto/acg_ChristmasTreeOrnament008.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "bf2ed01d7b1f7ec62b2e36e9a474cd99ee9e980c67017fe6836710ca69ed3adc"
+    },
+    {
+      "id": "acg_MetalPlates014",
+      "name": "Metal Plates 014",
+      "label": "金属 · Metal Plates 014",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "14",
+        "metal",
+        "plates",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates014",
+      "source": "https://ambientcg.com/a/MetalPlates014",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates014_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:40.736048+00:00",
+      "image": "images/auto/acg_MetalPlates014.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates014.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "f92a412a5862412e008bc30df99ae180e3a876aa3e11e03ce82da66ecaa6fbbf"
+    },
+    {
+      "id": "acg_MetalPlates013",
+      "name": "Metal Plates 013",
+      "label": "金属 · Metal Plates 013",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "13",
+        "metal",
+        "plates",
+        "rust",
+        "rusted",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates013",
+      "source": "https://ambientcg.com/a/MetalPlates013",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates013_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:41.739260+00:00",
+      "image": "images/auto/acg_MetalPlates013.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates013.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "17bb6359da420cfa4bf50052aac6864691de42904108ce0247eed389130ba736"
+    },
+    {
+      "id": "acg_MetalPlates012",
+      "name": "Metal Plates 012",
+      "label": "金属 · Metal Plates 012",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "12",
+        "metal",
+        "plates",
+        "rust",
+        "rusted",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates012",
+      "source": "https://ambientcg.com/a/MetalPlates012",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates012_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:43.173208+00:00",
+      "image": "images/auto/acg_MetalPlates012.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates012.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "705db051fe70ae9066da65f95860efec780baea85e6ed149b3ca8af1debc5adf"
+    },
+    {
+      "id": "acg_MetalPlates011",
+      "name": "Metal Plates 011",
+      "label": "金属 · Metal Plates 011",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "11",
+        "metal",
+        "plates",
+        "rust",
+        "rusted",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates011",
+      "source": "https://ambientcg.com/a/MetalPlates011",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates011_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:44.325754+00:00",
+      "image": "images/auto/acg_MetalPlates011.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates011.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "7dad1b4d0b12f0302ae1ecb50699f9927cbabee138e5914fc066a9ae37b028b0"
+    },
+    {
+      "id": "acg_MetalPlates010",
+      "name": "Metal Plates 010",
+      "label": "金属 · Metal Plates 010",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "10",
+        "metal",
+        "plates",
+        "rust",
+        "rusted",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates010",
+      "source": "https://ambientcg.com/a/MetalPlates010",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates010_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:45.800014+00:00",
+      "image": "images/auto/acg_MetalPlates010.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates010.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "91889876f7f8556d8a9c2946f89a6720d6fc8c68cf7bb314d8a6ec17a8c26b6a"
+    },
+    {
+      "id": "acg_Grate002",
+      "name": "Grate 002",
+      "label": "待分类 · Grate 002",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "grate",
+        "gutter",
+        "manhole",
+        "Grate"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Grate002",
+      "source": "https://ambientcg.com/a/Grate002",
+      "original_url": "https://ambientcg.com/get?file=Grate002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:46.761377+00:00",
+      "image": "images/auto/acg_Grate002.jpg",
+      "thumb": "thumbs/auto/acg_Grate002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "5ffa958099098198bb97265b388682503bf5974f36e48957db8f0194944e89bb"
+    },
+    {
+      "id": "acg_Pathway002",
+      "name": "Pathway 002",
+      "label": "自然地面 · Pathway 002",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "dirt",
+        "mud",
+        "pathway",
+        "way",
+        "Pathway"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Pathway002",
+      "source": "https://ambientcg.com/a/Pathway002",
+      "original_url": "https://ambientcg.com/get?file=Pathway002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:48.539841+00:00",
+      "image": "images/auto/acg_Pathway002.jpg",
+      "thumb": "thumbs/auto/acg_Pathway002.jpg",
+      "size": [
+        1024,
+        512
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "052634837057344b2a27552a8f3273f39f41c786657757ee8f655355b47059f1"
+    },
+    {
+      "id": "acg_Pathway001",
+      "name": "Pathway 001",
+      "label": "石材 · Pathway 001",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "path",
+        "pathway",
+        "rock",
+        "rocks",
+        "rocky",
+        "way",
+        "Pathway"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Pathway001",
+      "source": "https://ambientcg.com/a/Pathway001",
+      "original_url": "https://ambientcg.com/get?file=Pathway001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:49.394872+00:00",
+      "image": "images/auto/acg_Pathway001.jpg",
+      "thumb": "thumbs/auto/acg_Pathway001.jpg",
+      "size": [
+        1024,
+        512
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "1756988f9b2295ec0fca8f919644a69accd61968080caf14aaf8afe110125805"
+    },
+    {
+      "id": "acg_Rocks024S",
+      "name": "Rocks 024 S",
+      "label": "石材 · Rocks 024 S",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "24",
+        "bed",
+        "flat",
+        "gray",
+        "grey",
+        "river",
+        "rocks",
+        "Rocks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Rocks024S",
+      "source": "https://ambientcg.com/a/Rocks024S",
+      "original_url": "https://ambientcg.com/get?file=Rocks024S_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:50.924531+00:00",
+      "image": "images/auto/acg_Rocks024S.jpg",
+      "thumb": "thumbs/auto/acg_Rocks024S.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "bed50639ae2083e9ad27318614891283bda9c0178d01228eaa354cb9f1d5f934"
+    },
+    {
+      "id": "acg_Rocks024L",
+      "name": "Rocks 024 L",
+      "label": "石材 · Rocks 024 L",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "24",
+        "bed",
+        "flat",
+        "gray",
+        "grey",
+        "river",
+        "rocks",
+        "Rocks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Rocks024L",
+      "source": "https://ambientcg.com/a/Rocks024L",
+      "original_url": "https://ambientcg.com/get?file=Rocks024L_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:51.914031+00:00",
+      "image": "images/auto/acg_Rocks024L.jpg",
+      "thumb": "thumbs/auto/acg_Rocks024L.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "da24408d59d74698077e5e534612a07f153111a0e060ca7b343579780329b7d1"
+    },
+    {
+      "id": "acg_Asphalt022",
+      "name": "Asphalt 022",
+      "label": "沥青 · Asphalt 022",
+      "material": "沥青",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "22",
+        "asphalt",
+        "broken",
+        "cracks",
+        "dark",
+        "gray",
+        "grey",
+        "Asphalt"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Asphalt022",
+      "source": "https://ambientcg.com/a/Asphalt022",
+      "original_url": "https://ambientcg.com/get?file=Asphalt022_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:52.988094+00:00",
+      "image": "images/auto/acg_Asphalt022.jpg",
+      "thumb": "thumbs/auto/acg_Asphalt022.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "22c11556cad254d3cd2cd9db4ef1fc886abd864919842c830c9ccc4e788f55a1"
+    },
+    {
+      "id": "acg_Asphalt021",
+      "name": "Asphalt 021",
+      "label": "沥青 · Asphalt 021",
+      "material": "沥青",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "21",
+        "asphalt",
+        "broken",
+        "cracks",
+        "dark",
+        "gray",
+        "grey",
+        "Asphalt"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Asphalt021",
+      "source": "https://ambientcg.com/a/Asphalt021",
+      "original_url": "https://ambientcg.com/get?file=Asphalt021_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:54.115005+00:00",
+      "image": "images/auto/acg_Asphalt021.jpg",
+      "thumb": "thumbs/auto/acg_Asphalt021.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "647e31a384276f0410e1d569a233598cfcb5542f441be10a68f38126e33b2058"
+    },
+    {
+      "id": "acg_Asphalt020S",
+      "name": "Asphalt 020 S",
+      "label": "沥青 · Asphalt 020 S",
+      "material": "沥青",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "20",
+        "asphalt",
+        "clean",
+        "dark",
+        "grey",
+        "smooth",
+        "Asphalt"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Asphalt020S",
+      "source": "https://ambientcg.com/a/Asphalt020S",
+      "original_url": "https://ambientcg.com/get?file=Asphalt020S_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:55.199510+00:00",
+      "image": "images/auto/acg_Asphalt020S.jpg",
+      "thumb": "thumbs/auto/acg_Asphalt020S.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "bbe33b08e3ffd6cbc7ab6c8c78f9d4ffdeb1ddeed2b3d28bd161ce43d8d4c466"
+    },
+    {
+      "id": "acg_Asphalt020L",
+      "name": "Asphalt 020 L",
+      "label": "沥青 · Asphalt 020 L",
+      "material": "沥青",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "20",
+        "asphalt",
+        "clean",
+        "dark",
+        "grey",
+        "smooth",
+        "Asphalt"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Asphalt020L",
+      "source": "https://ambientcg.com/a/Asphalt020L",
+      "original_url": "https://ambientcg.com/get?file=Asphalt020L_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:56.217492+00:00",
+      "image": "images/auto/acg_Asphalt020L.jpg",
+      "thumb": "thumbs/auto/acg_Asphalt020L.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "ed8631d57c69f647b90f197ec0a5da4bd866eefbe29f347a2fa818d0ef8f7ad7"
+    },
+    {
+      "id": "acg_WoodSiding013",
+      "name": "Wood Siding 013",
+      "label": "木纹 · Wood Siding 013",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "13",
+        "shingles",
+        "siding",
+        "weathered",
+        "wood",
+        "Wood Siding"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodSiding013",
+      "source": "https://ambientcg.com/a/WoodSiding013",
+      "original_url": "https://ambientcg.com/get?file=WoodSiding013_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:57.151572+00:00",
+      "image": "images/auto/acg_WoodSiding013.jpg",
+      "thumb": "thumbs/auto/acg_WoodSiding013.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "1d02899d68bdf1aa7b73580a8ec0cf666da3c5d85d74314223ee83ae1c2c35cb"
+    },
+    {
+      "id": "acg_WoodSiding012",
+      "name": "Wood Siding 012",
+      "label": "木纹 · Wood Siding 012",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "12",
+        "shingles",
+        "siding",
+        "weathered",
+        "wood",
+        "Wood Siding"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodSiding012",
+      "source": "https://ambientcg.com/a/WoodSiding012",
+      "original_url": "https://ambientcg.com/get?file=WoodSiding012_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:09:58.347474+00:00",
+      "image": "images/auto/acg_WoodSiding012.jpg",
+      "thumb": "thumbs/auto/acg_WoodSiding012.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "f4cca355e1caa581e14e491a06c6c82fad9e74d0dd6fa253afb5a497dbb20765"
+    },
+    {
+      "id": "acg_WoodSiding011",
+      "name": "Wood Siding 011",
+      "label": "木纹 · Wood Siding 011",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "11",
+        "shingles",
+        "siding",
+        "weathered",
+        "wood",
+        "Wood Siding"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodSiding011",
+      "source": "https://ambientcg.com/a/WoodSiding011",
+      "original_url": "https://ambientcg.com/get?file=WoodSiding011_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:00.429125+00:00",
+      "image": "images/auto/acg_WoodSiding011.jpg",
+      "thumb": "thumbs/auto/acg_WoodSiding011.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "a6a62b84acd1604df9ce823fcf96481584a82060c0953c7842f8edd44d0f53dc"
+    },
+    {
+      "id": "acg_WoodSiding010",
+      "name": "Wood Siding 010",
+      "label": "木纹 · Wood Siding 010",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "10",
+        "shingles",
+        "siding",
+        "weathered",
+        "wood",
+        "Wood Siding"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodSiding010",
+      "source": "https://ambientcg.com/a/WoodSiding010",
+      "original_url": "https://ambientcg.com/get?file=WoodSiding010_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:01.379479+00:00",
+      "image": "images/auto/acg_WoodSiding010.jpg",
+      "thumb": "thumbs/auto/acg_WoodSiding010.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "bd15e7bf9de844cffe882001aaa401d62c24fa9fa60dbaad6eabfaf344d207b0"
+    },
+    {
+      "id": "acg_Gravel030",
+      "name": "Gravel 030",
+      "label": "石材 · Gravel 030",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "30",
+        "dirt",
+        "gravel",
+        "pebbles",
+        "sand",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel030",
+      "source": "https://ambientcg.com/a/Gravel030",
+      "original_url": "https://ambientcg.com/get?file=Gravel030_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:02.836951+00:00",
+      "image": "images/auto/acg_Gravel030.jpg",
+      "thumb": "thumbs/auto/acg_Gravel030.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "c2d83b3870a2bfdb371c2901e3a9976217d435e127256119efb254dbc422c25c"
+    },
+    {
+      "id": "acg_WoodFloor050",
+      "name": "Wood Floor 050",
+      "label": "木纹 · Wood Floor 050",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "50",
+        "brown",
+        "floor",
+        "pattern",
+        "smooth",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor050",
+      "source": "https://ambientcg.com/a/WoodFloor050",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor050_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:04.127388+00:00",
+      "image": "images/auto/acg_WoodFloor050.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor050.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "58e32a5c84213fe8d9353fcbd2fa2e1678f2f30dfef84993ecb8c8d4e05b5e51"
+    },
+    {
+      "id": "acg_WoodFloor049",
+      "name": "Wood Floor 049",
+      "label": "木纹 · Wood Floor 049",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "49",
+        "brown",
+        "floor",
+        "smooth",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor049",
+      "source": "https://ambientcg.com/a/WoodFloor049",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor049_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:05.036403+00:00",
+      "image": "images/auto/acg_WoodFloor049.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor049.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "c987e2222b94ce20b660fc1863303735f1424f986a3ac954e038d1d66d2641b0"
+    },
+    {
+      "id": "acg_WoodFloor048",
+      "name": "Wood Floor 048",
+      "label": "木纹 · Wood Floor 048",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "48",
+        "brown",
+        "dark",
+        "floor",
+        "smooth",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor048",
+      "source": "https://ambientcg.com/a/WoodFloor048",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor048_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:06.063503+00:00",
+      "image": "images/auto/acg_WoodFloor048.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor048.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "b3f4c185d2f264b6a153e4b49d62cb34ed32d7b1df9f6c52bb24dc0468df850a"
+    },
+    {
+      "id": "acg_WoodFloor047",
+      "name": "Wood Floor 047",
+      "label": "木纹 · Wood Floor 047",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "47",
+        "brown",
+        "floor",
+        "light",
+        "smooth",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor047",
+      "source": "https://ambientcg.com/a/WoodFloor047",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor047_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:07.242134+00:00",
+      "image": "images/auto/acg_WoodFloor047.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor047.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "58bd1a4779e2c76e4cfedae6c0eef4966ed69ecb9b38322f67311f876b80eb90"
+    },
+    {
+      "id": "acg_WoodFloor046",
+      "name": "Wood Floor 046",
+      "label": "木纹 · Wood Floor 046",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "46",
+        "brown",
+        "dark",
+        "floor",
+        "smooth",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor046",
+      "source": "https://ambientcg.com/a/WoodFloor046",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor046_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:08.191112+00:00",
+      "image": "images/auto/acg_WoodFloor046.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor046.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "db667d8cb45f1aa7c62c2af6d49f96cebc7ad1fb1d8431150b0a99e543cc4b02"
+    },
+    {
+      "id": "acg_WoodFloor045",
+      "name": "Wood Floor 045",
+      "label": "木纹 · Wood Floor 045",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "45",
+        "floor",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor045",
+      "source": "https://ambientcg.com/a/WoodFloor045",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor045_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:09.227364+00:00",
+      "image": "images/auto/acg_WoodFloor045.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor045.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "227bb44e779b07f202f36724f8b58d625cdb01f86c8d513d7d29f163a707353a"
+    },
+    {
+      "id": "acg_Gravel029",
+      "name": "Gravel 029",
+      "label": "石材 · Gravel 029",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "29",
+        "dirt",
+        "gravel",
+        "ground",
+        "grunge",
+        "moss",
+        "pebbles",
+        "stone",
+        "wet",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel029",
+      "source": "https://ambientcg.com/a/Gravel029",
+      "original_url": "https://ambientcg.com/get?file=Gravel029_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:10.677369+00:00",
+      "image": "images/auto/acg_Gravel029.jpg",
+      "thumb": "thumbs/auto/acg_Gravel029.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "ad490f804bd6028116f0d9a26f1279c6f8d0df2a2c007c357633019514df12cc"
+    },
+    {
+      "id": "acg_Gravel028",
+      "name": "Gravel 028",
+      "label": "石材 · Gravel 028",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "28",
+        "dirt",
+        "gravel",
+        "ground",
+        "large",
+        "pebbles",
+        "smooth",
+        "stone",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel028",
+      "source": "https://ambientcg.com/a/Gravel028",
+      "original_url": "https://ambientcg.com/get?file=Gravel028_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:12.463211+00:00",
+      "image": "images/auto/acg_Gravel028.jpg",
+      "thumb": "thumbs/auto/acg_Gravel028.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "703d3a095aa7d5499af26750478ed2f2f165dfdab68dafd541748977911513c3"
+    },
+    {
+      "id": "acg_Gravel027",
+      "name": "Gravel 027",
+      "label": "石材 · Gravel 027",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "27",
+        "dirt",
+        "gravel",
+        "ground",
+        "pebbles",
+        "stone",
+        "yellow",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel027",
+      "source": "https://ambientcg.com/a/Gravel027",
+      "original_url": "https://ambientcg.com/get?file=Gravel027_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:14.550753+00:00",
+      "image": "images/auto/acg_Gravel027.jpg",
+      "thumb": "thumbs/auto/acg_Gravel027.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "cb42cd0142e3308eeda7fa37b46f5a5c89619906be476a311a4124423c26aef1"
+    },
+    {
+      "id": "acg_Gravel026",
+      "name": "Gravel 026",
+      "label": "石材 · Gravel 026",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "26",
+        "dirt",
+        "gravel",
+        "grey",
+        "ground",
+        "pebbles",
+        "spotted",
+        "stone",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel026",
+      "source": "https://ambientcg.com/a/Gravel026",
+      "original_url": "https://ambientcg.com/get?file=Gravel026_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:15.729283+00:00",
+      "image": "images/auto/acg_Gravel026.jpg",
+      "thumb": "thumbs/auto/acg_Gravel026.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "eaa45ba26f7d1a5159b196531de052a9679b517e9373fac8fae0ddfaf0d06991"
+    },
+    {
+      "id": "acg_Gravel025",
+      "name": "Gravel 025",
+      "label": "石材 · Gravel 025",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "25",
+        "dirt",
+        "gravel",
+        "ground",
+        "orange",
+        "pebbles",
+        "red",
+        "stone",
+        "yellow",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel025",
+      "source": "https://ambientcg.com/a/Gravel025",
+      "original_url": "https://ambientcg.com/get?file=Gravel025_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:17.151550+00:00",
+      "image": "images/auto/acg_Gravel025.jpg",
+      "thumb": "thumbs/auto/acg_Gravel025.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "5a919c91753e860e354867b04d96f3d2cedd0a6f41af38529f8c4a2924e2ce00"
+    },
+    {
+      "id": "acg_Gravel024",
+      "name": "Gravel 024",
+      "label": "石材 · Gravel 024",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "24",
+        "black",
+        "dark",
+        "dirt",
+        "gravel",
+        "grey",
+        "ground",
+        "pebbles",
+        "stone",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel024",
+      "source": "https://ambientcg.com/a/Gravel024",
+      "original_url": "https://ambientcg.com/get?file=Gravel024_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:18.192628+00:00",
+      "image": "images/auto/acg_Gravel024.jpg",
+      "thumb": "thumbs/auto/acg_Gravel024.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "80da1deb63c8166aa5ab7572665d6928bc054289ff4aec578da7003481a189d7"
+    },
+    {
+      "id": "acg_Gravel023",
+      "name": "Gravel 023",
+      "label": "石材 · Gravel 023",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "23",
+        "bright",
+        "dirt",
+        "gravel",
+        "ground",
+        "light",
+        "pebbles",
+        "stone",
+        "white",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel023",
+      "source": "https://ambientcg.com/a/Gravel023",
+      "original_url": "https://ambientcg.com/get?file=Gravel023_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:19.386360+00:00",
+      "image": "images/auto/acg_Gravel023.jpg",
+      "thumb": "thumbs/auto/acg_Gravel023.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "白色"
+      ],
+      "sha256": "4992b5322c763fd24a0237da219d3197d00826448e33fb1a11bdf6453219b45b"
+    },
+    {
+      "id": "acg_Gravel022",
+      "name": "Gravel 022",
+      "label": "石材 · Gravel 022",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "22",
+        "dirt",
+        "gravel",
+        "grey",
+        "ground",
+        "pebbles",
+        "stone",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel022",
+      "source": "https://ambientcg.com/a/Gravel022",
+      "original_url": "https://ambientcg.com/get?file=Gravel022_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:20.696034+00:00",
+      "image": "images/auto/acg_Gravel022.jpg",
+      "thumb": "thumbs/auto/acg_Gravel022.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "5906254cb658d14ea9cd4531d04b296d86db7ec8d55acfa000c27f029fb82ee7"
+    },
+    {
+      "id": "acg_Paper004",
+      "name": "Paper 004",
+      "label": "待分类 · Paper 004",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "4",
+        "brown",
+        "package",
+        "packing",
+        "paper",
+        "Paper"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Paper004",
+      "source": "https://ambientcg.com/a/Paper004",
+      "original_url": "https://ambientcg.com/get?file=Paper004_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:21.724048+00:00",
+      "image": "images/auto/acg_Paper004.jpg",
+      "thumb": "thumbs/auto/acg_Paper004.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "bd739ab300202b4138477cac34a6e11784319dcd3bd74165fe9a117a19d37c50"
+    },
+    {
+      "id": "acg_Ground048",
+      "name": "Ground 048",
+      "label": "自然地面 · Ground 048",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "48",
+        "brown",
+        "dirt",
+        "ground",
+        "soil",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground048",
+      "source": "https://ambientcg.com/a/Ground048",
+      "original_url": "https://ambientcg.com/get?file=Ground048_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:22.987840+00:00",
+      "image": "images/auto/acg_Ground048.jpg",
+      "thumb": "thumbs/auto/acg_Ground048.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "5ed6949bbe77332e12f9fdcfcadcd1d851ae2240ea0a46196e9a171fac201e8b"
+    },
+    {
+      "id": "acg_PaintedPlaster018",
+      "name": "Painted Plaster 018",
+      "label": "涂料 · Painted Plaster 018",
+      "material": "涂料",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "18",
+        "damaged",
+        "painted",
+        "plaster",
+        "yellow",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster018",
+      "source": "https://ambientcg.com/a/PaintedPlaster018",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster018_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:23.989871+00:00",
+      "image": "images/auto/acg_PaintedPlaster018.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster018.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "6594245d2435c24959cb911d599b25b6d2176bc690b1aabcad406e51c70b4877"
+    },
+    {
+      "id": "acg_PaintedBricks005",
+      "name": "Painted Bricks 005",
+      "label": "砖墙 · Painted Bricks 005",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "5",
+        "black",
+        "bricks",
+        "damaged",
+        "paint",
+        "painted",
+        "Painted Bricks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedBricks005",
+      "source": "https://ambientcg.com/a/PaintedBricks005",
+      "original_url": "https://ambientcg.com/get?file=PaintedBricks005_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:24.959587+00:00",
+      "image": "images/auto/acg_PaintedBricks005.jpg",
+      "thumb": "thumbs/auto/acg_PaintedBricks005.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "ed3b5cb7099fceec419512f21245ec53005bb11782b2dd596c5b8b20850c29df"
+    },
+    {
+      "id": "acg_PaintedBricks004",
+      "name": "Painted Bricks 004",
+      "label": "砖墙 · Painted Bricks 004",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "4",
+        "bricks",
+        "paint",
+        "painted",
+        "smooth",
+        "white",
+        "Painted Bricks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedBricks004",
+      "source": "https://ambientcg.com/a/PaintedBricks004",
+      "original_url": "https://ambientcg.com/get?file=PaintedBricks004_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:26.097176+00:00",
+      "image": "images/auto/acg_PaintedBricks004.jpg",
+      "thumb": "thumbs/auto/acg_PaintedBricks004.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "efd7879dfdf05ad50c770169df316d78bb9450f5e2471d287b9474ee52a6ff7d"
+    },
+    {
+      "id": "acg_PaintedBricks003",
+      "name": "Painted Bricks 003",
+      "label": "砖墙 · Painted Bricks 003",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "3",
+        "brick",
+        "bricks",
+        "clean",
+        "green",
+        "light",
+        "painted",
+        "smooth",
+        "wall",
+        "Painted Bricks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedBricks003",
+      "source": "https://ambientcg.com/a/PaintedBricks003",
+      "original_url": "https://ambientcg.com/get?file=PaintedBricks003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:27.080125+00:00",
+      "image": "images/auto/acg_PaintedBricks003.jpg",
+      "thumb": "thumbs/auto/acg_PaintedBricks003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "0fd71158bdea470ef057e5d563734d561427eefe2f790cd672189f98fec2990c"
+    },
+    {
+      "id": "acg_PaintedBricks002",
+      "name": "Painted Bricks 002",
+      "label": "砖墙 · Painted Bricks 002",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "brick",
+        "bricks",
+        "damaged",
+        "painted",
+        "scratched",
+        "wall",
+        "yellow",
+        "Painted Bricks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedBricks002",
+      "source": "https://ambientcg.com/a/PaintedBricks002",
+      "original_url": "https://ambientcg.com/get?file=PaintedBricks002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:28.038645+00:00",
+      "image": "images/auto/acg_PaintedBricks002.jpg",
+      "thumb": "thumbs/auto/acg_PaintedBricks002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "70f68c6b4f0368d09d7c547cf50d940e3de8cbc38558f0003ecbe5b26e1429d1"
+    },
+    {
+      "id": "acg_PaintedBricks001",
+      "name": "Painted Bricks 001",
+      "label": "砖墙 · Painted Bricks 001",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "blue",
+        "brick",
+        "bricks",
+        "painted",
+        "wall",
+        "Painted Bricks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedBricks001",
+      "source": "https://ambientcg.com/a/PaintedBricks001",
+      "original_url": "https://ambientcg.com/get?file=PaintedBricks001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:28.992989+00:00",
+      "image": "images/auto/acg_PaintedBricks001.jpg",
+      "thumb": "thumbs/auto/acg_PaintedBricks001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "蓝色"
+      ],
+      "sha256": "e268f803c9f78b8c8e0c000cf3b11c43383a136a7d59ac6f8eb7128600871e91"
+    },
+    {
+      "id": "acg_PaintedPlaster017",
+      "name": "Painted Plaster 017",
+      "label": "涂料 · Painted Plaster 017",
+      "material": "涂料",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "17",
+        "paint",
+        "painted",
+        "plaster",
+        "white",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster017",
+      "source": "https://ambientcg.com/a/PaintedPlaster017",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster017_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:29.941816+00:00",
+      "image": "images/auto/acg_PaintedPlaster017.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster017.jpg",
+      "size": [
+        1024,
+        512
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "ed8a69a6437de9d41d2cf380f7e6a216232fc4754f256c3405985c857547ffef"
+    },
+    {
+      "id": "acg_WoodFloor044",
+      "name": "Wood Floor 044",
+      "label": "木纹 · Wood Floor 044",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "44",
+        "floor",
+        "parquet",
+        "planks",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor044",
+      "source": "https://ambientcg.com/a/WoodFloor044",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor044_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:30.876425+00:00",
+      "image": "images/auto/acg_WoodFloor044.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor044.jpg",
+      "size": [
+        1024,
+        512
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "6cb20880e6ce18f78e8ab1048847d4298384d1b774466771c28d8d4b0abbd83d"
+    },
+    {
+      "id": "acg_WoodFloor043",
+      "name": "Wood Floor 043",
+      "label": "木纹 · Wood Floor 043",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "43",
+        "floor",
+        "parquet",
+        "planks",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor043",
+      "source": "https://ambientcg.com/a/WoodFloor043",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor043_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:31.502527+00:00",
+      "image": "images/auto/acg_WoodFloor043.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor043.jpg",
+      "size": [
+        1024,
+        512
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "307c33f1fc5e05f47bfc513a1cca2b6f4f2b179d74d873dd874a24938889cd98"
+    },
+    {
+      "id": "acg_WoodFloor042",
+      "name": "Wood Floor 042",
+      "label": "木纹 · Wood Floor 042",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "42",
+        "floor",
+        "parquet",
+        "planks",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor042",
+      "source": "https://ambientcg.com/a/WoodFloor042",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor042_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:32.361286+00:00",
+      "image": "images/auto/acg_WoodFloor042.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor042.jpg",
+      "size": [
+        1024,
+        512
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "8ac063afbd31fe53c6ae5a1c6b410882144d34a4a675d55e8b7b30f32e30fc04"
+    },
+    {
+      "id": "acg_Ground047",
+      "name": "Ground 047",
+      "label": "自然地面 · Ground 047",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "47",
+        "dirt",
+        "ground",
+        "sand",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground047",
+      "source": "https://ambientcg.com/a/Ground047",
+      "original_url": "https://ambientcg.com/get?file=Ground047_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:33.357494+00:00",
+      "image": "images/auto/acg_Ground047.jpg",
+      "thumb": "thumbs/auto/acg_Ground047.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "db08d76878a4c48b1952d2fff9654048b46901ce0846ea63f99ebe81a04ce940"
+    },
+    {
+      "id": "acg_Ground046",
+      "name": "Ground 046",
+      "label": "自然地面 · Ground 046",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "46",
+        "dirt",
+        "ground",
+        "sand",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground046",
+      "source": "https://ambientcg.com/a/Ground046",
+      "original_url": "https://ambientcg.com/get?file=Ground046_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:35.043756+00:00",
+      "image": "images/auto/acg_Ground046.jpg",
+      "thumb": "thumbs/auto/acg_Ground046.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "e472dacf923502a9bba81bf4b02dcfc88a5d4b70044251ff347f831afd5768eb"
+    },
+    {
+      "id": "acg_Ground045",
+      "name": "Ground 045",
+      "label": "自然地面 · Ground 045",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "45",
+        "dirt",
+        "ground",
+        "sand",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground045",
+      "source": "https://ambientcg.com/a/Ground045",
+      "original_url": "https://ambientcg.com/get?file=Ground045_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:36.843543+00:00",
+      "image": "images/auto/acg_Ground045.jpg",
+      "thumb": "thumbs/auto/acg_Ground045.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "afd77f192105e5fb30416f7bba7c5fcedd6d4b0d2d08f6bec9eee64e706f7ca6"
+    },
+    {
+      "id": "acg_Ground044",
+      "name": "Ground 044",
+      "label": "自然地面 · Ground 044",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "44",
+        "dirt",
+        "ground",
+        "sand",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground044",
+      "source": "https://ambientcg.com/a/Ground044",
+      "original_url": "https://ambientcg.com/get?file=Ground044_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:38.409582+00:00",
+      "image": "images/auto/acg_Ground044.jpg",
+      "thumb": "thumbs/auto/acg_Ground044.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "4bb6b370719295c94e73c7d410f6bbfe93a50502d50bf49ccf74c1ac81d8ea15"
+    },
+    {
+      "id": "acg_Ground043",
+      "name": "Ground 043",
+      "label": "自然地面 · Ground 043",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "43",
+        "dirt",
+        "ground",
+        "sand",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground043",
+      "source": "https://ambientcg.com/a/Ground043",
+      "original_url": "https://ambientcg.com/get?file=Ground043_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:40.133560+00:00",
+      "image": "images/auto/acg_Ground043.jpg",
+      "thumb": "thumbs/auto/acg_Ground043.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "83694aef79d2a385d714412d53e47652d2cc6836fe1483039fe6721384ab1b9e"
+    },
+    {
+      "id": "acg_Grass004",
+      "name": "Grass 004",
+      "label": "自然地面 · Grass 004",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "004",
+        "4",
+        "dense",
+        "garden",
+        "grass",
+        "grass004",
+        "green",
+        "ground",
+        "lawn",
+        "lush",
+        "natural",
+        "park",
+        "short",
+        "soft",
+        "suburban",
+        "Grass"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Grass004",
+      "source": "https://ambientcg.com/a/Grass004",
+      "original_url": "https://ambientcg.com/get?file=Grass004_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:41.414432+00:00",
+      "image": "images/auto/acg_Grass004.jpg",
+      "thumb": "thumbs/auto/acg_Grass004.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "9e1c60da44b34a9738b1256ba827541f097dc583521b1d281e61b5f4b4217bc5"
+    },
+    {
+      "id": "acg_Grass003",
+      "name": "Grass 003",
+      "label": "自然地面 · Grass 003",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "3",
+        "grass",
+        "green",
+        "ground",
+        "Grass"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Grass003",
+      "source": "https://ambientcg.com/a/Grass003",
+      "original_url": "https://ambientcg.com/get?file=Grass003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:42.673230+00:00",
+      "image": "images/auto/acg_Grass003.jpg",
+      "thumb": "thumbs/auto/acg_Grass003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "6beecbfe11d1c7e75784e5357d2ddd300024988e4028eb8a21838824ca80da2b"
+    },
+    {
+      "id": "acg_Grass002",
+      "name": "Grass 002",
+      "label": "自然地面 · Grass 002",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "grass",
+        "green",
+        "ground",
+        "Grass"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Grass002",
+      "source": "https://ambientcg.com/a/Grass002",
+      "original_url": "https://ambientcg.com/get?file=Grass002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:43.888791+00:00",
+      "image": "images/auto/acg_Grass002.jpg",
+      "thumb": "thumbs/auto/acg_Grass002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "9d6d920f27a38376747e0ac9458ee6449a94d382d2626b3d215d769231a023fd"
+    },
+    {
+      "id": "acg_Grass001",
+      "name": "Grass 001",
+      "label": "自然地面 · Grass 001",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "001",
+        "1",
+        "cover",
+        "dark",
+        "dense",
+        "fresh",
+        "garden",
+        "grass",
+        "grass001",
+        "green",
+        "ground",
+        "lawn",
+        "natural",
+        "park",
+        "short",
+        "soft",
+        "Grass"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Grass001",
+      "source": "https://ambientcg.com/a/Grass001",
+      "original_url": "https://ambientcg.com/get?file=Grass001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:44.774220+00:00",
+      "image": "images/auto/acg_Grass001.jpg",
+      "thumb": "thumbs/auto/acg_Grass001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "b9b6d61bc3b6137b868a3447eef18737896acd26d58fe2f4b83ce8c0e9d3f8ad"
+    },
+    {
+      "id": "acg_OfficeCeiling006",
+      "name": "Office Ceiling 006",
+      "label": "待分类 · Office Ceiling 006",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "6",
+        "ceiling",
+        "office",
+        "Office Ceiling"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "OfficeCeiling006",
+      "source": "https://ambientcg.com/a/OfficeCeiling006",
+      "original_url": "https://ambientcg.com/get?file=OfficeCeiling006_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:48.499087+00:00",
+      "image": "images/auto/acg_OfficeCeiling006.jpg",
+      "thumb": "thumbs/auto/acg_OfficeCeiling006.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "白色"
+      ],
+      "sha256": "72408eded2326048b9486bb25a2ee224e6923bbadbe1a8f6ee1b6c8f230b20c9"
+    },
+    {
+      "id": "acg_OfficeCeiling005",
+      "name": "Office Ceiling 005",
+      "label": "待分类 · Office Ceiling 005",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "5",
+        "ceiling",
+        "office",
+        "Office Ceiling"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "OfficeCeiling005",
+      "source": "https://ambientcg.com/a/OfficeCeiling005",
+      "original_url": "https://ambientcg.com/get?file=OfficeCeiling005_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:49.684138+00:00",
+      "image": "images/auto/acg_OfficeCeiling005.jpg",
+      "thumb": "thumbs/auto/acg_OfficeCeiling005.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "白色"
+      ],
+      "sha256": "65fc441afe3ec51ff57077df46a94e5620465aa1acd8ade32a93d6e20c6c6044"
+    },
+    {
+      "id": "acg_OfficeCeiling004",
+      "name": "Office Ceiling 004",
+      "label": "待分类 · Office Ceiling 004",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "4",
+        "ceiling",
+        "office",
+        "Office Ceiling"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "OfficeCeiling004",
+      "source": "https://ambientcg.com/a/OfficeCeiling004",
+      "original_url": "https://ambientcg.com/get?file=OfficeCeiling004_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:50.854454+00:00",
+      "image": "images/auto/acg_OfficeCeiling004.jpg",
+      "thumb": "thumbs/auto/acg_OfficeCeiling004.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "778b0d55d7eb0d494d07b10174a790b102da0c93fe686d18b0e4064d7f0bdc06"
+    },
+    {
+      "id": "acg_OfficeCeiling003",
+      "name": "Office Ceiling 003",
+      "label": "待分类 · Office Ceiling 003",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "3",
+        "ceiling",
+        "office",
+        "Office Ceiling"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "OfficeCeiling003",
+      "source": "https://ambientcg.com/a/OfficeCeiling003",
+      "original_url": "https://ambientcg.com/get?file=OfficeCeiling003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:52.075360+00:00",
+      "image": "images/auto/acg_OfficeCeiling003.jpg",
+      "thumb": "thumbs/auto/acg_OfficeCeiling003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "白色"
+      ],
+      "sha256": "358af9ed4d8746c67d578a3cca80741b764eeea4cb4b3b7b716b9051fcfdc532"
+    },
+    {
+      "id": "acg_OfficeCeiling002",
+      "name": "Office Ceiling 002",
+      "label": "待分类 · Office Ceiling 002",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "ceiling",
+        "office",
+        "Office Ceiling"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "OfficeCeiling002",
+      "source": "https://ambientcg.com/a/OfficeCeiling002",
+      "original_url": "https://ambientcg.com/get?file=OfficeCeiling002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:53.211910+00:00",
+      "image": "images/auto/acg_OfficeCeiling002.jpg",
+      "thumb": "thumbs/auto/acg_OfficeCeiling002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "白色"
+      ],
+      "sha256": "99e5dde3391392d2845293d8d198d74200ac04bc33d1dcac734d538e78cf657c"
+    },
+    {
+      "id": "acg_OfficeCeiling001",
+      "name": "Office Ceiling 001",
+      "label": "待分类 · Office Ceiling 001",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "ceiling",
+        "office",
+        "Office Ceiling"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "OfficeCeiling001",
+      "source": "https://ambientcg.com/a/OfficeCeiling001",
+      "original_url": "https://ambientcg.com/get?file=OfficeCeiling001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:54.257586+00:00",
+      "image": "images/auto/acg_OfficeCeiling001.jpg",
+      "thumb": "thumbs/auto/acg_OfficeCeiling001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "白色"
+      ],
+      "sha256": "1a34c9db312a12c49365875630136e421d77e729f275ef93529ad20c0b336208"
+    },
+    {
+      "id": "acg_Fingerprints009",
+      "name": "Fingerprints 009",
+      "label": "污渍 · Fingerprints 009",
+      "material": "污渍",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "9",
+        "dirt",
+        "fingerprints",
+        "smear",
+        "Fingerprints"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fingerprints009",
+      "source": "https://ambientcg.com/a/Fingerprints009",
+      "original_url": "https://ambientcg.com/get?file=Fingerprints009_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:55.396561+00:00",
+      "image": "images/auto/acg_Fingerprints009.jpg",
+      "thumb": "thumbs/auto/acg_Fingerprints009.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "d6808a48db9dc0e533692bf2d255b9fcae4e1e4e5f72458d857d316400e991fd"
+    },
+    {
+      "id": "acg_Fingerprints008",
+      "name": "Fingerprints 008",
+      "label": "污渍 · Fingerprints 008",
+      "material": "污渍",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "dirt",
+        "fingerprints",
+        "smear",
+        "Fingerprints"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fingerprints008",
+      "source": "https://ambientcg.com/a/Fingerprints008",
+      "original_url": "https://ambientcg.com/get?file=Fingerprints008_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:57.037652+00:00",
+      "image": "images/auto/acg_Fingerprints008.jpg",
+      "thumb": "thumbs/auto/acg_Fingerprints008.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "e9ed30892fac82a0e8123378b6f655dffecd1f84ca538a2d863f46163a89cd39"
+    },
+    {
+      "id": "acg_Fingerprints007",
+      "name": "Fingerprints 007",
+      "label": "污渍 · Fingerprints 007",
+      "material": "污渍",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "fingerprints",
+        "smear",
+        "Fingerprints"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fingerprints007",
+      "source": "https://ambientcg.com/a/Fingerprints007",
+      "original_url": "https://ambientcg.com/get?file=Fingerprints007_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:57.933473+00:00",
+      "image": "images/auto/acg_Fingerprints007.jpg",
+      "thumb": "thumbs/auto/acg_Fingerprints007.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "940b053885407c2c7ed203fe5b8ca39bd877edc9b99bc23a3dea6c81f283e7d7"
+    },
+    {
+      "id": "acg_Fingerprints006",
+      "name": "Fingerprints 006",
+      "label": "污渍 · Fingerprints 006",
+      "material": "污渍",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "6",
+        "fingerprints",
+        "smear",
+        "Fingerprints"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fingerprints006",
+      "source": "https://ambientcg.com/a/Fingerprints006",
+      "original_url": "https://ambientcg.com/get?file=Fingerprints006_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:58.834795+00:00",
+      "image": "images/auto/acg_Fingerprints006.jpg",
+      "thumb": "thumbs/auto/acg_Fingerprints006.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "cbd92ad2c53f5f072ad73fa8f1969012f644afb3efd4aeafc4402cb741748ce8"
+    },
+    {
+      "id": "acg_Fingerprints005",
+      "name": "Fingerprints 005",
+      "label": "污渍 · Fingerprints 005",
+      "material": "污渍",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "5",
+        "fingerprints",
+        "smear",
+        "Fingerprints"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Fingerprints005",
+      "source": "https://ambientcg.com/a/Fingerprints005",
+      "original_url": "https://ambientcg.com/get?file=Fingerprints005_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:10:59.966454+00:00",
+      "image": "images/auto/acg_Fingerprints005.jpg",
+      "thumb": "thumbs/auto/acg_Fingerprints005.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "82c39e1638cedee3dfa32ca6fbd427f79e279653c94cd0a3f6f6d39a512e08a3"
+    },
+    {
+      "id": "acg_Leather032",
+      "name": "Leather 032",
+      "label": "皮革 · Leather 032",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "32",
+        "black",
+        "leather",
+        "scratched",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather032",
+      "source": "https://ambientcg.com/a/Leather032",
+      "original_url": "https://ambientcg.com/get?file=Leather032_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:01.079434+00:00",
+      "image": "images/auto/acg_Leather032.jpg",
+      "thumb": "thumbs/auto/acg_Leather032.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "601f2019f3283741cdc7f039aca1b9328540ac5e93a5de7776e0af810ac89379"
+    },
+    {
+      "id": "acg_Leather031",
+      "name": "Leather 031",
+      "label": "皮革 · Leather 031",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "31",
+        "black",
+        "leather",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather031",
+      "source": "https://ambientcg.com/a/Leather031",
+      "original_url": "https://ambientcg.com/get?file=Leather031_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:02.078160+00:00",
+      "image": "images/auto/acg_Leather031.jpg",
+      "thumb": "thumbs/auto/acg_Leather031.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "ee1312c66dd864fbef7ef8f8bcc0ee5fbd77a7fd35ac53aa9304ac1189e1f359"
+    },
+    {
+      "id": "acg_Leather030",
+      "name": "Leather 030",
+      "label": "皮革 · Leather 030",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "30",
+        "brown",
+        "dark",
+        "leather",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather030",
+      "source": "https://ambientcg.com/a/Leather030",
+      "original_url": "https://ambientcg.com/get?file=Leather030_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:03.315870+00:00",
+      "image": "images/auto/acg_Leather030.jpg",
+      "thumb": "thumbs/auto/acg_Leather030.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "f9c37a23f64152c404d0ca33e84e6537e5ad7db3af0022b20d5aef559b865e8e"
+    },
+    {
+      "id": "acg_Leather029",
+      "name": "Leather 029",
+      "label": "皮革 · Leather 029",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "29",
+        "brown",
+        "leather",
+        "light",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather029",
+      "source": "https://ambientcg.com/a/Leather029",
+      "original_url": "https://ambientcg.com/get?file=Leather029_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:04.424629+00:00",
+      "image": "images/auto/acg_Leather029.jpg",
+      "thumb": "thumbs/auto/acg_Leather029.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "a27913852c1aa7111a8bfe35a705d925819961335a78391fd7723db6da73e586"
+    },
+    {
+      "id": "acg_Leather028",
+      "name": "Leather 028",
+      "label": "皮革 · Leather 028",
+      "material": "皮革",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "28",
+        "brown",
+        "leather",
+        "Leather"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Leather028",
+      "source": "https://ambientcg.com/a/Leather028",
+      "original_url": "https://ambientcg.com/get?file=Leather028_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:05.427599+00:00",
+      "image": "images/auto/acg_Leather028.jpg",
+      "thumb": "thumbs/auto/acg_Leather028.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "7c57d49661aa7da4e34276ce997b152b886417af3945e216b9e7f52eb6862f71"
+    },
+    {
+      "id": "acg_WoodChips002",
+      "name": "Wood Chips 002",
+      "label": "木纹 · Wood Chips 002",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "chips",
+        "ground",
+        "wood",
+        "Wood Chips"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodChips002",
+      "source": "https://ambientcg.com/a/WoodChips002",
+      "original_url": "https://ambientcg.com/get?file=WoodChips002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:06.286582+00:00",
+      "image": "images/auto/acg_WoodChips002.jpg",
+      "thumb": "thumbs/auto/acg_WoodChips002.jpg",
+      "size": [
+        1024,
+        512
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "a5340478de07a3dc75f0744e2f47d5f4e3633bb92c988489c9f0d2ba126d367e"
+    },
+    {
+      "id": "acg_TreeEnd005",
+      "name": "Tree End 005",
+      "label": "木纹 · Tree End 005",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "5",
+        "cut",
+        "end",
+        "tree",
+        "wood",
+        "Tree End"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "TreeEnd005",
+      "source": "https://ambientcg.com/a/TreeEnd005",
+      "original_url": "https://ambientcg.com/get?file=TreeEnd005_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:08.277973+00:00",
+      "image": "images/auto/acg_TreeEnd005.jpg",
+      "thumb": "thumbs/auto/acg_TreeEnd005.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "85c8d5da43ba68af7e05dbfe12be89bb8aff4bc3f40c4e7ed3aee84902b2511e"
+    },
+    {
+      "id": "acg_RoofingTiles010",
+      "name": "Roofing Tiles 010",
+      "label": "瓷砖 · Roofing Tiles 010",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "10",
+        "grey",
+        "modern",
+        "roofing",
+        "tiles",
+        "white",
+        "Roofing Tiles"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "RoofingTiles010",
+      "source": "https://ambientcg.com/a/RoofingTiles010",
+      "original_url": "https://ambientcg.com/get?file=RoofingTiles010_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:09.382112+00:00",
+      "image": "images/auto/acg_RoofingTiles010.jpg",
+      "thumb": "thumbs/auto/acg_RoofingTiles010.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "3621f6e3b0f844357942dbbb41919e4611bc67b998f903da125098f562133017"
+    },
+    {
+      "id": "acg_RoofingTiles009",
+      "name": "Roofing Tiles 009",
+      "label": "瓷砖 · Roofing Tiles 009",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "9",
+        "black",
+        "modern",
+        "roofing",
+        "tiles",
+        "Roofing Tiles"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "RoofingTiles009",
+      "source": "https://ambientcg.com/a/RoofingTiles009",
+      "original_url": "https://ambientcg.com/get?file=RoofingTiles009_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:10.335028+00:00",
+      "image": "images/auto/acg_RoofingTiles009.jpg",
+      "thumb": "thumbs/auto/acg_RoofingTiles009.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "60253b3195c62d4776bf0785ccb4cb2a32366ce773e72728ca0a4335c28d09e0"
+    },
+    {
+      "id": "acg_RoofingTiles008",
+      "name": "Roofing Tiles 008",
+      "label": "瓷砖 · Roofing Tiles 008",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "brown",
+        "dirty",
+        "modern",
+        "moss",
+        "roofing",
+        "tiles",
+        "Roofing Tiles"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "RoofingTiles008",
+      "source": "https://ambientcg.com/a/RoofingTiles008",
+      "original_url": "https://ambientcg.com/get?file=RoofingTiles008_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:11.377530+00:00",
+      "image": "images/auto/acg_RoofingTiles008.jpg",
+      "thumb": "thumbs/auto/acg_RoofingTiles008.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "73a454fd0ee6c8688ff5a6676721a12f5a431908e451e7db2768a8b633b656bb"
+    },
+    {
+      "id": "acg_RoofingTiles007",
+      "name": "Roofing Tiles 007",
+      "label": "瓷砖 · Roofing Tiles 007",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "brown",
+        "dirty",
+        "modern",
+        "roofing",
+        "tiles",
+        "Roofing Tiles"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "RoofingTiles007",
+      "source": "https://ambientcg.com/a/RoofingTiles007",
+      "original_url": "https://ambientcg.com/get?file=RoofingTiles007_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:12.425104+00:00",
+      "image": "images/auto/acg_RoofingTiles007.jpg",
+      "thumb": "thumbs/auto/acg_RoofingTiles007.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "49fd8ea5c6a5ae65593387c2415aeb0962d3f590bd83dbb295f039f0b139993f"
+    },
+    {
+      "id": "acg_RoofingTiles006",
+      "name": "Roofing Tiles 006",
+      "label": "瓷砖 · Roofing Tiles 006",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "6",
+        "brown",
+        "clean",
+        "modern",
+        "roofing",
+        "tiles",
+        "Roofing Tiles"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "RoofingTiles006",
+      "source": "https://ambientcg.com/a/RoofingTiles006",
+      "original_url": "https://ambientcg.com/get?file=RoofingTiles006_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:13.370471+00:00",
+      "image": "images/auto/acg_RoofingTiles006.jpg",
+      "thumb": "thumbs/auto/acg_RoofingTiles006.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "c59a36e38b665b1923cf3b5c7aedf3f179144a376e3f72d5016927952081f334"
+    },
+    {
+      "id": "acg_AcousticFoam003",
+      "name": "Acoustic Foam 003",
+      "label": "塑料与泡沫 · Acoustic Foam 003",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "3",
+        "acoustic",
+        "dampening",
+        "foam",
+        "sound",
+        "sponge",
+        "Acoustic Foam"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "AcousticFoam003",
+      "source": "https://ambientcg.com/a/AcousticFoam003",
+      "original_url": "https://ambientcg.com/get?file=AcousticFoam003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:14.373036+00:00",
+      "image": "images/auto/acg_AcousticFoam003.jpg",
+      "thumb": "thumbs/auto/acg_AcousticFoam003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "8b1eb063909a7d4da03d238cfc5d966e42a07e689fb16a2fa3e5f4effcde560e"
+    },
+    {
+      "id": "acg_AcousticFoam002",
+      "name": "Acoustic Foam 002",
+      "label": "塑料与泡沫 · Acoustic Foam 002",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "acoustic",
+        "dampening",
+        "foam",
+        "sound",
+        "sponge",
+        "Acoustic Foam"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "AcousticFoam002",
+      "source": "https://ambientcg.com/a/AcousticFoam002",
+      "original_url": "https://ambientcg.com/get?file=AcousticFoam002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:15.315384+00:00",
+      "image": "images/auto/acg_AcousticFoam002.jpg",
+      "thumb": "thumbs/auto/acg_AcousticFoam002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "a4be17e2cfe3b8e05d086cc52b36cbe940a0e36ead67e0879aad9e57056d72fe"
+    },
+    {
+      "id": "acg_AcousticFoam001",
+      "name": "Acoustic Foam 001",
+      "label": "塑料与泡沫 · Acoustic Foam 001",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "acoustic",
+        "dampening",
+        "foam",
+        "sound",
+        "sponge",
+        "Acoustic Foam"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "AcousticFoam001",
+      "source": "https://ambientcg.com/a/AcousticFoam001",
+      "original_url": "https://ambientcg.com/get?file=AcousticFoam001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:16.807604+00:00",
+      "image": "images/auto/acg_AcousticFoam001.jpg",
+      "thumb": "thumbs/auto/acg_AcousticFoam001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "3d3e26748792276e8ee292dddd1b01ef20b56b20697013e3ebb042bd17090164"
+    },
+    {
+      "id": "acg_ChristmasTreeOrnament007",
+      "name": "Christmas Tree Ornament 007",
+      "label": "装饰纹样 · Christmas Tree Ornament 007",
+      "material": "装饰纹样",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "christmas",
+        "holidays",
+        "ornament",
+        "tree",
+        "Christmas Tree Ornament"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "ChristmasTreeOrnament007",
+      "source": "https://ambientcg.com/a/ChristmasTreeOrnament007",
+      "original_url": "https://ambientcg.com/get?file=ChristmasTreeOrnament007_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:17.681454+00:00",
+      "image": "images/auto/acg_ChristmasTreeOrnament007.jpg",
+      "thumb": "thumbs/auto/acg_ChristmasTreeOrnament007.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "ae717d554c583782b0bd507fa4f41ba7f58f6f7e01e8761e6ea9f075fb281e8a"
+    },
+    {
+      "id": "acg_Gravel021",
+      "name": "Gravel 021",
+      "label": "石材 · Gravel 021",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "21",
+        "gravel",
+        "ground",
+        "pebbles",
+        "river",
+        "rocks",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel021",
+      "source": "https://ambientcg.com/a/Gravel021",
+      "original_url": "https://ambientcg.com/get?file=Gravel021_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:19.127086+00:00",
+      "image": "images/auto/acg_Gravel021.jpg",
+      "thumb": "thumbs/auto/acg_Gravel021.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "f3230e3dffb60a2867c36e560ecb9e61dd6efed444b3823f563dd90c80e885d4"
+    },
+    {
+      "id": "acg_Gravel020",
+      "name": "Gravel 020",
+      "label": "石材 · Gravel 020",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "20",
+        "gravel",
+        "ground",
+        "pebbles",
+        "river",
+        "rocks",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel020",
+      "source": "https://ambientcg.com/a/Gravel020",
+      "original_url": "https://ambientcg.com/get?file=Gravel020_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:20.495794+00:00",
+      "image": "images/auto/acg_Gravel020.jpg",
+      "thumb": "thumbs/auto/acg_Gravel020.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "58d5aa82e7c034ad78bdd22c4888920f90f4e6042f3e4cd364be21e5b01c1c48"
+    },
+    {
+      "id": "acg_Gravel019",
+      "name": "Gravel 019",
+      "label": "石材 · Gravel 019",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "19",
+        "gravel",
+        "ground",
+        "pebbles",
+        "river",
+        "rocks",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel019",
+      "source": "https://ambientcg.com/a/Gravel019",
+      "original_url": "https://ambientcg.com/get?file=Gravel019_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:22.723025+00:00",
+      "image": "images/auto/acg_Gravel019.jpg",
+      "thumb": "thumbs/auto/acg_Gravel019.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "d4a88a5207eede30c7b8ccd68d3e5ba956a030a08e32d8115db4d006ccde5d60"
+    },
+    {
+      "id": "acg_Gravel018",
+      "name": "Gravel 018",
+      "label": "石材 · Gravel 018",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "18",
+        "gravel",
+        "ground",
+        "pebbles",
+        "river",
+        "rocks",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel018",
+      "source": "https://ambientcg.com/a/Gravel018",
+      "original_url": "https://ambientcg.com/get?file=Gravel018_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:24.135787+00:00",
+      "image": "images/auto/acg_Gravel018.jpg",
+      "thumb": "thumbs/auto/acg_Gravel018.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "d329b84909f828980a34e47fbbd85e6408ea5c3b816ea0539fe6ab56e98f2727"
+    },
+    {
+      "id": "acg_Gravel017",
+      "name": "Gravel 017",
+      "label": "石材 · Gravel 017",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "17",
+        "gravel",
+        "ground",
+        "pebbles",
+        "river",
+        "rocks",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel017",
+      "source": "https://ambientcg.com/a/Gravel017",
+      "original_url": "https://ambientcg.com/get?file=Gravel017_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:25.526947+00:00",
+      "image": "images/auto/acg_Gravel017.jpg",
+      "thumb": "thumbs/auto/acg_Gravel017.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "b15a195132e56892c177c2cafe6bb27e703cec6f913af0ab6a40f976177df0dc"
+    },
+    {
+      "id": "acg_Gravel016",
+      "name": "Gravel 016",
+      "label": "石材 · Gravel 016",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "16",
+        "gravel",
+        "ground",
+        "pebbles",
+        "river",
+        "rocks",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel016",
+      "source": "https://ambientcg.com/a/Gravel016",
+      "original_url": "https://ambientcg.com/get?file=Gravel016_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:27.957497+00:00",
+      "image": "images/auto/acg_Gravel016.jpg",
+      "thumb": "thumbs/auto/acg_Gravel016.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "e3983a5eb322478a22d4cedc2a35e73da98a074404df516f7d8edf6bef0e5303"
+    },
+    {
+      "id": "acg_StickSet001",
+      "name": "Stick Set 001",
+      "label": "木纹 · Stick Set 001",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "forest",
+        "set",
+        "stick",
+        "sticks",
+        "wood",
+        "Stick Set"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "StickSet001",
+      "source": "https://ambientcg.com/a/StickSet001",
+      "original_url": "https://ambientcg.com/get?file=StickSet001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:29.008714+00:00",
+      "image": "images/auto/acg_StickSet001.jpg",
+      "thumb": "thumbs/auto/acg_StickSet001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "d57acd135df94b75808f14b1ef60ac971203a513a8344573bfa7164d0af8ee15"
+    },
+    {
+      "id": "acg_Ground042",
+      "name": "Ground 042",
+      "label": "自然地面 · Ground 042",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "42",
+        "brown",
+        "dirt",
+        "ground",
+        "leaves",
+        "mud",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground042",
+      "source": "https://ambientcg.com/a/Ground042",
+      "original_url": "https://ambientcg.com/get?file=Ground042_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:30.228423+00:00",
+      "image": "images/auto/acg_Ground042.jpg",
+      "thumb": "thumbs/auto/acg_Ground042.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "57013978be129760a34f9adbc3a871a81e585f586cffcd729a25c0c468e91bb8"
+    },
+    {
+      "id": "acg_Ground041",
+      "name": "Ground 041",
+      "label": "自然地面 · Ground 041",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "41",
+        "brown",
+        "dirt",
+        "ground",
+        "leaves",
+        "mud",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground041",
+      "source": "https://ambientcg.com/a/Ground041",
+      "original_url": "https://ambientcg.com/get?file=Ground041_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:31.352410+00:00",
+      "image": "images/auto/acg_Ground041.jpg",
+      "thumb": "thumbs/auto/acg_Ground041.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "74e4cba69aba1ef2119289389772f00ee6ccf89bdb3d2817b7ddaca6d1ba835a"
+    },
+    {
+      "id": "acg_Ground040",
+      "name": "Ground 040",
+      "label": "自然地面 · Ground 040",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "40",
+        "brown",
+        "dirt",
+        "ground",
+        "leaves",
+        "mud",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground040",
+      "source": "https://ambientcg.com/a/Ground040",
+      "original_url": "https://ambientcg.com/get?file=Ground040_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:32.925358+00:00",
+      "image": "images/auto/acg_Ground040.jpg",
+      "thumb": "thumbs/auto/acg_Ground040.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "93326253aae66d60c1002d9a044a628d764a8154c307a997296073781b52c26b"
+    },
+    {
+      "id": "acg_Asphalt019",
+      "name": "Asphalt 019",
+      "label": "沥青 · Asphalt 019",
+      "material": "沥青",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "19",
+        "asphalt",
+        "damaged",
+        "road",
+        "street",
+        "Asphalt"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Asphalt019",
+      "source": "https://ambientcg.com/a/Asphalt019",
+      "original_url": "https://ambientcg.com/get?file=Asphalt019_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:35.249170+00:00",
+      "image": "images/auto/acg_Asphalt019.jpg",
+      "thumb": "thumbs/auto/acg_Asphalt019.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "1996c0080690eeadc2a7f07106341d9c2456da56baa03781617f27484beac8d6"
+    },
+    {
+      "id": "acg_Asphalt018",
+      "name": "Asphalt 018",
+      "label": "沥青 · Asphalt 018",
+      "material": "沥青",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "18",
+        "asphalt",
+        "damaged",
+        "road",
+        "street",
+        "Asphalt"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Asphalt018",
+      "source": "https://ambientcg.com/a/Asphalt018",
+      "original_url": "https://ambientcg.com/get?file=Asphalt018_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:36.266625+00:00",
+      "image": "images/auto/acg_Asphalt018.jpg",
+      "thumb": "thumbs/auto/acg_Asphalt018.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "20ad78d98a2c92731f72e058cbd976efa6dbc40c7c578c0f38e6d4a99c1ade6d"
+    },
+    {
+      "id": "acg_Asphalt017",
+      "name": "Asphalt 017",
+      "label": "沥青 · Asphalt 017",
+      "material": "沥青",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "17",
+        "asphalt",
+        "damaged",
+        "road",
+        "street",
+        "Asphalt"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Asphalt017",
+      "source": "https://ambientcg.com/a/Asphalt017",
+      "original_url": "https://ambientcg.com/get?file=Asphalt017_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:37.512688+00:00",
+      "image": "images/auto/acg_Asphalt017.jpg",
+      "thumb": "thumbs/auto/acg_Asphalt017.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "ffd6b609ec5d6ff646b13722013fe45372305004eb26ae4e3e3c51c49a1d0695"
+    },
+    {
+      "id": "acg_Asphalt016",
+      "name": "Asphalt 016",
+      "label": "沥青 · Asphalt 016",
+      "material": "沥青",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "16",
+        "asphalt",
+        "damaged",
+        "road",
+        "street",
+        "Asphalt"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Asphalt016",
+      "source": "https://ambientcg.com/a/Asphalt016",
+      "original_url": "https://ambientcg.com/get?file=Asphalt016_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:39.858259+00:00",
+      "image": "images/auto/acg_Asphalt016.jpg",
+      "thumb": "thumbs/auto/acg_Asphalt016.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "de150e6332f102fe2754940041fcaf73061e04f90d8aa64871297f6b1ee4a9ee"
+    },
+    {
+      "id": "acg_PaymentCard003",
+      "name": "Payment Card 003",
+      "label": "待分类 · Payment Card 003",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "003",
+        "3",
+        "card",
+        "credit",
+        "debit",
+        "payment",
+        "paymentcard003",
+        "Payment Card"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaymentCard003",
+      "source": "https://ambientcg.com/a/PaymentCard003",
+      "original_url": "https://ambientcg.com/get?file=PaymentCard003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:40.839776+00:00",
+      "image": "images/auto/acg_PaymentCard003.jpg",
+      "thumb": "thumbs/auto/acg_PaymentCard003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "6a84812cb7b2b6ba0785f3cc672b4584467bd2ef7ebdf05decf497601df11737"
+    },
+    {
+      "id": "acg_PaymentCard002",
+      "name": "Payment Card 002",
+      "label": "待分类 · Payment Card 002",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "card",
+        "credit",
+        "debit",
+        "payment",
+        "Payment Card"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaymentCard002",
+      "source": "https://ambientcg.com/a/PaymentCard002",
+      "original_url": "https://ambientcg.com/get?file=PaymentCard002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:41.707612+00:00",
+      "image": "images/auto/acg_PaymentCard002.jpg",
+      "thumb": "thumbs/auto/acg_PaymentCard002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "蓝色"
+      ],
+      "sha256": "ea04dd85f22e879a41b6ca01df822a1a0ded327ed8b034d7fe658f3b7ad2d964"
+    },
+    {
+      "id": "acg_PaymentCard001",
+      "name": "Payment Card 001",
+      "label": "待分类 · Payment Card 001",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "001",
+        "1",
+        "card",
+        "credit",
+        "debit",
+        "payment",
+        "paymentcard001",
+        "Payment Card"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaymentCard001",
+      "source": "https://ambientcg.com/a/PaymentCard001",
+      "original_url": "https://ambientcg.com/get?file=PaymentCard001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:42.633711+00:00",
+      "image": "images/auto/acg_PaymentCard001.jpg",
+      "thumb": "thumbs/auto/acg_PaymentCard001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "蓝色"
+      ],
+      "sha256": "846d6d9916ce9f75846e24f4e9d6ebf8b4e6a2c47c1e2f94843419e3c0d8efd1"
+    },
+    {
+      "id": "acg_Clay004",
+      "name": "Clay 004",
+      "label": "自然地面 · Clay 004",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "4",
+        "clay",
+        "grey",
+        "Clay"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Clay004",
+      "source": "https://ambientcg.com/a/Clay004",
+      "original_url": "https://ambientcg.com/get?file=Clay004_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:43.887315+00:00",
+      "image": "images/auto/acg_Clay004.jpg",
+      "thumb": "thumbs/auto/acg_Clay004.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "4239794dfe7eb6f5e7bcd517aea647621f04e532db0a37a3c251c1dac4bb2fb2"
+    },
+    {
+      "id": "acg_Clay003",
+      "name": "Clay 003",
+      "label": "自然地面 · Clay 003",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "003",
+        "3",
+        "bright",
+        "clay",
+        "clay003",
+        "orange",
+        "Clay"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Clay003",
+      "source": "https://ambientcg.com/a/Clay003",
+      "original_url": "https://ambientcg.com/get?file=Clay003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:45.188757+00:00",
+      "image": "images/auto/acg_Clay003.jpg",
+      "thumb": "thumbs/auto/acg_Clay003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "c5c8a257e09b2a6aedf5ee664557d27311040246aef69d32956f47db3ed088c0"
+    },
+    {
+      "id": "acg_Clay002",
+      "name": "Clay 002",
+      "label": "自然地面 · Clay 002",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "brown",
+        "clay",
+        "Clay"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Clay002",
+      "source": "https://ambientcg.com/a/Clay002",
+      "original_url": "https://ambientcg.com/get?file=Clay002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:46.113799+00:00",
+      "image": "images/auto/acg_Clay002.jpg",
+      "thumb": "thumbs/auto/acg_Clay002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "ac952e39e4ae9143aac4e7081c0e7e10afc7e59682d66e899626f7136dd7c9de"
+    },
+    {
+      "id": "acg_Clay001",
+      "name": "Clay 001",
+      "label": "自然地面 · Clay 001",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "brown",
+        "clay",
+        "Clay"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Clay001",
+      "source": "https://ambientcg.com/a/Clay001",
+      "original_url": "https://ambientcg.com/get?file=Clay001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:47.102991+00:00",
+      "image": "images/auto/acg_Clay001.jpg",
+      "thumb": "thumbs/auto/acg_Clay001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "688181fdb563bcbe1af994c16641fb968bead1b9fee2aa5a9c4b28b8bfb0103b"
+    },
+    {
+      "id": "acg_Bark011",
+      "name": "Bark 011",
+      "label": "木纹 · Bark 011",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "11",
+        "bark",
+        "green",
+        "grey",
+        "moss",
+        "Bark"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Bark011",
+      "source": "https://ambientcg.com/a/Bark011",
+      "original_url": "https://ambientcg.com/get?file=Bark011_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:48.826923+00:00",
+      "image": "images/auto/acg_Bark011.jpg",
+      "thumb": "thumbs/auto/acg_Bark011.jpg",
+      "size": [
+        512,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "9158bb7d586cc064d541f79b02645eb2d63f0e93bd41e72820942a8bc0c6e524"
+    },
+    {
+      "id": "acg_Rocks023",
+      "name": "Rocks 023",
+      "label": "石材 · Rocks 023",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "23",
+        "irregular",
+        "paving",
+        "pebbles",
+        "rocks",
+        "round",
+        "uneven",
+        "Rocks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Rocks023",
+      "source": "https://ambientcg.com/a/Rocks023",
+      "original_url": "https://ambientcg.com/get?file=Rocks023_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:49.839092+00:00",
+      "image": "images/auto/acg_Rocks023.jpg",
+      "thumb": "thumbs/auto/acg_Rocks023.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "2b38924404f3832a0700716fadc99944265831b1cb78674bb3185a3b30c2fddc"
+    },
+    {
+      "id": "acg_Moss004",
+      "name": "Moss 004",
+      "label": "待分类 · Moss 004",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "4",
+        "green",
+        "moss",
+        "mossy",
+        "Moss"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Moss004",
+      "source": "https://ambientcg.com/a/Moss004",
+      "original_url": "https://ambientcg.com/get?file=Moss004_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:50.898373+00:00",
+      "image": "images/auto/acg_Moss004.jpg",
+      "thumb": "thumbs/auto/acg_Moss004.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "2c8d9aabb0c7c697e78c110de07b8583f7102b1d878850a998495762897e53da"
+    },
+    {
+      "id": "acg_Moss003",
+      "name": "Moss 003",
+      "label": "待分类 · Moss 003",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "3",
+        "green",
+        "moss",
+        "mossy",
+        "Moss"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Moss003",
+      "source": "https://ambientcg.com/a/Moss003",
+      "original_url": "https://ambientcg.com/get?file=Moss003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:51.855666+00:00",
+      "image": "images/auto/acg_Moss003.jpg",
+      "thumb": "thumbs/auto/acg_Moss003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "23f1df1fec0f76b6eec483e2bae9f60bf1c14b0cec7dfabab16d226cae8cd474"
+    },
+    {
+      "id": "acg_Moss002",
+      "name": "Moss 002",
+      "label": "待分类 · Moss 002",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "green",
+        "moss",
+        "mossy",
+        "Moss"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Moss002",
+      "source": "https://ambientcg.com/a/Moss002",
+      "original_url": "https://ambientcg.com/get?file=Moss002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:52.910864+00:00",
+      "image": "images/auto/acg_Moss002.jpg",
+      "thumb": "thumbs/auto/acg_Moss002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "312506c2ea4cc474273dbabbf6287f1b60ec104ce0f8fbbbfa5a6e76d48d7edc"
+    },
+    {
+      "id": "acg_Plastic011",
+      "name": "Plastic 011",
+      "label": "塑料与泡沫 · Plastic 011",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "11",
+        "grey",
+        "plastic",
+        "smooth",
+        "Plastic"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Plastic011",
+      "source": "https://ambientcg.com/a/Plastic011",
+      "original_url": "https://ambientcg.com/get?file=Plastic011_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:53.823497+00:00",
+      "image": "images/auto/acg_Plastic011.jpg",
+      "thumb": "thumbs/auto/acg_Plastic011.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "83db240e591be524ccfb7f8a20b1163d72041adad362483ea61ca3c17de56474"
+    },
+    {
+      "id": "acg_Plastic010",
+      "name": "Plastic 010",
+      "label": "塑料与泡沫 · Plastic 010",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "10",
+        "plastic",
+        "smooth",
+        "white",
+        "Plastic"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Plastic010",
+      "source": "https://ambientcg.com/a/Plastic010",
+      "original_url": "https://ambientcg.com/get?file=Plastic010_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:55.046011+00:00",
+      "image": "images/auto/acg_Plastic010.jpg",
+      "thumb": "thumbs/auto/acg_Plastic010.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "4a91d8a74184acb5e84fb9ddbfbc12c49102864157c91e2b3b5950133ef05e06"
+    },
+    {
+      "id": "acg_Plastic009",
+      "name": "Plastic 009",
+      "label": "塑料与泡沫 · Plastic 009",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "9",
+        "dark",
+        "green",
+        "plastic",
+        "smooth",
+        "Plastic"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Plastic009",
+      "source": "https://ambientcg.com/a/Plastic009",
+      "original_url": "https://ambientcg.com/get?file=Plastic009_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:56.194713+00:00",
+      "image": "images/auto/acg_Plastic009.jpg",
+      "thumb": "thumbs/auto/acg_Plastic009.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "fe7876a703452f8c935a98353e675540eb28e2b41479c8add43fc75e231754e7"
+    },
+    {
+      "id": "acg_Plastic008",
+      "name": "Plastic 008",
+      "label": "塑料与泡沫 · Plastic 008",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "blue",
+        "plastic",
+        "smooth",
+        "Plastic"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Plastic008",
+      "source": "https://ambientcg.com/a/Plastic008",
+      "original_url": "https://ambientcg.com/get?file=Plastic008_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:57.121831+00:00",
+      "image": "images/auto/acg_Plastic008.jpg",
+      "thumb": "thumbs/auto/acg_Plastic008.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "蓝色"
+      ],
+      "sha256": "8937cf152bdc6bad74eaea0dd0924280c0ee5a0f28c8df4b7f1c804d9681d421"
+    },
+    {
+      "id": "acg_Plastic007",
+      "name": "Plastic 007",
+      "label": "塑料与泡沫 · Plastic 007",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "plastic",
+        "red",
+        "smooth",
+        "Plastic"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Plastic007",
+      "source": "https://ambientcg.com/a/Plastic007",
+      "original_url": "https://ambientcg.com/get?file=Plastic007_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:58.025303+00:00",
+      "image": "images/auto/acg_Plastic007.jpg",
+      "thumb": "thumbs/auto/acg_Plastic007.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "c0bc1477bf5c3c64e3b7919a7b5313890c0509ffa6861c22c96591c3d367afff"
+    },
+    {
+      "id": "acg_Plastic006",
+      "name": "Plastic 006",
+      "label": "塑料与泡沫 · Plastic 006",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "6",
+        "black",
+        "plastic",
+        "shiny",
+        "smooth",
+        "Plastic"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Plastic006",
+      "source": "https://ambientcg.com/a/Plastic006",
+      "original_url": "https://ambientcg.com/get?file=Plastic006_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:11:58.901219+00:00",
+      "image": "images/auto/acg_Plastic006.jpg",
+      "thumb": "thumbs/auto/acg_Plastic006.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黑色"
+      ],
+      "sha256": "965d1fdc1b89e95d144dcd11f605734c01c245926793f09094aac97104ae42be"
+    },
+    {
+      "id": "acg_Planks022",
+      "name": "Planks 022",
+      "label": "木纹 · Planks 022",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "22",
+        "dirt",
+        "dust",
+        "green",
+        "planks",
+        "Planks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Planks022",
+      "source": "https://ambientcg.com/a/Planks022",
+      "original_url": "https://ambientcg.com/get?file=Planks022_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:00.304215+00:00",
+      "image": "images/auto/acg_Planks022.jpg",
+      "thumb": "thumbs/auto/acg_Planks022.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "32ef0d1cbad66c93d1fc400fed0dbd54773c226cfb3060d3b7b2f4471e30c09b"
+    },
+    {
+      "id": "acg_Moss001",
+      "name": "Moss 001",
+      "label": "自然地面 · Moss 001",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "ground",
+        "moss",
+        "mossy",
+        "Moss"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Moss001",
+      "source": "https://ambientcg.com/a/Moss001",
+      "original_url": "https://ambientcg.com/get?file=Moss001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:01.412099+00:00",
+      "image": "images/auto/acg_Moss001.jpg",
+      "thumb": "thumbs/auto/acg_Moss001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "cbea8a60833b60f8bdc3073e48ba9d3963efe35dc5cca9c4d47a5a6874c6f898"
+    },
+    {
+      "id": "acg_Ground039",
+      "name": "Ground 039",
+      "label": "石材 · Ground 039",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "39",
+        "dirt",
+        "gravel",
+        "ground",
+        "pebbles",
+        "soil",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground039",
+      "source": "https://ambientcg.com/a/Ground039",
+      "original_url": "https://ambientcg.com/get?file=Ground039_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:02.439163+00:00",
+      "image": "images/auto/acg_Ground039.jpg",
+      "thumb": "thumbs/auto/acg_Ground039.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "d1e94dfb3fe5da727ce7bb85878c9771e53bd8d3d489c1a806bd72ea9196e0a7"
+    },
+    {
+      "id": "acg_MetalPlates009",
+      "name": "Metal Plates 009",
+      "label": "金属 · Metal Plates 009",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "9",
+        "decoration",
+        "design",
+        "metal",
+        "plates",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates009",
+      "source": "https://ambientcg.com/a/MetalPlates009",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates009_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:03.325356+00:00",
+      "image": "images/auto/acg_MetalPlates009.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates009.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "051844ebb8b27b484245f04f474f646d770ab3da6b1681f08fe0709e0518614c"
+    },
+    {
+      "id": "acg_MetalPlates008",
+      "name": "Metal Plates 008",
+      "label": "金属 · Metal Plates 008",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "decoration",
+        "design",
+        "metal",
+        "plates",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates008",
+      "source": "https://ambientcg.com/a/MetalPlates008",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates008_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:04.193216+00:00",
+      "image": "images/auto/acg_MetalPlates008.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates008.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "85e0344c31401900fb25175bce71ed599a116fea0e7b6f01fbe8ce2c99815f1b"
+    },
+    {
+      "id": "acg_MetalPlates007",
+      "name": "Metal Plates 007",
+      "label": "金属 · Metal Plates 007",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "decoration",
+        "design",
+        "metal",
+        "plates",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates007",
+      "source": "https://ambientcg.com/a/MetalPlates007",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates007_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:06.017141+00:00",
+      "image": "images/auto/acg_MetalPlates007.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates007.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "a3e2abc8abbebdab1b196497a111613340cea846d2806e4d940faa3b6edc0b95"
+    },
+    {
+      "id": "acg_MetalPlates006",
+      "name": "Metal Plates 006",
+      "label": "金属 · Metal Plates 006",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "6",
+        "decoration",
+        "design",
+        "metal",
+        "plates",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates006",
+      "source": "https://ambientcg.com/a/MetalPlates006",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates006_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:06.945860+00:00",
+      "image": "images/auto/acg_MetalPlates006.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates006.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "08478c9e8ae9fe42c9f1378fd5259f4839cd31788a4716a523853324ef40e714"
+    },
+    {
+      "id": "acg_MetalPlates005",
+      "name": "Metal Plates 005",
+      "label": "金属 · Metal Plates 005",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "5",
+        "decoration",
+        "design",
+        "metal",
+        "plates",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates005",
+      "source": "https://ambientcg.com/a/MetalPlates005",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates005_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:07.791340+00:00",
+      "image": "images/auto/acg_MetalPlates005.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates005.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "6cc5ff98ed04ed1ddce67dbeed22f277c8da8a6ffb7ee082ce3306a767c95956"
+    },
+    {
+      "id": "acg_MetalPlates004",
+      "name": "Metal Plates 004",
+      "label": "金属 · Metal Plates 004",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "4",
+        "decoration",
+        "design",
+        "metal",
+        "plates",
+        "Metal Plates"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "MetalPlates004",
+      "source": "https://ambientcg.com/a/MetalPlates004",
+      "original_url": "https://ambientcg.com/get?file=MetalPlates004_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:08.639218+00:00",
+      "image": "images/auto/acg_MetalPlates004.jpg",
+      "thumb": "thumbs/auto/acg_MetalPlates004.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "e46db24115b397108a168063c1f4e7c12cfa081c7d53d1b53317ab0a405413bb"
+    },
+    {
+      "id": "acg_Rocks022",
+      "name": "Rocks 022",
+      "label": "石材 · Rocks 022",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "22",
+        "gravel",
+        "pebble",
+        "pebbles",
+        "rocks",
+        "small",
+        "stone",
+        "Rocks"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Rocks022",
+      "source": "https://ambientcg.com/a/Rocks022",
+      "original_url": "https://ambientcg.com/get?file=Rocks022_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:09.760299+00:00",
+      "image": "images/auto/acg_Rocks022.jpg",
+      "thumb": "thumbs/auto/acg_Rocks022.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "7881a47286ac4f8d65db2574798de789b7678abc1a1344f94dc09ea943e81b57"
+    },
+    {
+      "id": "acg_Gravel015",
+      "name": "Gravel 015",
+      "label": "石材 · Gravel 015",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "15",
+        "dirt",
+        "forest",
+        "gravel",
+        "ground",
+        "pebbles",
+        "rocky",
+        "stones",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel015",
+      "source": "https://ambientcg.com/a/Gravel015",
+      "original_url": "https://ambientcg.com/get?file=Gravel015_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:11.589337+00:00",
+      "image": "images/auto/acg_Gravel015.jpg",
+      "thumb": "thumbs/auto/acg_Gravel015.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "1789698ffa23113f49d1c641acde29e32c6a796831ae12b78c371445b99c7d83"
+    },
+    {
+      "id": "acg_Ground038",
+      "name": "Ground 038",
+      "label": "自然地面 · Ground 038",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "38",
+        "branches",
+        "dirt",
+        "forest",
+        "ground",
+        "leaves",
+        "sticks",
+        "Ground"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Ground038",
+      "source": "https://ambientcg.com/a/Ground038",
+      "original_url": "https://ambientcg.com/get?file=Ground038_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:12.702504+00:00",
+      "image": "images/auto/acg_Ground038.jpg",
+      "thumb": "thumbs/auto/acg_Ground038.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "4cf3da5f6a5249d0d9ab0862e43db7263948da30fb2ac161acb955afd7ac0dac"
+    },
+    {
+      "id": "acg_PaintedPlaster016",
+      "name": "Painted Plaster 016",
+      "label": "砖墙 · Painted Plaster 016",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "16",
+        "bricks",
+        "broken",
+        "old",
+        "paint",
+        "painted",
+        "plaster",
+        "wall",
+        "white",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster016",
+      "source": "https://ambientcg.com/a/PaintedPlaster016",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster016_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:13.677471+00:00",
+      "image": "images/auto/acg_PaintedPlaster016.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster016.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "90036ce402221a4abdd0e2ea81146349fa44714f732107973dac9ae895e0db95"
+    },
+    {
+      "id": "acg_PaintedPlaster015",
+      "name": "Painted Plaster 015",
+      "label": "砖墙 · Painted Plaster 015",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "15",
+        "bricks",
+        "broken",
+        "old",
+        "paint",
+        "painted",
+        "plaster",
+        "wall",
+        "white",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster015",
+      "source": "https://ambientcg.com/a/PaintedPlaster015",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster015_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:14.688321+00:00",
+      "image": "images/auto/acg_PaintedPlaster015.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster015.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "f6f3cbf0b8d65380d06784d26b2cc296414cbe7b5dda53dcd30ca56780633df1"
+    },
+    {
+      "id": "acg_PaintedPlaster014",
+      "name": "Painted Plaster 014",
+      "label": "砖墙 · Painted Plaster 014",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "14",
+        "bricks",
+        "broken",
+        "old",
+        "paint",
+        "painted",
+        "plaster",
+        "wall",
+        "white",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster014",
+      "source": "https://ambientcg.com/a/PaintedPlaster014",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster014_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:15.684654+00:00",
+      "image": "images/auto/acg_PaintedPlaster014.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster014.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "bd861e5ca4828047db1519abfa94dadbb5e5220936be33f0ceb1d5ed2b0cea0a"
+    },
+    {
+      "id": "acg_PaintedPlaster013",
+      "name": "Painted Plaster 013",
+      "label": "砖墙 · Painted Plaster 013",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "13",
+        "bricks",
+        "broken",
+        "old",
+        "orange",
+        "paint",
+        "painted",
+        "plaster",
+        "wall",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster013",
+      "source": "https://ambientcg.com/a/PaintedPlaster013",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster013_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:16.696140+00:00",
+      "image": "images/auto/acg_PaintedPlaster013.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster013.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "c54051d1e730809a3e47b3eecfc9ced394bae24ea76160531e1698580eaa19b0"
+    },
+    {
+      "id": "acg_PaintedPlaster012",
+      "name": "Painted Plaster 012",
+      "label": "涂料 · Painted Plaster 012",
+      "material": "涂料",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "12",
+        "broken",
+        "old",
+        "paint",
+        "painted",
+        "plaster",
+        "wall",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster012",
+      "source": "https://ambientcg.com/a/PaintedPlaster012",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster012_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:17.954964+00:00",
+      "image": "images/auto/acg_PaintedPlaster012.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster012.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "a506db4532dc8024cb0497f25a0ab86051dfa15de0ecd97a6a802e2bc875d491"
+    },
+    {
+      "id": "acg_PaintedPlaster011",
+      "name": "Painted Plaster 011",
+      "label": "砖墙 · Painted Plaster 011",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "11",
+        "bricks",
+        "broken",
+        "old",
+        "paint",
+        "painted",
+        "plaster",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster011",
+      "source": "https://ambientcg.com/a/PaintedPlaster011",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster011_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:19.103307+00:00",
+      "image": "images/auto/acg_PaintedPlaster011.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster011.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "fc6e84633db3c0f556045e7ba380f09fd752bd0aa884932a66d0216496ad6ec5"
+    },
+    {
+      "id": "acg_PaintedPlaster010",
+      "name": "Painted Plaster 010",
+      "label": "砖墙 · Painted Plaster 010",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "10",
+        "bricks",
+        "broken",
+        "old",
+        "paint",
+        "painted",
+        "plaster",
+        "wall",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster010",
+      "source": "https://ambientcg.com/a/PaintedPlaster010",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster010_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:20.208400+00:00",
+      "image": "images/auto/acg_PaintedPlaster010.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster010.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "6ff7d0992856888578474b1e61758e0d9203c8b6af83d1e2d470e395cc8befb5"
+    },
+    {
+      "id": "acg_PaintedPlaster009",
+      "name": "Painted Plaster 009",
+      "label": "砖墙 · Painted Plaster 009",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "9",
+        "bricks",
+        "broken",
+        "old",
+        "paint",
+        "painted",
+        "plaster",
+        "wall",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster009",
+      "source": "https://ambientcg.com/a/PaintedPlaster009",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster009_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:21.121900+00:00",
+      "image": "images/auto/acg_PaintedPlaster009.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster009.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "米色"
+      ],
+      "sha256": "b3899efaf20b827d721c7ee51c059fe34113c4cd98aae95e8b97b223fb429203"
+    },
+    {
+      "id": "acg_PaintedPlaster008",
+      "name": "Painted Plaster 008",
+      "label": "砖墙 · Painted Plaster 008",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "blue",
+        "bricks",
+        "broken",
+        "old",
+        "paint",
+        "painted",
+        "plaster",
+        "wall",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster008",
+      "source": "https://ambientcg.com/a/PaintedPlaster008",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster008_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:22.155202+00:00",
+      "image": "images/auto/acg_PaintedPlaster008.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster008.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "802823bc4dd3bf860a70634c0f7bb53f6a8ae6739a259721978abffdc728a8a6"
+    },
+    {
+      "id": "acg_PaintedPlaster007",
+      "name": "Painted Plaster 007",
+      "label": "砖墙 · Painted Plaster 007",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "bricks",
+        "broken",
+        "old",
+        "orange",
+        "paint",
+        "painted",
+        "plaster",
+        "wall",
+        "yellow",
+        "Painted Plaster"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedPlaster007",
+      "source": "https://ambientcg.com/a/PaintedPlaster007",
+      "original_url": "https://ambientcg.com/get?file=PaintedPlaster007_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:23.193312+00:00",
+      "image": "images/auto/acg_PaintedPlaster007.jpg",
+      "thumb": "thumbs/auto/acg_PaintedPlaster007.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "93931fd25ea1739126fce0fd9da6eded402ce6dce12bba6d8c3f457e220e7c12"
+    },
+    {
+      "id": "acg_Gravel014",
+      "name": "Gravel 014",
+      "label": "石材 · Gravel 014",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "14",
+        "gravel",
+        "pebbles",
+        "rocks",
+        "sand",
+        "sandy",
+        "stones",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel014",
+      "source": "https://ambientcg.com/a/Gravel014",
+      "original_url": "https://ambientcg.com/get?file=Gravel014_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:24.552477+00:00",
+      "image": "images/auto/acg_Gravel014.jpg",
+      "thumb": "thumbs/auto/acg_Gravel014.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "7a7eb535fc0a17b76112b0fd54b7498d802ed8e677b5fa8052f5dfb5f6706418"
+    },
+    {
+      "id": "acg_Gravel013",
+      "name": "Gravel 013",
+      "label": "石材 · Gravel 013",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "13",
+        "gravel",
+        "pebbles",
+        "rocks",
+        "stones",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel013",
+      "source": "https://ambientcg.com/a/Gravel013",
+      "original_url": "https://ambientcg.com/get?file=Gravel013_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:26.568240+00:00",
+      "image": "images/auto/acg_Gravel013.jpg",
+      "thumb": "thumbs/auto/acg_Gravel013.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "3a273124fefd449ebe699817fdd8bd4b3cd053c9fac152a0db01df82ad8316a3"
+    },
+    {
+      "id": "acg_Gravel012",
+      "name": "Gravel 012",
+      "label": "石材 · Gravel 012",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "12",
+        "gravel",
+        "pebbles",
+        "rocks",
+        "stones",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel012",
+      "source": "https://ambientcg.com/a/Gravel012",
+      "original_url": "https://ambientcg.com/get?file=Gravel012_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:28.060398+00:00",
+      "image": "images/auto/acg_Gravel012.jpg",
+      "thumb": "thumbs/auto/acg_Gravel012.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "b480d08c312cf2147779e62d6316b24b405b563a5b0df9b408fbd7d23bb8c8e1"
+    },
+    {
+      "id": "acg_Gravel011",
+      "name": "Gravel 011",
+      "label": "石材 · Gravel 011",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "11",
+        "gravel",
+        "pebbles",
+        "rocks",
+        "stones",
+        "Gravel"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Gravel011",
+      "source": "https://ambientcg.com/a/Gravel011",
+      "original_url": "https://ambientcg.com/get?file=Gravel011_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:29.888811+00:00",
+      "image": "images/auto/acg_Gravel011.jpg",
+      "thumb": "thumbs/auto/acg_Gravel011.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "b59f77a0c526bc7e9a88301aaf5eb98ae7e0e665b912b1063e1310c11ec956a6"
+    },
+    {
+      "id": "acg_WoodFloor041",
+      "name": "Wood Floor 041",
+      "label": "木纹 · Wood Floor 041",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "41",
+        "floor",
+        "parquet",
+        "planks",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor041",
+      "source": "https://ambientcg.com/a/WoodFloor041",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor041_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:30.878431+00:00",
+      "image": "images/auto/acg_WoodFloor041.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor041.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "36eab3c16a56ecdd3bae9a5b187434843d05c545ac52af7f0ea4f7ff81096b84"
+    },
+    {
+      "id": "acg_WoodFloor040",
+      "name": "Wood Floor 040",
+      "label": "木纹 · Wood Floor 040",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "40",
+        "floor",
+        "parquet",
+        "planks",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor040",
+      "source": "https://ambientcg.com/a/WoodFloor040",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor040_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:31.794257+00:00",
+      "image": "images/auto/acg_WoodFloor040.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor040.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "2bf98c767ef184c0dbe0666f6a6bfdd22c637cc2816070dcb701d916cc9bcee9"
+    },
+    {
+      "id": "acg_WoodFloor039",
+      "name": "Wood Floor 039",
+      "label": "木纹 · Wood Floor 039",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "39",
+        "floor",
+        "parquet",
+        "planks",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor039",
+      "source": "https://ambientcg.com/a/WoodFloor039",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor039_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:32.685876+00:00",
+      "image": "images/auto/acg_WoodFloor039.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor039.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "8695279b2d0e544da941327fbd7dae4bc8c474c0d0d18d1420fc749baaec6bdc"
+    },
+    {
+      "id": "acg_WoodFloor038",
+      "name": "Wood Floor 038",
+      "label": "木纹 · Wood Floor 038",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "38",
+        "floor",
+        "herringbone",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor038",
+      "source": "https://ambientcg.com/a/WoodFloor038",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor038_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:34.256392+00:00",
+      "image": "images/auto/acg_WoodFloor038.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor038.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "209f25235a7e98a48c82ce1249cfef7b730f716cded9491f50376cc3d7af225c"
+    },
+    {
+      "id": "acg_WoodFloor037",
+      "name": "Wood Floor 037",
+      "label": "木纹 · Wood Floor 037",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "37",
+        "floor",
+        "herringbone",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor037",
+      "source": "https://ambientcg.com/a/WoodFloor037",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor037_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:35.304084+00:00",
+      "image": "images/auto/acg_WoodFloor037.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor037.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "799bc4e9de0ca280aa891f5a94eb3d43afd230690e6a52ea4fb2724b4543d2a3"
+    },
+    {
+      "id": "acg_WoodFloor036",
+      "name": "Wood Floor 036",
+      "label": "木纹 · Wood Floor 036",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "36",
+        "floor",
+        "herringbone",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor036",
+      "source": "https://ambientcg.com/a/WoodFloor036",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor036_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:36.254258+00:00",
+      "image": "images/auto/acg_WoodFloor036.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor036.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "f23b9280d11eb6576c6fc93df3e1116e5cc52993137523d9386ab565be238f92"
+    },
+    {
+      "id": "acg_WoodFloor035",
+      "name": "Wood Floor 035",
+      "label": "木纹 · Wood Floor 035",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "35",
+        "floor",
+        "herringbone",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor035",
+      "source": "https://ambientcg.com/a/WoodFloor035",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor035_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:37.297010+00:00",
+      "image": "images/auto/acg_WoodFloor035.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor035.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "b248fb808c9cb514b7794834aa1dd773d51420d80f4ac4c7279ab5d8cd88533f"
+    },
+    {
+      "id": "acg_WoodFloor034",
+      "name": "Wood Floor 034",
+      "label": "木纹 · Wood Floor 034",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "34",
+        "floor",
+        "herringbone",
+        "parquet",
+        "wood",
+        "Wood Floor"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "WoodFloor034",
+      "source": "https://ambientcg.com/a/WoodFloor034",
+      "original_url": "https://ambientcg.com/get?file=WoodFloor034_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:38.252133+00:00",
+      "image": "images/auto/acg_WoodFloor034.jpg",
+      "thumb": "thumbs/auto/acg_WoodFloor034.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "496e086ef2612541687cfcbd49681653d6c2c4ce1f7170707800c0969f801eae"
+    },
+    {
+      "id": "acg_TreeEnd004",
+      "name": "Tree End 004",
+      "label": "木纹 · Tree End 004",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "4",
+        "end",
+        "log",
+        "tree",
+        "wood",
+        "Tree End"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "TreeEnd004",
+      "source": "https://ambientcg.com/a/TreeEnd004",
+      "original_url": "https://ambientcg.com/get?file=TreeEnd004_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:39.191157+00:00",
+      "image": "images/auto/acg_TreeEnd004.jpg",
+      "thumb": "thumbs/auto/acg_TreeEnd004.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "a8f619f1c746e7c1e6739c2ef00ed4113f9feca0c9248b8b2b09660a2e6fa7ab"
+    },
+    {
+      "id": "acg_PaintedMetal018",
+      "name": "Painted Metal 018",
+      "label": "金属 · Painted Metal 018",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "18",
+        "aid",
+        "cross",
+        "first",
+        "metal",
+        "painted",
+        "rust",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal018",
+      "source": "https://ambientcg.com/a/PaintedMetal018",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal018_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:40.268230+00:00",
+      "image": "images/auto/acg_PaintedMetal018.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal018.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "bc8647196fd49b985e10c1a2a10995c3b77902a2ec9301fd56908915dee2f0d7"
+    },
+    {
+      "id": "acg_PaintedMetal017",
+      "name": "Painted Metal 017",
+      "label": "金属 · Painted Metal 017",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "17",
+        "danger",
+        "metal",
+        "painted",
+        "rust",
+        "sign",
+        "warning",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal017",
+      "source": "https://ambientcg.com/a/PaintedMetal017",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal017_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:41.400770+00:00",
+      "image": "images/auto/acg_PaintedMetal017.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal017.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "894fcda120dc38e48b404e242a143a1df2bacbfe6634b60da9bd0cc222391740"
+    },
+    {
+      "id": "acg_PaintedMetal016",
+      "name": "Painted Metal 016",
+      "label": "金属 · Painted Metal 016",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "16",
+        "metal",
+        "painted",
+        "rust",
+        "stripes",
+        "yellow",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal016",
+      "source": "https://ambientcg.com/a/PaintedMetal016",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal016_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:42.494855+00:00",
+      "image": "images/auto/acg_PaintedMetal016.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal016.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "5eddcfa0d2b7ba5beab8d5c2e43b893d1784a6e1911da10f3a5447082df77767"
+    },
+    {
+      "id": "acg_PaintedMetal015",
+      "name": "Painted Metal 015",
+      "label": "金属 · Painted Metal 015",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "15",
+        "metal",
+        "painted",
+        "rust",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal015",
+      "source": "https://ambientcg.com/a/PaintedMetal015",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal015_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:44.208535+00:00",
+      "image": "images/auto/acg_PaintedMetal015.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal015.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "紫色"
+      ],
+      "sha256": "e3f24214bed4c728c7e99b166e03eb336462075782afdd565ed2be4aece34654"
+    },
+    {
+      "id": "acg_PaintedMetal014",
+      "name": "Painted Metal 014",
+      "label": "金属 · Painted Metal 014",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "14",
+        "grey",
+        "metal",
+        "painted",
+        "rust",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal014",
+      "source": "https://ambientcg.com/a/PaintedMetal014",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal014_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:46.195660+00:00",
+      "image": "images/auto/acg_PaintedMetal014.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal014.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "6c1ef230f57713d88ebd078301d04862319e661fe496d24e00e26992c95be3eb"
+    },
+    {
+      "id": "acg_PaintedMetal013",
+      "name": "Painted Metal 013",
+      "label": "金属 · Painted Metal 013",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "13",
+        "metal",
+        "painted",
+        "rust",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal013",
+      "source": "https://ambientcg.com/a/PaintedMetal013",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal013_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:47.359164+00:00",
+      "image": "images/auto/acg_PaintedMetal013.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal013.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "8ec445d3baa399bd5ba294f3b9f5b70eac4632da94ed14135bb546ce3414566b"
+    },
+    {
+      "id": "acg_PaintedMetal012",
+      "name": "Painted Metal 012",
+      "label": "金属 · Painted Metal 012",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "12",
+        "metal",
+        "painted",
+        "rust",
+        "white",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal012",
+      "source": "https://ambientcg.com/a/PaintedMetal012",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal012_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:48.750997+00:00",
+      "image": "images/auto/acg_PaintedMetal012.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal012.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "白色"
+      ],
+      "sha256": "5bbf442ed1e1d9f825ed7794102f37d5a5a6e81c7cefd58c4300770c2b18339a"
+    },
+    {
+      "id": "acg_PaintedMetal011",
+      "name": "Painted Metal 011",
+      "label": "金属 · Painted Metal 011",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "11",
+        "metal",
+        "painted",
+        "rust",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal011",
+      "source": "https://ambientcg.com/a/PaintedMetal011",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal011_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:50.076690+00:00",
+      "image": "images/auto/acg_PaintedMetal011.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal011.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "c09969b2d63a592e7b192f64d5aaf418076e3d1ae5756147123195d65549b78c"
+    },
+    {
+      "id": "acg_PaintedMetal010",
+      "name": "Painted Metal 010",
+      "label": "金属 · Painted Metal 010",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "10",
+        "metal",
+        "painted",
+        "rust",
+        "white",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal010",
+      "source": "https://ambientcg.com/a/PaintedMetal010",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal010_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:51.015891+00:00",
+      "image": "images/auto/acg_PaintedMetal010.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal010.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "白色"
+      ],
+      "sha256": "cbaed6364c8984c678865d1184a0c7fbd526a1cbd4f56b0a374f738f086d37f6"
+    },
+    {
+      "id": "acg_PaintedMetal009",
+      "name": "Painted Metal 009",
+      "label": "金属 · Painted Metal 009",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "9",
+        "metal",
+        "painted",
+        "rust",
+        "yellow",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal009",
+      "source": "https://ambientcg.com/a/PaintedMetal009",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal009_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:52.407384+00:00",
+      "image": "images/auto/acg_PaintedMetal009.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal009.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "02bfeb8810e6c9c99ac87051f6975c500c54932af5f6a2588744a776ae5d2325"
+    },
+    {
+      "id": "acg_PaintedMetal008",
+      "name": "Painted Metal 008",
+      "label": "金属 · Painted Metal 008",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "8",
+        "metal",
+        "orange",
+        "painted",
+        "rust",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal008",
+      "source": "https://ambientcg.com/a/PaintedMetal008",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal008_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:53.954600+00:00",
+      "image": "images/auto/acg_PaintedMetal008.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal008.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "45ed7436f178336c1e40eecd694dc99197256af399a37c8fefb6698a09259416"
+    },
+    {
+      "id": "acg_PaintedMetal007",
+      "name": "Painted Metal 007",
+      "label": "金属 · Painted Metal 007",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "7",
+        "blue",
+        "metal",
+        "painted",
+        "rust",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal007",
+      "source": "https://ambientcg.com/a/PaintedMetal007",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal007_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:55.450634+00:00",
+      "image": "images/auto/acg_PaintedMetal007.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal007.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "蓝色"
+      ],
+      "sha256": "5ee70e53f45cfc6a8c5c42ca62d10027af277a30ee2ec650a29afc4da0c8eb73"
+    },
+    {
+      "id": "acg_PaintedMetal006",
+      "name": "Painted Metal 006",
+      "label": "金属 · Painted Metal 006",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "6",
+        "green",
+        "metal",
+        "painted",
+        "rust",
+        "Painted Metal"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "PaintedMetal006",
+      "source": "https://ambientcg.com/a/PaintedMetal006",
+      "original_url": "https://ambientcg.com/get?file=PaintedMetal006_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:56.596392+00:00",
+      "image": "images/auto/acg_PaintedMetal006.jpg",
+      "thumb": "thumbs/auto/acg_PaintedMetal006.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "e9d43d47042bdd345d2be639d710459ce15cd75df6f1c0ea08f83f4642ca1551"
+    },
+    {
+      "id": "acg_Sponge003",
+      "name": "Sponge 003",
+      "label": "待分类 · Sponge 003",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "3",
+        "green",
+        "sponge",
+        "Sponge"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sponge003",
+      "source": "https://ambientcg.com/a/Sponge003",
+      "original_url": "https://ambientcg.com/get?file=Sponge003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:57.591770+00:00",
+      "image": "images/auto/acg_Sponge003.jpg",
+      "thumb": "thumbs/auto/acg_Sponge003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "绿色"
+      ],
+      "sha256": "8d736618b206975902da8ef51d6de36bdbcf90e11739042a5a02d84813e3f489"
+    },
+    {
+      "id": "acg_Sponge002",
+      "name": "Sponge 002",
+      "label": "待分类 · Sponge 002",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "dirty",
+        "sponge",
+        "yellow",
+        "Sponge"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sponge002",
+      "source": "https://ambientcg.com/a/Sponge002",
+      "original_url": "https://ambientcg.com/get?file=Sponge002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:58.573086+00:00",
+      "image": "images/auto/acg_Sponge002.jpg",
+      "thumb": "thumbs/auto/acg_Sponge002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "2a7d307fae3e8b58762cda976fc1eb5c5e4a5210a26fb0f88dd54fa683e2bd6d"
+    },
+    {
+      "id": "acg_Sponge001",
+      "name": "Sponge 001",
+      "label": "待分类 · Sponge 001",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "sponge",
+        "yellow",
+        "Sponge"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sponge001",
+      "source": "https://ambientcg.com/a/Sponge001",
+      "original_url": "https://ambientcg.com/get?file=Sponge001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:12:59.818794+00:00",
+      "image": "images/auto/acg_Sponge001.jpg",
+      "thumb": "thumbs/auto/acg_Sponge001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "5e37b8e03a0c3e0ce3c8bf9fd6be3a75b8a0b5f7eb1665f6273a4b44d9e54552"
+    },
+    {
+      "id": "acg_Foam003",
+      "name": "Foam 003",
+      "label": "塑料与泡沫 · Foam 003",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "3",
+        "foam",
+        "ocean",
+        "sea",
+        "soap",
+        "Foam"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Foam003",
+      "source": "https://ambientcg.com/a/Foam003",
+      "original_url": "https://ambientcg.com/get?file=Foam003_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:00.799639+00:00",
+      "image": "images/auto/acg_Foam003.jpg",
+      "thumb": "thumbs/auto/acg_Foam003.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "328f86c43e2120fb2ae72006e4d1109af4a48baa9c82b4efd97e0aa7ad2964ae"
+    },
+    {
+      "id": "acg_Foam002",
+      "name": "Foam 002",
+      "label": "塑料与泡沫 · Foam 002",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "2",
+        "foam",
+        "ocean",
+        "sea",
+        "soap",
+        "Foam"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Foam002",
+      "source": "https://ambientcg.com/a/Foam002",
+      "original_url": "https://ambientcg.com/get?file=Foam002_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:01.806128+00:00",
+      "image": "images/auto/acg_Foam002.jpg",
+      "thumb": "thumbs/auto/acg_Foam002.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "5f45bfa4cce30ca634e486415f3756029cb230e1e57ccb20003641c252c97fd1"
+    },
+    {
+      "id": "acg_Foam001",
+      "name": "Foam 001",
+      "label": "塑料与泡沫 · Foam 001",
+      "material": "塑料与泡沫",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "1",
+        "foam",
+        "ocean",
+        "sea",
+        "soap",
+        "Foam"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Foam001",
+      "source": "https://ambientcg.com/a/Foam001",
+      "original_url": "https://ambientcg.com/get?file=Foam001_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:03.980529+00:00",
+      "image": "images/auto/acg_Foam001.jpg",
+      "thumb": "thumbs/auto/acg_Foam001.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "5489ccb16847f58f80b1ff37b0f06f75e8735f69180c808c2b013a819754a771"
+    },
+    {
+      "id": "acg_Sign026",
+      "name": "Sign 026",
+      "label": "待分类 · Sign 026",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "26",
+        "black",
+        "danger",
+        "irritant",
+        "orange",
+        "sign",
+        "warning",
+        "Sign"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sign026",
+      "source": "https://ambientcg.com/a/Sign026",
+      "original_url": "https://ambientcg.com/get?file=Sign026_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:04.916862+00:00",
+      "image": "images/auto/acg_Sign026.jpg",
+      "thumb": "thumbs/auto/acg_Sign026.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "93b5ee68be45e22140f1b8101aa4fbd69710df85f08847620a93540c06bce4e5"
+    },
+    {
+      "id": "acg_Sign025",
+      "name": "Sign 025",
+      "label": "待分类 · Sign 025",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "25",
+        "black",
+        "bone",
+        "bones",
+        "danger",
+        "orange",
+        "sign",
+        "skull",
+        "skulls",
+        "warning",
+        "Sign"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sign025",
+      "source": "https://ambientcg.com/a/Sign025",
+      "original_url": "https://ambientcg.com/get?file=Sign025_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:05.785242+00:00",
+      "image": "images/auto/acg_Sign025.jpg",
+      "thumb": "thumbs/auto/acg_Sign025.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "546f288150cd53d3d109a025530a3d3669ac872051777043a4d5da90b7aa072a"
+    },
+    {
+      "id": "acg_Sign024",
+      "name": "Sign 024",
+      "label": "金属 · Sign 024",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "24",
+        "black",
+        "danger",
+        "environment",
+        "fish",
+        "hazardous",
+        "orange",
+        "sign",
+        "tree",
+        "warning",
+        "Sign"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sign024",
+      "source": "https://ambientcg.com/a/Sign024",
+      "original_url": "https://ambientcg.com/get?file=Sign024_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:06.637715+00:00",
+      "image": "images/auto/acg_Sign024.jpg",
+      "thumb": "thumbs/auto/acg_Sign024.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "1d1782796a9028ea6016b9d03510be77c2f0fce659ce7d54a47478aca4ea89aa"
+    },
+    {
+      "id": "acg_Sign023",
+      "name": "Sign 023",
+      "label": "金属 · Sign 023",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "23",
+        "apocalypse",
+        "biology",
+        "danger",
+        "genetic",
+        "rust",
+        "sign",
+        "warning",
+        "yellow",
+        "Sign"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sign023",
+      "source": "https://ambientcg.com/a/Sign023",
+      "original_url": "https://ambientcg.com/get?file=Sign023_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:07.686703+00:00",
+      "image": "images/auto/acg_Sign023.jpg",
+      "thumb": "thumbs/auto/acg_Sign023.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "050ff656461b8a322e93764d9bc997fdfba968c9009827fe724f2c5af1f64927"
+    },
+    {
+      "id": "acg_Sign022",
+      "name": "Sign 022",
+      "label": "待分类 · Sign 022",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "22",
+        "bone",
+        "bones",
+        "danger",
+        "red",
+        "sign",
+        "skull",
+        "skulls",
+        "warning",
+        "white",
+        "Sign"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sign022",
+      "source": "https://ambientcg.com/a/Sign022",
+      "original_url": "https://ambientcg.com/get?file=Sign022_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:08.546327+00:00",
+      "image": "images/auto/acg_Sign022.jpg",
+      "thumb": "thumbs/auto/acg_Sign022.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "df33e3e9bd8bd2977f65e84dc5e34a258ab8c2c231949e3564983d2d9e49cc92"
+    },
+    {
+      "id": "acg_Sign021",
+      "name": "Sign 021",
+      "label": "待分类 · Sign 021",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "21",
+        "danger",
+        "exclamation",
+        "mark",
+        "red",
+        "sign",
+        "warning",
+        "white",
+        "Sign"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sign021",
+      "source": "https://ambientcg.com/a/Sign021",
+      "original_url": "https://ambientcg.com/get?file=Sign021_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:09.557867+00:00",
+      "image": "images/auto/acg_Sign021.jpg",
+      "thumb": "thumbs/auto/acg_Sign021.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "2890e94c6c2ec5fdc4c82c6852dfc6b382472b1778c3ac6ef08de5c7f411374d"
+    },
+    {
+      "id": "acg_Sign020",
+      "name": "Sign 020",
+      "label": "待分类 · Sign 020",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "20",
+        "black",
+        "crane",
+        "danger",
+        "sign",
+        "warning",
+        "yellow",
+        "Sign"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Sign020",
+      "source": "https://ambientcg.com/a/Sign020",
+      "original_url": "https://ambientcg.com/get?file=Sign020_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-02T02:13:10.417189+00:00",
+      "image": "images/auto/acg_Sign020.jpg",
+      "thumb": "thumbs/auto/acg_Sign020.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "f1ff1a566fc588899a1c47eb06684c50ddb74d8fff461c2eba844cbe5dd2c5bd"
+    },
+    {
+      "id": "ph_patterned_concrete_wall",
+      "name": "Patterned Concrete Wall",
+      "label": "混凝土 · Patterned Concrete Wall",
+      "material": "混凝土",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "concrete",
+        "wall",
+        "patterned",
+        "patterned concrete",
+        "plasterconcrete",
+        "exterior",
+        "rough",
+        "rough concrete",
+        "grooved",
+        "worn",
+        "wall",
+        "concrete",
+        "plaster-concrete"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "patterned_concrete_wall",
+      "source": "https://polyhaven.com/a/patterned_concrete_wall",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_concrete_wall/patterned_concrete_wall_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:10.892856+00:00",
+      "image": "images/auto/ph_patterned_concrete_wall.jpg",
+      "thumb": "thumbs/auto/ph_patterned_concrete_wall.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "8245aeaec13ffa924422a9d1c179e30f20e6305565626dd900c06907967fa2f7"
+    },
+    {
+      "id": "ph_wooden_gate",
+      "name": "Wooden Gate",
+      "label": "木纹 · Wooden Gate",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "wood",
+        "wooden",
+        "wooden planks",
+        "gate",
+        "varnished",
+        "planks",
+        "grain",
+        "timber",
+        "plank",
+        "wood grain",
+        "man made",
+        "wood"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "wooden_gate",
+      "source": "https://polyhaven.com/a/wooden_gate",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wooden_gate/wooden_gate_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:11.010370+00:00",
+      "image": "images/auto/ph_wooden_gate.jpg",
+      "thumb": "thumbs/auto/ph_wooden_gate.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "b9f1ead6ccad0e7c847c9fb07f67b8f29f623a57dbbeeb5f5819ab29296fef56"
+    },
+    {
+      "id": "ph_concrete_tiles_02",
+      "name": "Concrete Tiles 02",
+      "label": "瓷砖 · Concrete Tiles 02",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "concrete",
+        "rough concrete",
+        "outdoor",
+        "pavement",
+        "walkway",
+        "sidewalk texture",
+        "sidewalk",
+        "urban",
+        "outdoor flooring",
+        "pavers",
+        "outdoor walkway",
+        "floor",
+        "tiles",
+        "concrete",
+        "plaster-concrete"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "concrete_tiles_02",
+      "source": "https://polyhaven.com/a/concrete_tiles_02",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_tiles_02/concrete_tiles_02_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Charlotte Baglioni",
+      "added": "2026-11-02T02:13:11.146432+00:00",
+      "image": "images/auto/ph_concrete_tiles_02.jpg",
+      "thumb": "thumbs/auto/ph_concrete_tiles_02.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "2b0af74cd45e3e0e31ad309499929b8957eab624994e820ac39ed4c0d1022b39"
+    },
+    {
+      "id": "ph_granite_tile_03",
+      "name": "Granite Tile 03",
+      "label": "瓷砖 · Granite Tile 03",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "granite",
+        "granite tile",
+        "granite blocks",
+        "wall",
+        "urban",
+        "speckled ",
+        "slab",
+        "outdoor",
+        "stone tile",
+        "wall",
+        "tiles"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "granite_tile_03",
+      "source": "https://polyhaven.com/a/granite_tile_03",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/granite_tile_03/granite_tile_03_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Charlotte Baglioni",
+      "added": "2026-11-02T02:13:11.260399+00:00",
+      "image": "images/auto/ph_granite_tile_03.jpg",
+      "thumb": "thumbs/auto/ph_granite_tile_03.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "bdb28bea17413f1a05b0498b43e9f61f253bb72d753d3bf6b555cbf5f3c9b1b4"
+    },
+    {
+      "id": "ph_stone_pavers",
+      "name": "Stone Pavers",
+      "label": "混凝土 · Stone Pavers",
+      "material": "混凝土",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "pavers",
+        "concrete",
+        "cracked",
+        "rough",
+        "coarse",
+        "weathered",
+        "stone",
+        "stonework",
+        "timeworn",
+        "cracks",
+        "paving",
+        "floor",
+        "man made"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "stone_pavers",
+      "source": "https://polyhaven.com/a/stone_pavers",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_pavers/stone_pavers_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:11.599552+00:00",
+      "image": "images/auto/ph_stone_pavers.jpg",
+      "thumb": "thumbs/auto/ph_stone_pavers.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "1e13349b9b6f956ba6ec8bf5443addde1ad31813879bf646918e7943684bba25"
+    },
+    {
+      "id": "ph_brick_wall_12",
+      "name": "Brick Wall 12",
+      "label": "砖墙 · Brick Wall 12",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "rough",
+        "brick",
+        "wall",
+        "brick wall",
+        "coarse",
+        "outdoor",
+        "walling",
+        "masonry",
+        "bricks",
+        "exterior",
+        "wall",
+        "brick"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "brick_wall_12",
+      "source": "https://polyhaven.com/a/brick_wall_12",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brick_wall_12/brick_wall_12_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:11.889228+00:00",
+      "image": "images/auto/ph_brick_wall_12.jpg",
+      "thumb": "thumbs/auto/ph_brick_wall_12.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "91b76b1542ef8f65636e656ced4ddf7f678dcac339e33dce097c9a22f19517d0"
+    },
+    {
+      "id": "ph_herringbone_brick_02",
+      "name": "Herringbone Brick 02",
+      "label": "砖墙 · Herringbone Brick 02",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "brick",
+        "bricks",
+        "interlocking bricks",
+        "paving",
+        "street",
+        "herringbone",
+        "herringbone pattern",
+        "pavement",
+        "outdoor flooring",
+        "sidewalk",
+        "patterned",
+        "floor",
+        "brick"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "herringbone_brick_02",
+      "source": "https://polyhaven.com/a/herringbone_brick_02",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/herringbone_brick_02/herringbone_brick_02_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Charlotte Baglioni",
+      "added": "2026-11-02T02:13:11.999400+00:00",
+      "image": "images/auto/ph_herringbone_brick_02.jpg",
+      "thumb": "thumbs/auto/ph_herringbone_brick_02.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "f1d913d47307604ca9b97645d75b78fa7b4d967acedebfdf10e07fb084e0767a"
+    },
+    {
+      "id": "ph_rocky_terrain_03",
+      "name": "Rocky Terrain 03",
+      "label": "石材 · Rocky Terrain 03",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "rocks",
+        "aerial",
+        "terrain",
+        "landscape",
+        "natural landscape",
+        "nature",
+        "boulders",
+        "landform",
+        "scenic",
+        "uneven terrain",
+        "wilderness",
+        "mountainside",
+        "greenery",
+        "rocky",
+        "ground",
+        "earth",
+        "nature scene",
+        "outdoor",
+        "natural",
+        "rock",
+        "aerial",
+        "terrain"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "rocky_terrain_03",
+      "source": "https://polyhaven.com/a/rocky_terrain_03",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_terrain_03/rocky_terrain_03_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:12.118781+00:00",
+      "image": "images/auto/ph_rocky_terrain_03.jpg",
+      "thumb": "thumbs/auto/ph_rocky_terrain_03.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "b709a65f0881010ab8e4bef10a86948534bcf59b0d84eda3cc46950a6f4f8365"
+    },
+    {
+      "id": "ph_asbestos_sheet_02",
+      "name": "Asbestos Sheet 02",
+      "label": "待分类 · Asbestos Sheet 02",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "asbestos",
+        "sheet",
+        "asbestos sheet",
+        "corrugated",
+        "dirty",
+        "fireresistant",
+        "building material",
+        "durable",
+        "wall",
+        "man made"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "asbestos_sheet_02",
+      "source": "https://polyhaven.com/a/asbestos_sheet_02",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asbestos_sheet_02/asbestos_sheet_02_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:12.259423+00:00",
+      "image": "images/auto/ph_asbestos_sheet_02.jpg",
+      "thumb": "thumbs/auto/ph_asbestos_sheet_02.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "f7a14660ccd9a6dbe768a0c32055d545a69d8aecd0a1801d64280d01a77be174"
+    },
+    {
+      "id": "ph_brick_wall_13",
+      "name": "Brick Wall 13",
+      "label": "砖墙 · Brick Wall 13",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "rough",
+        "old",
+        "discolored",
+        "brick",
+        "bricks",
+        "brick wall",
+        "walling",
+        "wall",
+        "wall",
+        "brick",
+        "indoor"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "brick_wall_13",
+      "source": "https://polyhaven.com/a/brick_wall_13",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brick_wall_13/brick_wall_13_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Rob Tuytel",
+      "added": "2026-11-02T02:13:12.377772+00:00",
+      "image": "images/auto/ph_brick_wall_13.jpg",
+      "thumb": "thumbs/auto/ph_brick_wall_13.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "8ea6dc05692e57f5601a14a192795cb5fb22f4547ec0fe7a0621b20591d06b1a"
+    },
+    {
+      "id": "ph_asbestos_sheet",
+      "name": "Asbestos Sheet",
+      "label": "待分类 · Asbestos Sheet",
+      "material": "待分类",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "asbestos",
+        "corrugated",
+        "dirty",
+        "sheet",
+        "corrugation",
+        "industrial",
+        "material",
+        "fireresistant",
+        "wall",
+        "man made"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "asbestos_sheet",
+      "source": "https://polyhaven.com/a/asbestos_sheet",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asbestos_sheet/asbestos_sheet_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:12.496748+00:00",
+      "image": "images/auto/ph_asbestos_sheet.jpg",
+      "thumb": "thumbs/auto/ph_asbestos_sheet.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "5be31323c851a14523aaae7285793b7b42df8e32bb066789cbf315921f60f3ef"
+    },
+    {
+      "id": "ph_granite_wall",
+      "name": "Granite Wall",
+      "label": "石材 · Granite Wall",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "granite",
+        "granite blocks",
+        "rough",
+        "coarse",
+        "uneven",
+        "wall",
+        "monument",
+        "fortress walls",
+        "stonework",
+        "architecture",
+        "ancient walls",
+        "wall",
+        "outdoor"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "granite_wall",
+      "source": "https://polyhaven.com/a/granite_wall",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/granite_wall/granite_wall_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:12.618669+00:00",
+      "image": "images/auto/ph_granite_wall.jpg",
+      "thumb": "thumbs/auto/ph_granite_wall.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "a971fd7ad16322fb8731cfacb593224ceca24dd2eaf77724a5a84a1de50d17f1"
+    },
+    {
+      "id": "ph_grey_cartago_01",
+      "name": "Grey Cartago 01",
+      "label": "大理石 · Grey Cartago 01",
+      "material": "大理石",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "rock",
+        "tiles",
+        "marble",
+        "flooring",
+        "cartago",
+        "smooth",
+        "stone",
+        "stone tile",
+        "granite tile",
+        "floor",
+        "tiles"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "grey_cartago_01",
+      "source": "https://polyhaven.com/a/grey_cartago_01",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_01/grey_cartago_01_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Lucas Sánchez Ros, Jenelle van Heerden",
+      "added": "2026-11-02T02:13:12.741335+00:00",
+      "image": "images/auto/ph_grey_cartago_01.jpg",
+      "thumb": "thumbs/auto/ph_grey_cartago_01.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "850a297569e17d41bc978341767a775c8f4950c6e020ed27a0078cca956189fc"
+    },
+    {
+      "id": "ph_stone_embedded_tiles",
+      "name": "Stone Embedded Tiles",
+      "label": "瓷砖 · Stone Embedded Tiles",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "tiles",
+        "outdoor",
+        "embedded pebble",
+        "stone embedded",
+        "mixed stone",
+        "speckled ",
+        "speckled tiles ",
+        "square tiles",
+        "floor",
+        "man made",
+        "tiles"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "stone_embedded_tiles",
+      "source": "https://polyhaven.com/a/stone_embedded_tiles",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_embedded_tiles/stone_embedded_tiles_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:12.843321+00:00",
+      "image": "images/auto/ph_stone_embedded_tiles.jpg",
+      "thumb": "thumbs/auto/ph_stone_embedded_tiles.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "4a482f3ebec2804b822ef6747dbc3e505a240cfc7ec2e61e8c32447ee7c3997e"
+    },
+    {
+      "id": "ph_rusty_painted_metal",
+      "name": "Rusty Painted Metal",
+      "label": "金属 · Rusty Painted Metal",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "weathered",
+        "worn",
+        "discolored",
+        "rough",
+        "metal sheet",
+        "rusty",
+        "rust",
+        "rusted",
+        "steel sheeting",
+        "painted",
+        "corrosion",
+        "industrial",
+        "metal",
+        "corroded metal sheet",
+        "iron",
+        "cracking paint",
+        "corrugated iron",
+        "man made",
+        "metal"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "rusty_painted_metal",
+      "source": "https://polyhaven.com/a/rusty_painted_metal",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_painted_metal/rusty_painted_metal_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:12.963180+00:00",
+      "image": "images/auto/ph_rusty_painted_metal.jpg",
+      "thumb": "thumbs/auto/ph_rusty_painted_metal.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "b086937b45c3628116a838363364a29bd3c5d2542cff906ec1d92d681ee80e15"
+    },
+    {
+      "id": "ph_roof_tiles",
+      "name": "Roof Tiles",
+      "label": "瓷砖 · Roof Tiles",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "roofing material",
+        "roof tiles",
+        "durable roofing",
+        "ceramic tiles",
+        "tiled roofing",
+        "traditional roof tiles",
+        "clay roof tiles",
+        "roofing",
+        "tile roofing",
+        "terracotta",
+        "interlocking tiles",
+        "overlapping tiles",
+        "weather-beaten",
+        "housing material",
+        "outdoor roof material",
+        "roofing",
+        "man made"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "roof_tiles",
+      "source": "https://polyhaven.com/a/roof_tiles",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/roof_tiles/roof_tiles_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Stephan Seeliger",
+      "added": "2026-11-02T02:13:13.072784+00:00",
+      "image": "images/auto/ph_roof_tiles.jpg",
+      "thumb": "thumbs/auto/ph_roof_tiles.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "红色"
+      ],
+      "sha256": "1b30c1f0a9d3f761afb1354d95b36990fc670fac5f811889af8cb2ab682c8e66"
+    },
+    {
+      "id": "ph_rubble",
+      "name": "Rubble",
+      "label": "混凝土 · Rubble",
+      "material": "混凝土",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "rubble",
+        "debris",
+        "concrete",
+        "waste",
+        "building materials",
+        "demolition",
+        "broken",
+        "crumbling",
+        "construction",
+        "plasterconcrete",
+        "construction material",
+        "structure debris",
+        "abandoned",
+        "floor",
+        "dirty",
+        "indoor"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "rubble",
+      "source": "https://polyhaven.com/a/rubble",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rubble/rubble_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:13.218097+00:00",
+      "image": "images/auto/ph_rubble.jpg",
+      "thumb": "thumbs/auto/ph_rubble.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "a656a0692138c045c9707933cf0551559b316b817e90089abf12b6ba76e5e779"
+    },
+    {
+      "id": "ph_rock_embedded_tiles",
+      "name": "Rock Embedded Tiles",
+      "label": "瓷砖 · Rock Embedded Tiles",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "rocks",
+        "rock",
+        "tiles",
+        "outdoor",
+        "city",
+        "wall",
+        "tiled wall",
+        "exterior",
+        "embedded pebble",
+        "embedded rock",
+        "wall",
+        "rock"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "rock_embedded_tiles",
+      "source": "https://polyhaven.com/a/rock_embedded_tiles",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_embedded_tiles/rock_embedded_tiles_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:13.320577+00:00",
+      "image": "images/auto/ph_rock_embedded_tiles.jpg",
+      "thumb": "thumbs/auto/ph_rock_embedded_tiles.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "99c373cfbb6ccd97da203b82c561292e7b9dbeb28488fdecac4b29239feeed56"
+    },
+    {
+      "id": "ph_mixed_brick_wall",
+      "name": "Mixed Brick Wall",
+      "label": "砖墙 · Mixed Brick Wall",
+      "material": "砖墙",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "brick",
+        "bricks",
+        "masonry",
+        "brick wall",
+        "worndown",
+        "walling",
+        "mortar",
+        "red brick",
+        "rough",
+        "weathered",
+        "old brick",
+        "worn down",
+        "mixed brick",
+        "wall",
+        "brick"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "mixed_brick_wall",
+      "source": "https://polyhaven.com/a/mixed_brick_wall",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mixed_brick_wall/mixed_brick_wall_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:13.445851+00:00",
+      "image": "images/auto/ph_mixed_brick_wall.jpg",
+      "thumb": "thumbs/auto/ph_mixed_brick_wall.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "1eb497b35a79fef16d53186e8fc2a419c2233585c15eb8900193c6a9e0dd85eb"
+    },
+    {
+      "id": "ph_rectangular_facade_tiles",
+      "name": "Rectangular Facade Tiles",
+      "label": "瓷砖 · Rectangular Facade Tiles",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "tiles",
+        "rectangular",
+        "building facade",
+        "wall",
+        "walling",
+        "urban design",
+        "exterior",
+        "concrete",
+        "aggregate",
+        "wall",
+        "tiles"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "rectangular_facade_tiles",
+      "source": "https://polyhaven.com/a/rectangular_facade_tiles",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rectangular_facade_tiles/rectangular_facade_tiles_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Charlotte Baglioni",
+      "added": "2026-11-02T02:13:13.567259+00:00",
+      "image": "images/auto/ph_rectangular_facade_tiles.jpg",
+      "thumb": "thumbs/auto/ph_rectangular_facade_tiles.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "583eafdfc03da4a74509ba545c5ea808c8bdc6e883763a804fcbe859c120afb9"
+    },
+    {
+      "id": "ph_concrete_block_wall",
+      "name": "Concrete Block Wall",
+      "label": "混凝土 · Concrete Block Wall",
+      "material": "混凝土",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "masonry",
+        "concrete",
+        "rough",
+        "coarse",
+        "exterior",
+        "blocks",
+        "outdoor",
+        "stonework",
+        "ancient walls",
+        "rough concrete",
+        "wall",
+        "man made",
+        "concrete",
+        "plaster-concrete"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "concrete_block_wall",
+      "source": "https://polyhaven.com/a/concrete_block_wall",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_block_wall/concrete_block_wall_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Charlotte Baglioni",
+      "added": "2026-11-02T02:13:13.677818+00:00",
+      "image": "images/auto/ph_concrete_block_wall.jpg",
+      "thumb": "thumbs/auto/ph_concrete_block_wall.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "cf80ccec877fc8d18e81b03479a8cd60763a51975de1735fb429af52d8e82421"
+    },
+    {
+      "id": "ph_yellow_flower_mulch",
+      "name": "Yellow Flower Mulch",
+      "label": "木纹 · Yellow Flower Mulch",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "scattered flowers",
+        "mulch",
+        "plant debris",
+        "floral debris",
+        "scattered petals",
+        "petals",
+        "mulch bed",
+        "bark",
+        "tree bark",
+        "sticks",
+        "leaf litter",
+        "wood chips",
+        "mulching",
+        "floor",
+        "bark"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "yellow_flower_mulch",
+      "source": "https://polyhaven.com/a/yellow_flower_mulch",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/yellow_flower_mulch/yellow_flower_mulch_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:13.987408+00:00",
+      "image": "images/auto/ph_yellow_flower_mulch.jpg",
+      "thumb": "thumbs/auto/ph_yellow_flower_mulch.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "5e74e9148d04237e290947bd65d7ead5a1318f4f2c6e43babd0386f1e01e9fb3"
+    },
+    {
+      "id": "ph_rock_wall_13",
+      "name": "Rock Wall 13",
+      "label": "混凝土 · Rock Wall 13",
+      "material": "混凝土",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "outdoor",
+        "weathered",
+        "weatherbeaten",
+        "concrete",
+        "rocks",
+        "rock",
+        "stone",
+        "rugged",
+        "ancient walls",
+        "fortress walls",
+        "exterior",
+        "timeworn",
+        "masonry",
+        "wall",
+        "man made",
+        "rock"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "rock_wall_13",
+      "source": "https://polyhaven.com/a/rock_wall_13",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_13/rock_wall_13_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:14.244723+00:00",
+      "image": "images/auto/ph_rock_wall_13.jpg",
+      "thumb": "thumbs/auto/ph_rock_wall_13.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "ea9def24d1e4b5d2b4486cca19dca4f139f60196f83335dc9b99410fd29fa3ea"
+    },
+    {
+      "id": "ph_rock_wall_12",
+      "name": "Rock Wall 12",
+      "label": "混凝土 · Rock Wall 12",
+      "material": "混凝土",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "rock",
+        "wall",
+        "fortress walls",
+        "exterior",
+        "weatherbeaten",
+        "dungeon",
+        "stonework",
+        "concrete",
+        "stone wall",
+        "scratched",
+        "mortar",
+        "floor",
+        "man made",
+        "rock"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "rock_wall_12",
+      "source": "https://polyhaven.com/a/rock_wall_12",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_wall_12/rock_wall_12_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:14.568516+00:00",
+      "image": "images/auto/ph_rock_wall_12.jpg",
+      "thumb": "thumbs/auto/ph_rock_wall_12.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "3e2259f3e8472fbb8742e75fafa0dbeda09e85b77b2518e769f24a7fa612f990"
+    },
+    {
+      "id": "ph_flower_scattered_gravel",
+      "name": "Flower Scattered Gravel",
+      "label": "石材 · Flower Scattered Gravel",
+      "material": "石材",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "gravel",
+        "stones",
+        "driveway gravel",
+        "gravelly ground",
+        "petals",
+        "scattered",
+        "scattered petals",
+        "jacaranda",
+        "driveway stones",
+        "scattered flowers",
+        "leaves",
+        "plant debris",
+        "floral debris",
+        "gravelly",
+        "floor",
+        "gravel"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "flower_scattered_gravel",
+      "source": "https://polyhaven.com/a/flower_scattered_gravel",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/flower_scattered_gravel/flower_scattered_gravel_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:14.711228+00:00",
+      "image": "images/auto/ph_flower_scattered_gravel.jpg",
+      "thumb": "thumbs/auto/ph_flower_scattered_gravel.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "93348b4148a069002696888eed67d0f9efacb0918dc27158aedef8eb1ba152d9"
+    },
+    {
+      "id": "ph_flower_scattered_dirt",
+      "name": "Flower Scattered Dirt",
+      "label": "自然地面 · Flower Scattered Dirt",
+      "material": "自然地面",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "dirt",
+        "dirty",
+        "ground",
+        "petals",
+        "sand",
+        "flowers",
+        "jacaranda",
+        "scattered",
+        "earth",
+        "soil",
+        "scattered flowers",
+        "scattered petals",
+        "floor",
+        "outdoor",
+        "natural",
+        "sand"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "flower_scattered_dirt",
+      "source": "https://polyhaven.com/a/flower_scattered_dirt",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/flower_scattered_dirt/flower_scattered_dirt_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:14.831659+00:00",
+      "image": "images/auto/ph_flower_scattered_dirt.jpg",
+      "thumb": "thumbs/auto/ph_flower_scattered_dirt.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "b17adb2e3c9c23eee1112c906ca478f759eeaa9ad81fbd668e9c1378f4cd4075"
+    },
+    {
+      "id": "ph_flower_scattered_asphalt",
+      "name": "Flower Scattered Asphalt",
+      "label": "沥青 · Flower Scattered Asphalt",
+      "material": "沥青",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "asphalt",
+        "asphalt road",
+        "petals",
+        "plant debris",
+        "outdoor",
+        "cracked",
+        "driveway",
+        "sticks",
+        "twigs",
+        "leaf litter",
+        "floor",
+        "asphalt"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "flower_scattered_asphalt",
+      "source": "https://polyhaven.com/a/flower_scattered_asphalt",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/flower_scattered_asphalt/flower_scattered_asphalt_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:14.960999+00:00",
+      "image": "images/auto/ph_flower_scattered_asphalt.jpg",
+      "thumb": "thumbs/auto/ph_flower_scattered_asphalt.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "5d7abd91ef16885850340e7c309a257d8f5b455599dd2a01ef1c411f0302c736"
+    },
+    {
+      "id": "ph_damaged_concrete_floor_03",
+      "name": "Damaged Concrete Floor 03",
+      "label": "混凝土 · Damaged Concrete Floor 03",
+      "material": "混凝土",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "old",
+        "damaged",
+        "chipped",
+        "concrete",
+        "floor",
+        "dilapidated",
+        "cemented floor",
+        "battered",
+        "crumbling",
+        "deteriorated",
+        "cement",
+        "timeworn",
+        "scuffed",
+        "industrial floor",
+        "abandoned",
+        "floor",
+        "concrete",
+        "plaster-concrete"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "damaged_concrete_floor_03",
+      "source": "https://polyhaven.com/a/damaged_concrete_floor_03",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/damaged_concrete_floor_03/damaged_concrete_floor_03_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:15.511915+00:00",
+      "image": "images/auto/ph_damaged_concrete_floor_03.jpg",
+      "thumb": "thumbs/auto/ph_damaged_concrete_floor_03.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "88aea039d876e505e1ec8ced5c4132cded8d813a24ecc2716417838e82170adc"
+    },
+    {
+      "id": "ph_rebar_reinforced_concrete",
+      "name": "Rebar Reinforced Concrete",
+      "label": "混凝土 · Rebar Reinforced Concrete",
+      "material": "混凝土",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "weathered",
+        "old",
+        "rebar",
+        "concrete",
+        "painted",
+        "crumbling",
+        "damaged",
+        "cement",
+        "deteriorated",
+        "industrial",
+        "construction",
+        "cracked cement",
+        "structural",
+        "urban",
+        "rough",
+        "concrete",
+        "plaster-concrete"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "rebar_reinforced_concrete",
+      "source": "https://polyhaven.com/a/rebar_reinforced_concrete",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rebar_reinforced_concrete/rebar_reinforced_concrete_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Amal Kumar",
+      "added": "2026-11-02T02:13:15.765862+00:00",
+      "image": "images/auto/ph_rebar_reinforced_concrete.jpg",
+      "thumb": "thumbs/auto/ph_rebar_reinforced_concrete.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "39a27ee0809f370d321b6d6b01580c048aadf049b9db1fd3ec400d3342779be6"
+    },
+    {
+      "id": "ph_patterned_slate_tiles",
+      "name": "Patterned Slate Tiles",
+      "label": "瓷砖 · Patterned Slate Tiles",
+      "material": "瓷砖",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "weathered",
+        "rough",
+        "tiles",
+        "slates",
+        "slate",
+        "exterior",
+        "tiled",
+        "outdoor",
+        "natural",
+        "stone",
+        "patterned",
+        "stonework",
+        "floor",
+        "man made"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "patterned_slate_tiles",
+      "source": "https://polyhaven.com/a/patterned_slate_tiles",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/patterned_slate_tiles/patterned_slate_tiles_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:15.909126+00:00",
+      "image": "images/auto/ph_patterned_slate_tiles.jpg",
+      "thumb": "thumbs/auto/ph_patterned_slate_tiles.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "灰色"
+      ],
+      "sha256": "adbd513ab1c948d2e7a1cd5154305422ededf31a0523a8fe85073781dfc03233"
+    },
+    {
+      "id": "ph_worn_shutter",
+      "name": "Worn Shutter",
+      "label": "金属 · Worn Shutter",
+      "material": "金属",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "weathered",
+        "metal sheet",
+        "metal",
+        "shutter",
+        "corrugated",
+        "metal shutter",
+        "corrugation",
+        "man made",
+        "metal"
+      ],
+      "provider": "Poly Haven",
+      "provider_key": "polyhaven",
+      "provider_asset_id": "worn_shutter",
+      "source": "https://polyhaven.com/a/worn_shutter",
+      "original_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/worn_shutter/worn_shutter_diff_1k.jpg",
+      "license": "CC0 公共领域",
+      "author": "Dimitrios Savva",
+      "added": "2026-11-02T02:13:16.014253+00:00",
+      "image": "images/auto/ph_worn_shutter.jpg",
+      "thumb": "thumbs/auto/ph_worn_shutter.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "棕色"
+      ],
+      "sha256": "1e1a84c4f2ce5d005c9c3e8860d23370e2ad6dcc4040cd972803ad700e516a08"
     }
   ]
 };

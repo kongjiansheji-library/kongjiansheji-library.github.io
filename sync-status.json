@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-01T22:56:30.664776+00:00",
-  "status": "failed",
+  "updated": "2026-11-02T02:13:27.023649+00:00",
+  "status": "ok",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
-  "added": 0,
+  "added": 281,
   "added_references": 0,
-  "auto_total": 682,
-  "asset_mb": 849.9,
-  "budget_mb": 850,
+  "auto_total": 963,
+  "asset_mb": 919.6,
+  "budget_mb": 920,
   "sources": [
     {
       "id": "ambientcg",
@@ -14,8 +14,8 @@
       "region": "国外",
       "url": "https://ambientcg.com/",
       "mode": "自动入库",
-      "state": "error",
-      "added": 0,
+      "state": "partial",
+      "added": 250,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
@@ -25,10 +25,6 @@
         {
           "asset": "Ground095C",
           "error": "list indices must be integers or slices, not str"
-        },
-        {
-          "asset": "Leather036A",
-          "error": "storage_budget_reached"
         }
       ]
     },
@@ -38,12 +34,12 @@
       "region": "国外",
       "url": "https://polyhaven.com/textures",
       "mode": "自动入库",
-      "state": "error",
-      "added": 0,
+      "state": "partial",
+      "added": 31,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
-          "asset": "patterned_concrete_wall",
+          "asset": "mixed_stone_tiles",
           "error": "storage_budget_reached"
         }
       ]
