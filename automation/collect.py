@@ -6,7 +6,7 @@ from PIL import Image
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 USER_AGENT='KongjianShejiLibrary/1.0 (+https://kongjiansheji-library.github.io/)'
 MAX_RESPONSE=30*1024*1024
-ASSET_BUDGET=850*1024*1024
+ASSET_BUDGET=920*1024*1024
 RULES=[('沥青',r'asphalt|tarmac|沥青'),('软木',r'cork|软木'),('橡胶',r'rubber|橡胶'),('塑料与泡沫',r'plastic|styrofoam|foam|塑料|泡沫'),('榻榻米',r'tatami|榻榻米'),('网绳编织',r'\bnet\b|netting|rope|网绳|编织网'),('装饰纹样',r'ornament|christmas|装饰纹样'),('食品表面',r'\bfood\b|pizza|食品'),('污渍',r'smear|污渍'),('木纹',r'wood|parquet|plank|timber|oak|walnut|bark|木纹|木地板|木饰面'),('大理石',r'marble|大理石'),('水磨石',r'terrazzo|水磨石'),('瓷砖',r'tile|ceramic|porcelain|瓷砖|地砖|墙砖|马赛克'),('砖墙',r'brick|砖墙'),('混凝土',r'concrete|cement|mortar|水泥|混凝土|砂浆'),('皮革',r'leather|皮革'),('地毯',r'carpet|地毯'),('布艺',r'fabric|textile|cloth|denim|布艺|布料|织物|丝绒|绒面|绢面'),('金属',r'metal|steel|iron|aluminium|aluminum|copper|rust|金属|钢|铝|铜'),('石材',r'stone|rock|granite|gravel|pebble|石材|岩石|花岗岩'),('涂料',r'plaster|stucco|paint|涂料|灰泥|乳胶漆|涂层'),('玻璃',r'glass|玻璃'),('墙纸',r'wallpaper|墙纸|壁纸'),('自然地面',r'ground|sand|soil|mud|grass|clay|snow|沙地|泥土|草地|黏土|粘土')]
 def classify(text):
     text=text.lower()
@@ -163,7 +163,7 @@ def run(max_new=500):
     stamp=datetime.datetime.now(datetime.timezone.utc).isoformat();status='ok' if any(x.get('state') in ['ok','partial'] and x['mode']=='自动入库' for x in reports) else 'failed'
     save('auto-data.json',{'meta':{'updated':stamp,'total':len(items)},'items':items},'AUTO_DATA')
     save('discovery-data.json',{'meta':{'updated':stamp,'total':len(references)},'items':references[-2000:]},'DISCOVERY_DATA')
-    report={'updated':stamp,'status':status,'schedule':'每天北京时间 03:23 左右；GitHub排队可能延迟','added':new,'added_references':added_refs,'auto_total':len(items),'asset_mb':round(size/1024**2,1),'budget_mb':850,'sources':reports}
+    report={'updated':stamp,'status':status,'schedule':'每天北京时间 03:23 左右；GitHub排队可能延迟','added':new,'added_references':added_refs,'auto_total':len(items),'asset_mb':round(size/1024**2,1),'budget_mb':920,'sources':reports}
     save('sync-status.json',report,'SYNC_STATUS')
     print(json.dumps(report,ensure_ascii=True),flush=True)
     if status=='failed':raise SystemExit('All automatic image providers failed; see sync-status.json')
