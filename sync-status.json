@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-02T02:13:27.023649+00:00",
+  "updated": "2026-11-03T01:42:43.941196+00:00",
   "status": "ok",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
-  "added": 281,
+  "added": 1,
   "added_references": 0,
-  "auto_total": 963,
-  "asset_mb": 919.6,
+  "auto_total": 964,
+  "asset_mb": 920.0,
   "budget_mb": 920,
   "sources": [
     {
@@ -15,7 +15,7 @@
       "url": "https://ambientcg.com/",
       "mode": "自动入库",
       "state": "partial",
-      "added": 250,
+      "added": 1,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
@@ -25,6 +25,10 @@
         {
           "asset": "Ground095C",
           "error": "list indices must be integers or slices, not str"
+        },
+        {
+          "asset": "Sign019",
+          "error": "storage_budget_reached"
         }
       ]
     },
@@ -34,8 +38,8 @@
       "region": "国外",
       "url": "https://polyhaven.com/textures",
       "mode": "自动入库",
-      "state": "partial",
-      "added": 31,
+      "state": "error",
+      "added": 0,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {

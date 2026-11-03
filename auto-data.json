@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-02T02:13:27.023649+00:00",
-    "total": 963
+    "updated": "2026-11-03T01:42:43.941196+00:00",
+    "total": 964
   },
   "items": [
     {
@@ -36239,6 +36239,40 @@
         "棕色"
       ],
       "sha256": "1e1a84c4f2ce5d005c9c3e8860d23370e2ad6dcc4040cd972803ad700e516a08"
+    },
+    {
+      "id": "acg_Bark016",
+      "name": "Bark 016",
+      "label": "木纹 · Bark 016",
+      "material": "木纹",
+      "styles": [],
+      "rooms": [],
+      "tags": [
+        "016",
+        "16",
+        "bark",
+        "bark016",
+        "mossy",
+        "Bark"
+      ],
+      "provider": "ambientCG",
+      "provider_key": "ambientcg",
+      "provider_asset_id": "Bark016",
+      "source": "https://ambientcg.com/a/Bark016",
+      "original_url": "https://ambientcg.com/get?file=Bark016_1K-JPG.zip",
+      "license": "CC0 公共领域",
+      "author": "ambientCG",
+      "added": "2026-11-03T01:42:23.348782+00:00",
+      "image": "images/auto/acg_Bark016.jpg",
+      "thumb": "thumbs/auto/acg_Bark016.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "colors": [
+        "黄色"
+      ],
+      "sha256": "e15521cfb5132ca123cdba0229d18d27f5b797d252b2e3567efb877bbed3d6a1"
     }
   ]
 }
