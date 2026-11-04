@@ -1,8 +1,8 @@
 window.SYNC_STATUS = {
-  "updated": "2026-11-03T01:42:43.941196+00:00",
-  "status": "ok",
+  "updated": "2026-11-04T00:03:16.002893+00:00",
+  "status": "failed",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
-  "added": 1,
+  "added": 0,
   "added_references": 0,
   "auto_total": 964,
   "asset_mb": 920.0,
@@ -14,8 +14,8 @@ window.SYNC_STATUS = {
       "region": "国外",
       "url": "https://ambientcg.com/",
       "mode": "自动入库",
-      "state": "partial",
-      "added": 1,
+      "state": "error",
+      "added": 0,
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
