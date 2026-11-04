@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI 材料工作台</title>
+<link rel="stylesheet" href="library.css">
+<style>
+.ai-workbench{display:block;max-width:900px;margin:2rem auto;padding:0 1rem}
+.ai-form[hidden]{display:none}.ai-form{display:grid;gap:.8rem}.ai-form textarea{min-height:7rem;width:100%;padding:.7rem}
+.ai-output{white-space:pre-wrap;overflow-wrap:anywhere}.ai-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:1rem}
+.ai-results img{width:100%;aspect-ratio:1;object-fit:cover}.ai-preview{max-width:220px}
+</style>
+</head>
+<body>
+<header><div class="head"><a href="index.html">返回材料贴图库</a></div></header>
+<main class="ai-workbench">
+<h1>AI 材料工作台</h1>
+<p id="ai-status" role="status"></p>
+<form class="ai-form" id="ai-form" hidden>
+<label>功能
+<select id="ai-mode">
+<option value="search">自然语言找贴图</option>
+<option value="similar">以图找相似材质</option>
+<option value="classify">看图补分类</option>
+<option value="brand">整理品牌材料草稿</option>
+</select>
+</label>
+<label id="ai-brand-label" hidden>品牌
+<select id="ai-brand"><option>七分甜</option><option>泰柯茶园</option><option>HONGTEA</option></select>
+</label>
+<label>需求或材料说明<textarea id="ai-text" maxlength="2600"></textarea></label>
+<label id="ai-file-label" hidden>参考图（可先裁出要找的区域）<input type="file" id="ai-file" accept="image/*"></label>
+<label id="ai-item-label" hidden>或选择图库中的待分类贴图<select id="ai-item"><option value="">请选择</option></select></label>
+<img id="ai-preview" class="ai-preview" alt="参考贴图" hidden>
+<div><button class="btn primary" id="ai-run" type="submit">运行千问</button></div>
+</form>
+<section aria-live="polite"><p class="ai-output" id="ai-output"></p><div class="ai-results" id="ai-results"></div></section>
+</main>
+<script src="data.js"></script>
+<script src="extra-data.js"></script>
+<script src="benif-data.js"></script>
+<script src="auto-data.js"></script>
+<script src="ai.js"></script>
+</body>
+</html>

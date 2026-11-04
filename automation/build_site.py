@@ -1,7 +1,7 @@
 import json,pathlib,shutil
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 OUT=ROOT/'_site';OUT.mkdir(exist_ok=True)
-names=['index.html','library.css','library.js','resources.js','auto-ui.js','auto-ui.css','README.md','.nojekyll']
+names=['ai.html','ai.js','index.html','library.css','library.js','resources.js','auto-ui.js','auto-ui.css','README.md','.nojekyll']
 names += [stem+suffix for stem in ['data','extra-data','benif-data','auto-data','discovery-data','sync-status'] for suffix in ['.js','.json']]
 for name in names:shutil.copy2(ROOT/name,OUT/name)
 assets=set()
