@@ -1,5 +1,5 @@
 window.SYNC_STATUS = {
-  "updated": "2026-11-04T00:03:16.002893+00:00",
+  "updated": "2026-11-05T00:27:52.334724+00:00",
   "status": "failed",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
   "added": 0,
@@ -19,15 +19,7 @@ window.SYNC_STATUS = {
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
-          "asset": "Ground096C",
-          "error": "list indices must be integers or slices, not str"
-        },
-        {
-          "asset": "Ground095C",
-          "error": "list indices must be integers or slices, not str"
-        },
-        {
-          "asset": "Sign019",
+          "asset": "Concrete049",
           "error": "storage_budget_reached"
         }
       ]
