@@ -1,5 +1,5 @@
 window.SYNC_STATUS = {
-  "updated": "2026-11-13T00:35:39.880195+00:00",
+  "updated": "2026-11-14T00:24:11.595499+00:00",
   "status": "failed",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
   "added": 0,
