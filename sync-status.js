@@ -1,5 +1,5 @@
 window.SYNC_STATUS = {
-  "updated": "2026-11-14T23:12:08.912026+00:00",
+  "updated": "2026-11-15T23:27:01.547841+00:00",
   "status": "failed",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
   "added": 0,
@@ -19,7 +19,7 @@ window.SYNC_STATUS = {
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
-          "asset": "Planks040",
+          "asset": "Metal064",
           "error": "storage_budget_reached"
         }
       ]
