@@ -1,5 +1,5 @@
 window.SYNC_STATUS = {
-  "updated": "2026-11-15T23:27:01.547841+00:00",
+  "updated": "2026-11-17T02:32:35.614390+00:00",
   "status": "failed",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
   "added": 0,
@@ -35,7 +35,7 @@ window.SYNC_STATUS = {
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
-          "asset": "mixed_stone_tiles",
+          "asset": "ribbed_block_wall",
           "error": "storage_budget_reached"
         }
       ]
