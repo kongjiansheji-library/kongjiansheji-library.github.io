@@ -1,9 +1,9 @@
 window.SYNC_STATUS = {
-  "updated": "2026-11-21T23:51:55.204411+00:00",
+  "updated": "2026-11-23T00:23:38.539408+00:00",
   "status": "failed",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
   "added": 0,
-  "added_references": 8,
+  "added_references": 0,
   "auto_total": 964,
   "asset_mb": 920.0,
   "budget_mb": 920,
@@ -19,7 +19,7 @@ window.SYNC_STATUS = {
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
-          "asset": "PavingStones153",
+          "asset": "Wood099",
           "error": "storage_budget_reached"
         }
       ]
@@ -126,9 +126,9 @@ window.SYNC_STATUS = {
       "region": "国内",
       "url": "https://www.58pic.com/",
       "mode": "公开线索",
-      "added": 8,
-      "state": "ok",
-      "detail": "已读取公开详情链接，未下载或转存原图"
+      "added": 0,
+      "state": "no_entries",
+      "detail": "公开页面可访问，但未提取到符合条件的贴图详情；不计作新增素材"
     },
     {
       "id": "ibaotu",
