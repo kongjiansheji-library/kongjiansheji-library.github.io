@@ -1,6 +1,6 @@
 window.DISCOVERY_DATA = {
   "meta": {
-    "updated": "2026-11-23T00:23:38.539408+00:00",
+    "updated": "2026-11-24T04:21:25.893834+00:00",
     "total": 36
   },
   "items": [
