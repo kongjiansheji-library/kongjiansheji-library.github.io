@@ -1,5 +1,5 @@
 window.SYNC_STATUS = {
-  "updated": "2026-11-24T04:21:25.893834+00:00",
+  "updated": "2026-11-25T03:06:25.936187+00:00",
   "status": "failed",
   "schedule": "每天北京时间 03:23 左右；GitHub排队可能延迟",
   "added": 0,
@@ -35,7 +35,7 @@ window.SYNC_STATUS = {
       "detail": "已检查公开API，新图自动分类；颜色标签为图像估计",
       "errors": [
         {
-          "asset": "weathered_pvc_tank",
+          "asset": "tatami_mat_borderless",
           "error": "storage_budget_reached"
         }
       ]
